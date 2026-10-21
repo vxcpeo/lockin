@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "baseline",
-  "generatedAt": "2026-10-20T16:02:09.657Z",
+  "generatedAt": "2026-10-21T16:57:47.091Z",
   "baseUrl": "http://127.0.0.1:4317/",
   "browser": {
     "executablePath": "C:\\Users\\Administrator\\AppData\\Local\\ms-playwright\\chromium-1247\\chrome-win64\\chrome.exe",
@@ -15,13 +15,13 @@
       "status": 200,
       "desktop": {
         "meta": {
-          "title": "Latchera - Lock in a discount",
+          "title": "Holdavia - Lock in a discount",
           "lang": "en",
           "h1Count": 1,
-          "bodyTextLength": 13068,
+          "bodyTextLength": 13069,
           "scrollWidth": 1440,
           "clientWidth": 1440,
-          "focusableCount": 30
+          "focusableCount": 31
         },
         "words": [
           {
@@ -129,7 +129,7 @@
             "count": 1
           },
           {
-            "word": "16:02",
+            "word": "16:57",
             "count": 1
           },
           {
@@ -181,7 +181,7 @@
             "count": 1
           },
           {
-            "word": "27",
+            "word": "28",
             "count": 1
           },
           {
@@ -1237,6 +1237,14 @@
             "count": 1
           },
           {
+            "word": "Holdavia",
+            "count": 9
+          },
+          {
+            "word": "holdavia.xyz",
+            "count": 1
+          },
+          {
             "word": "holder",
             "count": 10
           },
@@ -1366,14 +1374,6 @@
           },
           {
             "word": "Latch",
-            "count": 1
-          },
-          {
-            "word": "Latchera",
-            "count": 9
-          },
-          {
-            "word": "latchera.xyz",
             "count": 1
           },
           {
@@ -2971,12 +2971,20 @@
             "count": 1
           },
           {
-            "key": "aria-label=Latchera home",
+            "key": "aria-label=Hardware",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Holdavia home",
             "count": 1
           },
           {
             "key": "aria-label=Open the lock",
             "count": 1
+          },
+          {
+            "key": "aria-label=Paperwork",
+            "count": 2
           },
           {
             "key": "aria-label=Sections",
@@ -3039,188 +3047,191 @@
         "imageIssues": [],
         "interactiveIssues": [],
         "classTokens": [
-          "accent",
-          "accent-dark",
-          "arch-box",
-          "arch-center",
-          "arch-side",
-          "architecture",
-          "band-ink",
-          "brand",
-          "brand-mark",
-          "brand-word",
-          "burn-row",
-          "button",
-          "button-ghost",
-          "button-violet",
-          "calc-foot",
-          "calc-output",
-          "calc-row",
-          "cannot-grid",
-          "closing-image-band",
-          "closing-image-copy",
-          "closing-line",
-          "combination-grid",
-          "compare-section",
-          "comparison-head",
-          "comparison-row",
-          "comparison-table",
-          "cta-actions",
-          "cta-band",
-          "cta-inner",
-          "desktop-nav",
-          "dial-display",
-          "dial-help",
-          "dial-panel",
-          "eyebrow",
-          "field",
-          "flow-actors",
-          "flow-content",
-          "flow-diagram",
-          "flow-fees",
-          "flow-line",
-          "flow-number",
-          "flow-rail",
-          "flow-step",
-          "footer-bottom",
-          "footer-chain",
-          "footer-grid",
-          "footer-label",
-          "gauge-grid",
-          "good",
-          "header-actions",
-          "header-inner",
-          "heading-art",
-          "hero",
-          "hero-actions",
-          "hero-copy",
-          "hero-grid",
-          "hero-lede",
-          "hero-lock",
-          "hero-lock-wrap",
-          "image-band",
-          "image-caption",
-          "key-body",
-          "key-card",
-          "key-head",
-          "key-list",
-          "key-live",
-          "key-progress",
-          "keys-art",
-          "keys-grid",
-          "lead-copy",
-          "lens-box",
-          "listing-card",
-          "listing-grid",
-          "listing-lock",
-          "listing-tag",
-          "live-pill",
-          "lock-choice",
-          "lock-glyph",
-          "lock-toggle",
+          "is-on",
+          "lt-act",
+          "lt-act--fill",
+          "lt-act--line",
+          "lt-app",
+          "lt-band",
+          "lt-band-body",
+          "lt-bar",
+          "lt-burn",
+          "lt-calc",
+          "lt-calc-foot",
+          "lt-calc-row",
+          "lt-checks",
+          "lt-close-line",
+          "lt-command",
+          "lt-command-actions",
+          "lt-compare",
+          "lt-compare-head",
+          "lt-compare-row",
+          "lt-cta",
+          "lt-cta-actions",
+          "lt-cta-copy",
+          "lt-decisions",
+          "lt-dial",
+          "lt-dial-help",
+          "lt-dial-read",
+          "lt-dial-stage",
+          "lt-exclusions",
+          "lt-field",
+          "lt-finale",
+          "lt-finale-copy",
+          "lt-finale-locks",
+          "lt-fold",
+          "lt-fold-body",
+          "lt-foot",
+          "lt-foot-bottom",
+          "lt-foot-brand",
+          "lt-foot-chain",
+          "lt-foot-grid",
+          "lt-foot-label",
+          "lt-foot-nav",
+          "lt-foot-note",
+          "lt-gauges",
+          "lt-good",
+          "lt-head",
+          "lt-head--split",
+          "lt-head-note",
+          "lt-hero",
+          "lt-hero-copy",
+          "lt-hero-stage",
+          "lt-issues",
+          "lt-key-list",
+          "lt-keys",
+          "lt-keys-copy",
+          "lt-kicker",
+          "lt-lead",
+          "lt-lede",
+          "lt-legend",
+          "lt-limits",
+          "lt-lockchoice",
+          "lt-main",
+          "lt-marker",
+          "lt-matrix",
+          "lt-matrix--bars",
+          "lt-node",
+          "lt-node--hot",
+          "lt-node--lens",
+          "lt-phase-label",
+          "lt-phase-status",
+          "lt-phases",
+          "lt-plate",
+          "lt-plate--open",
+          "lt-plate-copy",
+          "lt-presence",
+          "lt-record",
+          "lt-risk",
+          "lt-scale",
+          "lt-sigil",
+          "lt-sigil-mark",
+          "lt-sigil-name",
+          "lt-signal",
+          "lt-signal-actors",
+          "lt-signal-dial",
+          "lt-signal-fees",
+          "lt-signal-label",
+          "lt-signal-pool",
+          "lt-signal-stage",
+          "lt-slider",
+          "lt-spine",
+          "lt-spine-glyph",
+          "lt-spine-glyph--0",
+          "lt-spine-glyph--1",
+          "lt-spine-glyph--2",
+          "lt-spine-glyph--3",
+          "lt-spine-glyph--4",
+          "lt-spine-glyph--doc",
+          "lt-spine-link",
+          "lt-spine-nav",
+          "lt-spine-nav--doc",
+          "lt-spine-text",
+          "lt-step",
+          "lt-step-body",
+          "lt-step-no",
+          "lt-steps",
+          "lt-stream-bar",
+          "lt-stream-cap",
+          "lt-stream-fee",
+          "lt-stream-main",
+          "lt-streams",
+          "lt-submark",
+          "lt-tape",
+          "lt-tape-cut",
+          "lt-tape-row",
+          "lt-tape-tag",
+          "lt-tape-under",
+          "lt-telemetry",
+          "lt-thumb",
+          "lt-thumb--tag",
+          "lt-ticket",
+          "lt-ticket-body",
+          "lt-ticket-head",
+          "lt-ticket-live",
+          "lt-ticket-meter",
+          "lt-vault",
+          "lt-vault-body",
+          "lt-vault-guide",
+          "lt-vault-halo",
+          "lt-vault-legend",
+          "lt-vault-notch",
+          "lt-vault-notch--a",
+          "lt-vault-notch--b",
+          "lt-vault-notch--c",
+          "lt-vault-notch--d",
+          "lt-vault-pin",
+          "lt-vault-stem",
+          "lt-vault-switch",
+          "lt-vault-wrap",
+          "lt-weak",
+          "lt-weak-col",
+          "lt-weak-label",
+          "lt-wire",
+          "lt-wire-label",
+          "lt-wire-link",
+          "lt-wire-row",
+          "lt-wire-row--value",
           "lucide",
           "lucide-arrow-down-right-icon",
           "lucide-arrow-up-right-icon",
           "lucide-key-round-icon",
-          "lucide-lock-keyhole-icon",
-          "master-key-grid",
-          "money",
-          "old-lock-issues",
-          "old-locks-accordion",
-          "open-band",
-          "paper-art",
-          "phase-label",
-          "phase-status",
-          "pick-grid",
-          "pick-item",
-          "pick-proof-accordion",
-          "plate-band",
-          "pool-line",
-          "position-record",
-          "rail-key",
-          "range",
-          "range-labels",
-          "section",
-          "section-accordion",
-          "section-accordion-panel",
-          "section-heading",
-          "section-ink",
-          "section-intro",
-          "section-night",
-          "section-paper",
-          "selected",
-          "site-footer",
-          "site-header",
-          "spec-card",
-          "spec-grid",
-          "spec-section",
-          "spec-sheet-accordion",
-          "split-heading",
-          "stats-row",
-          "stream-caption",
-          "stream-fee",
-          "stream-main",
-          "strongbox-bar",
-          "strongbox-grid",
-          "strongbox-note",
-          "strongbox-section",
-          "strongbox-stream",
-          "strongbox-streams",
-          "time-lock-sticky",
-          "vault-art",
-          "vault-dial",
-          "vault-handle",
-          "vault-label",
-          "vault-layout",
-          "violet-box",
-          "weak-cards",
-          "weak-column",
-          "weak-label",
-          "weak-layout",
-          "weak-points-accordion",
-          "weak-section",
-          "workings-section",
-          "workshop-accordion",
-          "workshop-card",
-          "workshop-exclusions",
-          "workshop-grid",
-          "workshop-section",
-          "wrap"
+          "lucide-lock-keyhole-icon"
         ],
         "fingerprint": [
           "a@6:2",
           "a@7:0",
+          "a@7:1",
           "a@7:2",
           "a@8:0",
           "a@8:1",
-          "a@9:0",
-          "a@9:1",
+          "a@8:2",
           "article@10:2",
-          "article@10:3",
-          "article@10:4+",
-          "article@8:2",
-          "article@8:3",
-          "article@8:4+",
+          "article@11:2",
+          "article@9:3",
+          "article@9:4+",
           "b@11:0",
-          "button@11:0",
-          "button@8:2",
-          "button@8:4+",
-          "circle@11:0",
-          "dd@10:0",
-          "dd@9:0",
-          "details@7:2",
-          "div@10:0",
+          "b@12:0",
+          "button@12:0",
+          "button@9:2",
+          "button@9:4+",
+          "circle@13:0",
+          "circle@9:0",
+          "dd@11:0",
+          "details@8:2",
           "div@10:1",
           "div@10:2",
           "div@10:3",
           "div@10:4+",
           "div@11:2",
-          "div@3:3",
+          "div@11:3",
+          "div@11:4+",
+          "div@12:1",
+          "div@3:1",
+          "div@4:4+",
           "div@5:2",
-          "div@5:3",
           "div@6:2",
           "div@6:3",
-          "div@6:4+",
           "div@7:2",
           "div@7:3",
           "div@7:4+",
@@ -3232,875 +3243,217 @@
           "div@9:2",
           "div@9:3",
           "div@9:4+",
-          "dl@7:4+",
-          "dl@8:4+",
-          "dt@10:0",
-          "dt@9:0",
+          "dl@9:4+",
+          "dt@11:0",
           "em@11:0",
-          "figcaption@9:0",
-          "figure@8:2",
-          "footer@4:2",
-          "h1@8:2",
-          "h2@8:0",
+          "em@12:0",
+          "figcaption@10:0",
+          "figcaption@11:0",
+          "figure@10:2",
+          "figure@9:2",
+          "footer@5:2",
+          "h1@9:2",
+          "h2@10:0",
           "h2@8:1",
           "h2@9:0",
+          "h3@10:0",
           "h3@11:0",
           "h3@12:0",
-          "h3@8:0",
-          "h3@9:0",
-          "header@4:1",
-          "i@10:0",
+          "header@5:3",
           "i@11:0",
-          "i@8:0",
-          "img@10:0",
-          "img@7:0",
-          "input@11:0",
-          "input@9:0",
-          "label@9:2",
-          "li@10:0",
-          "li@12:0",
-          "li@12:2",
-          "main@4:4+",
+          "i@13:0",
+          "i@7:0",
+          "img@11:0",
+          "img@12:0",
+          "img@8:0",
+          "input@10:0",
+          "input@12:0",
+          "label@10:2",
+          "li@11:0",
+          "li@11:3",
+          "li@11:4+",
+          "li@13:0",
+          "li@13:2",
+          "li@9:3",
+          "main@5:4+",
+          "nav@6:1",
           "nav@6:4+",
+          "nav@7:4+",
+          "ol@10:4+",
+          "ol@8:4+",
           "p@10:0",
           "p@11:0",
-          "p@11:1",
-          "p@11:2",
           "p@12:0",
-          "p@6:0",
+          "p@12:1",
+          "p@12:2",
           "p@7:0",
+          "p@7:1",
           "p@8:0",
-          "p@8:1",
           "p@9:0",
+          "p@9:1",
           "path@10:0",
           "path@11:0",
-          "picture@6:2",
-          "picture@9:2",
-          "rect@11:0",
-          "section@5:1",
-          "section@5:2",
+          "path@13:0",
+          "path@9:0",
+          "picture@10:2",
+          "picture@11:2",
+          "picture@7:2",
+          "rect@9:0",
+          "section@6:2",
           "small@10:0",
           "small@11:0",
           "small@12:0",
+          "small@13:0",
           "span@10:0",
+          "span@10:2",
           "span@11:0",
+          "span@11:2",
           "span@12:0",
           "span@13:0",
+          "span@14:0",
+          "span@6:1",
           "span@7:0",
-          "span@7:1",
           "span@8:0",
           "span@9:0",
           "strong@10:0",
           "strong@11:0",
           "strong@12:0",
           "strong@13:0",
-          "strong@8:0",
+          "strong@14:0",
           "strong@9:0",
           "svg@10:2",
-          "svg@10:3",
+          "svg@12:2",
+          "svg@8:3",
           "svg@9:2",
-          "ul@11:3",
-          "ul@11:4+",
-          "ul@9:4+"
+          "ul@10:4+",
+          "ul@12:3",
+          "ul@12:4+"
         ],
         "landmarks": [
           {
             "tag": "header",
             "role": "",
-            "top": 0,
-            "left": 0,
-            "width": 1440,
-            "height": 65
+            "top": 14,
+            "left": 104,
+            "width": 1308,
+            "height": 62
           },
           {
             "tag": "nav",
             "role": "",
-            "top": 21,
-            "left": 658,
-            "width": 456,
-            "height": 23
+            "top": 14,
+            "left": 0,
+            "width": 75,
+            "height": 507
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 805,
+            "left": 0,
+            "width": 75,
+            "height": 75
           },
           {
             "tag": "main",
             "role": "",
-            "top": -1580,
-            "left": 0,
-            "width": 1440,
-            "height": 17135
+            "top": 76,
+            "left": 76,
+            "width": 1364,
+            "height": 12071
           },
           {
             "tag": "footer",
             "role": "",
-            "top": 15555,
-            "left": 0,
-            "width": 1440,
-            "height": 390
+            "top": 12147,
+            "left": 76,
+            "width": 1364,
+            "height": 365
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 12207,
+            "left": 737,
+            "width": 298,
+            "height": 176
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 12207,
+            "left": 1084,
+            "width": 298,
+            "height": 176
           }
         ],
         "colors": [
           {
-            "hex": "#f3f1ec",
-            "count": 281
+            "hex": "#f4f7fa",
+            "count": 397
           },
           {
-            "hex": "#9a96a6",
-            "count": 163
+            "hex": "#8fa3b5",
+            "count": 201
           },
           {
-            "hex": "#0c0b10",
-            "count": 124
+            "hex": "#e3a6da",
+            "count": 146
           },
           {
-            "hex": "#8b5cf6",
-            "count": 96
+            "hex": "#a9bbcb",
+            "count": 56
           },
           {
-            "hex": "#6c47e6",
-            "count": 47
+            "hex": "#080d14",
+            "count": 35
           },
           {
-            "hex": "#686271",
-            "count": 21
-          },
-          {
-            "hex": "#5d596a",
-            "count": 18
-          },
-          {
-            "hex": "#111016",
-            "count": 16
-          },
-          {
-            "hex": "#15131a",
-            "count": 16
-          },
-          {
-            "hex": "#716a78",
-            "count": 16
-          },
-          {
-            "hex": "#7d7584",
-            "count": 10
+            "hex": "#b6509e",
+            "count": 19
           },
           {
             "hex": "#ffffff",
             "count": 10
           },
           {
-            "hex": "#8a8290",
-            "count": 6
+            "hex": "#1e2a36",
+            "count": 5
           },
           {
-            "hex": "#fbf8f2",
-            "count": 6
-          },
-          {
-            "hex": "#302b38",
+            "hex": "#2ebac6",
             "count": 4
           },
           {
-            "hex": "#f5f2ea",
-            "count": 4
-          },
-          {
-            "hex": "#6d6673",
+            "hex": "#0b1420",
             "count": 3
           },
           {
-            "hex": "#7c7482",
-            "count": 3
-          },
-          {
-            "hex": "#9c4b53",
-            "count": 3
-          },
-          {
-            "hex": "#faf7f1",
-            "count": 3
-          },
-          {
-            "hex": "#110f17",
+            "hex": "#08121a",
             "count": 2
           },
           {
-            "hex": "#8e8794",
+            "hex": "#0d1621",
             "count": 2
           },
           {
-            "hex": "#fffdf8",
+            "hex": "#5ce1a0",
             "count": 2
           },
           {
-            "hex": "#101010",
+            "hex": "#060a10",
             "count": 1
           },
           {
-            "hex": "#16131b",
+            "hex": "#0c151f",
             "count": 1
           },
           {
-            "hex": "#19151e",
-            "count": 1
-          },
-          {
-            "hex": "#58825c",
-            "count": 1
-          },
-          {
-            "hex": "#618765",
-            "count": 1
-          },
-          {
-            "hex": "#8c8490",
-            "count": 1
-          },
-          {
-            "hex": "#e0d8d0",
+            "hex": "#111a24",
             "count": 1
           }
         ],
-        "contrast": [
-          {
-            "selector": "div.hero-copy > div.hero-actions > a.button.button-violet",
-            "text": "See a deal lock",
-            "ratio": 4.23,
-            "required": 4.5,
-            "fontSize": 15.04,
-            "weight": 600,
-            "color": "rgb(255, 255, 255)",
-            "background": "#8b5cf6"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.section-heading.split-heading > div > p.eyebrow.accent",
-            "text": "Time lock",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.time-lock-sticky > div.vault-art > div.vault-label",
-            "text": "LOCK",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 10.56,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.flow-diagram > div.pool-line > strong",
-            "text": "moved 0.0% by this deal",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.6,
-            "weight": 500,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.flow-diagram > div.flow-fees > em",
-            "text": "2%",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.6,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.flow-diagram > div.flow-fees > em",
-            "text": "1%",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.6,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.section-heading.split-heading > figure.heading-art.paper-art > figcaption",
-            "text": "The bag, before it moves.",
-            "ratio": 3.95,
-            "required": 4.5,
-            "fontSize": 10.24,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#f5f2ea"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "0",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "10",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "20",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "30",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "40",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "50",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "60",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.combination-grid > div.dial-panel > p.dial-help",
-            "text": "A live comparison against the pool price.",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 12.48,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "label.field > div > b",
-            "text": "ETH",
-            "ratio": 3.42,
-            "required": 4.5,
-            "fontSize": 10.72,
-            "weight": 500,
-            "color": "rgb(142, 135, 148)",
-            "background": "#fffdf8"
-          },
-          {
-            "selector": "label.field > div > b",
-            "text": "ETH",
-            "ratio": 3.42,
-            "required": 4.5,
-            "fontSize": 10.72,
-            "weight": 500,
-            "color": "rgb(142, 135, 148)",
-            "background": "#fffdf8"
-          },
-          {
-            "selector": "div.dial-panel > div.lock-choice > small",
-            "text": "Filled now, it would unlock 27 Oct, 16:02 UTC.",
-            "ratio": 3.38,
-            "required": 4.5,
-            "fontSize": 11.68,
-            "weight": 400,
-            "color": "rgb(140, 132, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div > p > small",
-            "text": "Sold into the pool",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div > p > small",
-            "text": "Listed on Latchera",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.calc-row > div > em.good",
-            "text": "pool price moves 0.0%",
-            "ratio": 4.12,
-            "required": 4.5,
-            "fontSize": 9.44,
-            "weight": 400,
-            "color": "rgb(88, 130, 92)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div > p > small",
-            "text": "Bought from the pool",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div > p > small",
-            "text": "Filled on Latchera",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.calc-output > div.burn-row > small",
-            "text": "of $LORH, bought and destroyed",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.84,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.combination-grid > div.calc-output > p.calc-foot",
-            "text": "Past 19.2% the pool would pay this seller more ETH. The listing buys one thing only: a chart that do",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 12,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.old-lock-issues > article > span",
-            "text": "01",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 10.4,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.old-lock-issues > article > span",
-            "text": "02",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 10.4,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.old-lock-issues > article > span",
-            "text": "03",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 10.4,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.old-lock-issues > article > span",
-            "text": "04",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 10.4,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.old-lock-issues > article > span",
-            "text": "05",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 10.4,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div > figure.keys-art > figcaption",
-            "text": "POSITION / THE RIGHT TO CLAIM",
-            "ratio": 4.01,
-            "required": 4.5,
-            "fontSize": 10.24,
-            "weight": 400,
-            "color": "rgb(124, 116, 130)",
-            "background": "#f5f2ea"
-          },
-          {
-            "selector": "div.key-card > div.key-head > span.key-live",
-            "text": "TRANSFERABLE",
-            "ratio": 3.84,
-            "required": 4.5,
-            "fontSize": 10.56,
-            "weight": 400,
-            "color": "rgb(97, 135, 101)",
-            "background": "#fbf8f2"
-          },
-          {
-            "selector": "div.key-card > div.key-body > span",
-            "text": "unlock 18 Oct · 14:08 UTC",
-            "ratio": 4.24,
-            "required": 4.5,
-            "fontSize": 10.88,
-            "weight": 400,
-            "color": "rgb(124, 116, 130)",
-            "background": "#fbf8f2"
-          },
-          {
-            "selector": "div.key-card > div.key-body > small",
-            "text": "Claimable by the current holder",
-            "ratio": 4.24,
-            "required": 4.5,
-            "fontSize": 10.88,
-            "weight": 400,
-            "color": "rgb(124, 116, 130)",
-            "background": "#fbf8f2"
-          },
-          {
-            "selector": "div.master-key-grid > article > span",
-            "text": "01 / BURN",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.92,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.master-key-grid > article > span",
-            "text": "02 / FIRST WINDOW",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.92,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.master-key-grid > article > span",
-            "text": "03 / PIN",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.92,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.master-key-grid > article > span",
-            "text": "04 / CHEAPER FEE",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.92,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.wrap > div.section-heading > p.eyebrow.accent",
-            "text": "Strongbox",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article > div.stream-caption > span",
-            "text": "buys $LORH and burns it",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 13.76,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article > div.stream-caption > span",
-            "text": "buys $LORH and burns it",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 13.76,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.strongbox-grid > article > span",
-            "text": "PRIMARY FILL",
-            "ratio": 3.23,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.strongbox-grid > article > span",
-            "text": "PRIMARY FILL",
-            "ratio": 3.23,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.strongbox-grid > article > span",
-            "text": "POSITION RESALE",
-            "ratio": 3.23,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.strongbox-grid > article > span",
-            "text": "POSITION RESALE",
-            "ratio": 3.23,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.wrap > div.section-heading > p.eyebrow.accent-dark",
-            "text": "Pick-proof",
-            "ratio": 3.44,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#0c0b10"
-          },
-          {
-            "selector": "div.section-heading.split-heading > div > p.eyebrow.accent",
-            "text": "Workshop",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.workshop-grid > article.workshop-card > p.phase-label",
-            "text": "Phase 1 · on the bench now",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 10.24,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.workshop-grid > article.workshop-card > p.phase-label",
-            "text": "Phase 2 · launch and growth",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 10.24,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.workshop-grid > article.workshop-card > p.phase-label",
-            "text": "Phase 3 · upgrade",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 10.24,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.workshop-grid > article.workshop-card > p.phase-label",
-            "text": "Phase 4 · ecosystem",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 10.24,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.section-accordion-panel > div.workshop-exclusions > span",
-            "text": "Not on the bench, on purpose",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 10.24,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.section-heading.split-heading > div > p.eyebrow.accent",
-            "text": "Weak points",
-            "ratio": 4.34,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#16131b"
-          },
-          {
-            "selector": "div.weak-layout > div.weak-column > p.weak-label",
-            "text": "Holds",
-            "ratio": 4.34,
-            "required": 4.5,
-            "fontSize": 10.88,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#16131b"
-          },
-          {
-            "selector": "div.weak-layout > div.weak-column > p.weak-label",
-            "text": "Can give way",
-            "ratio": 4.34,
-            "required": 4.5,
-            "fontSize": 10.88,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#16131b"
-          },
-          {
-            "selector": "div.wrap.cta-inner > div > p.eyebrow.accent",
-            "text": "$LORH · Robinhood Chain",
-            "ratio": 1,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#8b5cf6"
-          },
-          {
-            "selector": "div.wrap.cta-inner > div > p",
-            "text": "List a bag or buy one at the open market. Every number is public, every date is visible.",
-            "ratio": 3.08,
-            "required": 4.5,
-            "fontSize": 16,
-            "weight": 400,
-            "color": "rgba(255, 255, 255, 0.75)",
-            "background": "#8b5cf6"
-          },
-          {
-            "selector": "div.wrap.cta-inner > div.cta-actions > a.button.button-ghost",
-            "text": "Read the docs",
-            "ratio": 3.75,
-            "required": 4.5,
-            "fontSize": 15.04,
-            "weight": 600,
-            "color": "rgb(243, 241, 236)",
-            "background": "#8b5cf6"
-          }
-        ],
+        "contrast": [],
         "contrastChecked": 436,
         "headings": [
           {
@@ -4273,11 +3626,11 @@
           },
           {
             "tag": "h3",
-            "text": "What gets measured"
+            "text": "WHAT GETS MEASURED"
           },
           {
             "tag": "h3",
-            "text": "Ignored on purpose"
+            "text": "IGNORED ON PURPOSE"
           },
           {
             "tag": "h2",
@@ -4305,7 +3658,13 @@
         ],
         "overflow": {
           "documentOverflow": false,
-          "offenders": []
+          "offenders": [
+            {
+              "selector": "main.lt-main > section.lt-finale > div.lt-finale-locks",
+              "right": 1450,
+              "width": 1384
+            }
+          ]
         }
       },
       "axe": {
@@ -4322,13 +3681,13 @@
       },
       "mobile": {
         "meta": {
-          "title": "Latchera - Lock in a discount",
+          "title": "Holdavia - Lock in a discount",
           "lang": "en",
           "h1Count": 1,
-          "bodyTextLength": 8179,
+          "bodyTextLength": 13199,
           "scrollWidth": 390,
           "clientWidth": 390,
-          "focusableCount": 25
+          "focusableCount": 32
         },
         "words": [
           {
@@ -4336,8 +3695,12 @@
             "count": 1
           },
           {
+            "word": "#1",
+            "count": 1
+          },
+          {
             "word": "$LORH",
-            "count": 20
+            "count": 23
           },
           {
             "word": "0",
@@ -4346,6 +3709,10 @@
           {
             "word": "0.0%",
             "count": 2
+          },
+          {
+            "word": "0.05",
+            "count": 1
           },
           {
             "word": "0.0750",
@@ -4369,22 +3736,42 @@
           },
           {
             "word": "01",
-            "count": 3
+            "count": 5
           },
           {
             "word": "02",
-            "count": 3
+            "count": 5
           },
           {
             "word": "03",
-            "count": 3
+            "count": 5
           },
           {
             "word": "04",
-            "count": 2
+            "count": 4
           },
           {
             "word": "05",
+            "count": 3
+          },
+          {
+            "word": "06",
+            "count": 1
+          },
+          {
+            "word": "07",
+            "count": 1
+          },
+          {
+            "word": "08",
+            "count": 1
+          },
+          {
+            "word": "1",
+            "count": 1
+          },
+          {
+            "word": "1-hour",
             "count": 1
           },
           {
@@ -4393,7 +3780,7 @@
           },
           {
             "word": "1%",
-            "count": 4
+            "count": 6
           },
           {
             "word": "10",
@@ -4408,7 +3795,7 @@
             "count": 1
           },
           {
-            "word": "16:02",
+            "word": "16:57",
             "count": 1
           },
           {
@@ -4424,12 +3811,16 @@
             "count": 1
           },
           {
+            "word": "2",
+            "count": 1
+          },
+          {
             "word": "2.10",
             "count": 1
           },
           {
             "word": "2%",
-            "count": 5
+            "count": 7
           },
           {
             "word": "20",
@@ -4441,7 +3832,7 @@
           },
           {
             "word": "24",
-            "count": 3
+            "count": 4
           },
           {
             "word": "24h",
@@ -4449,19 +3840,19 @@
           },
           {
             "word": "25%",
-            "count": 2
+            "count": 3
           },
           {
             "word": "26%",
             "count": 1
           },
           {
-            "word": "27",
+            "word": "28",
             "count": 1
           },
           {
             "word": "3",
-            "count": 3
+            "count": 4
           },
           {
             "word": "3.675",
@@ -4477,7 +3868,7 @@
           },
           {
             "word": "30",
-            "count": 2
+            "count": 3
           },
           {
             "word": "30d",
@@ -4493,6 +3884,10 @@
           },
           {
             "word": "3d",
+            "count": 1
+          },
+          {
+            "word": "4",
             "count": 1
           },
           {
@@ -4541,14 +3936,22 @@
           },
           {
             "word": "a",
-            "count": 41
+            "count": 70
           },
           {
             "word": "A",
-            "count": 17
+            "count": 36
           },
           {
             "word": "AAA",
+            "count": 1
+          },
+          {
+            "word": "above",
+            "count": 2
+          },
+          {
+            "word": "accepts",
             "count": 1
           },
           {
@@ -4560,12 +3963,16 @@
             "count": 1
           },
           {
+            "word": "across",
+            "count": 1
+          },
+          {
             "word": "adding",
             "count": 1
           },
           {
             "word": "adds",
-            "count": 1
+            "count": 2
           },
           {
             "word": "advice",
@@ -4577,19 +3984,27 @@
           },
           {
             "word": "after",
-            "count": 1
+            "count": 2
           },
           {
             "word": "against",
-            "count": 1
+            "count": 2
           },
           {
             "word": "all",
             "count": 2
           },
           {
+            "word": "already",
+            "count": 1
+          },
+          {
+            "word": "always",
+            "count": 1
+          },
+          {
             "word": "amount",
-            "count": 4
+            "count": 5
           },
           {
             "word": "Amount",
@@ -4597,23 +4012,23 @@
           },
           {
             "word": "an",
-            "count": 2
+            "count": 3
           },
           {
             "word": "and",
-            "count": 26
+            "count": 47
           },
           {
             "word": "another",
-            "count": 1
+            "count": 2
           },
           {
             "word": "any",
-            "count": 2
+            "count": 3
           },
           {
             "word": "anyone",
-            "count": 2
+            "count": 3
           },
           {
             "word": "Anyone",
@@ -4632,24 +4047,48 @@
             "count": 1
           },
           {
+            "word": "apps",
+            "count": 1
+          },
+          {
             "word": "are",
-            "count": 3
-          },
-          {
-            "word": "as",
-            "count": 1
-          },
-          {
-            "word": "ask",
-            "count": 1
-          },
-          {
-            "word": "at",
             "count": 4
           },
           {
+            "word": "arrive",
+            "count": 1
+          },
+          {
+            "word": "as",
+            "count": 3
+          },
+          {
+            "word": "ask",
+            "count": 2
+          },
+          {
+            "word": "at",
+            "count": 13
+          },
+          {
+            "word": "auction",
+            "count": 1
+          },
+          {
+            "word": "average",
+            "count": 1
+          },
+          {
+            "word": "badges",
+            "count": 2
+          },
+          {
+            "word": "Badges",
+            "count": 1
+          },
+          {
             "word": "bag",
-            "count": 9
+            "count": 15
           },
           {
             "word": "Bag",
@@ -4657,7 +4096,7 @@
           },
           {
             "word": "bags",
-            "count": 2
+            "count": 5
           },
           {
             "word": "BBB",
@@ -4665,11 +4104,11 @@
           },
           {
             "word": "be",
-            "count": 3
+            "count": 4
           },
           {
             "word": "before",
-            "count": 5
+            "count": 7
           },
           {
             "word": "below",
@@ -4677,11 +4116,27 @@
           },
           {
             "word": "bench",
+            "count": 3
+          },
+          {
+            "word": "between",
+            "count": 1
+          },
+          {
+            "word": "Bids",
+            "count": 1
+          },
+          {
+            "word": "bigger",
             "count": 1
           },
           {
             "word": "blocks",
             "count": 4
+          },
+          {
+            "word": "board",
+            "count": 1
           },
           {
             "word": "bought",
@@ -4694,6 +4149,10 @@
           {
             "word": "boundary",
             "count": 2
+          },
+          {
+            "word": "breaks",
+            "count": 1
           },
           {
             "word": "brokerage",
@@ -4713,7 +4172,7 @@
           },
           {
             "word": "burned",
-            "count": 3
+            "count": 6
           },
           {
             "word": "Burned",
@@ -4721,7 +4180,7 @@
           },
           {
             "word": "burner",
-            "count": 3
+            "count": 4
           },
           {
             "word": "Burner",
@@ -4736,8 +4195,12 @@
             "count": 6
           },
           {
+            "word": "but",
+            "count": 1
+          },
+          {
             "word": "buy",
-            "count": 4
+            "count": 7
           },
           {
             "word": "Buy",
@@ -4745,11 +4208,23 @@
           },
           {
             "word": "buyer",
-            "count": 3
+            "count": 9
           },
           {
             "word": "BUYER",
             "count": 2
+          },
+          {
+            "word": "buyer's",
+            "count": 1
+          },
+          {
+            "word": "buyer’s",
+            "count": 1
+          },
+          {
+            "word": "Buyers",
+            "count": 1
           },
           {
             "word": "buys",
@@ -4757,7 +4232,11 @@
           },
           {
             "word": "by",
-            "count": 3
+            "count": 6
+          },
+          {
+            "word": "calendar",
+            "count": 2
           },
           {
             "word": "call",
@@ -4765,19 +4244,31 @@
           },
           {
             "word": "can",
-            "count": 13
+            "count": 21
+          },
+          {
+            "word": "Can",
+            "count": 1
           },
           {
             "word": "cancels",
             "count": 2
           },
           {
+            "word": "candle",
+            "count": 1
+          },
+          {
             "word": "cannot",
-            "count": 6
+            "count": 11
           },
           {
             "word": "cards",
             "count": 2
+          },
+          {
+            "word": "carries",
+            "count": 1
           },
           {
             "word": "CCC",
@@ -4785,7 +4276,7 @@
           },
           {
             "word": "chain",
-            "count": 2
+            "count": 3
           },
           {
             "word": "Chain",
@@ -4801,7 +4292,7 @@
           },
           {
             "word": "change",
-            "count": 3
+            "count": 4
           },
           {
             "word": "changes",
@@ -4813,7 +4304,7 @@
           },
           {
             "word": "cheaper",
-            "count": 1
+            "count": 3
           },
           {
             "word": "CHEAPER",
@@ -4828,12 +4319,16 @@
             "count": 1
           },
           {
+            "word": "chooses",
+            "count": 1
+          },
+          {
             "word": "chosen",
             "count": 1
           },
           {
             "word": "claim",
-            "count": 5
+            "count": 6
           },
           {
             "word": "CLAIM",
@@ -4852,6 +4347,10 @@
             "count": 2
           },
           {
+            "word": "clear",
+            "count": 1
+          },
+          {
             "word": "clock",
             "count": 2
           },
@@ -4861,7 +4360,7 @@
           },
           {
             "word": "coin",
-            "count": 3
+            "count": 7
           },
           {
             "word": "Coin",
@@ -4869,15 +4368,23 @@
           },
           {
             "word": "coins",
+            "count": 5
+          },
+          {
+            "word": "collect",
             "count": 1
           },
           {
             "word": "Combination",
-            "count": 2
+            "count": 3
+          },
+          {
+            "word": "come",
+            "count": 1
           },
           {
             "word": "comes",
-            "count": 1
+            "count": 2
           },
           {
             "word": "Community-built",
@@ -4888,16 +4395,28 @@
             "count": 1
           },
           {
+            "word": "compares",
+            "count": 1
+          },
+          {
             "word": "comparison",
             "count": 1
           },
           {
+            "word": "completes",
+            "count": 4
+          },
+          {
+            "word": "contain",
+            "count": 1
+          },
+          {
             "word": "contract",
-            "count": 5
+            "count": 7
           },
           {
             "word": "contracts",
-            "count": 1
+            "count": 4
           },
           {
             "word": "cost",
@@ -4908,8 +4427,20 @@
             "count": 1
           },
           {
-            "word": "created",
+            "word": "count",
             "count": 1
+          },
+          {
+            "word": "counts",
+            "count": 1
+          },
+          {
+            "word": "create",
+            "count": 1
+          },
+          {
+            "word": "created",
+            "count": 2
           },
           {
             "word": "creates",
@@ -4932,8 +4463,12 @@
             "count": 9
           },
           {
-            "word": "days",
+            "word": "day",
             "count": 4
+          },
+          {
+            "word": "days",
+            "count": 6
           },
           {
             "word": "DDD",
@@ -4942,6 +4477,10 @@
           {
             "word": "deal",
             "count": 3
+          },
+          {
+            "word": "Deals",
+            "count": 1
           },
           {
             "word": "decisions",
@@ -4956,12 +4495,28 @@
             "count": 1
           },
           {
+            "word": "default",
+            "count": 1
+          },
+          {
+            "word": "deliver",
+            "count": 1
+          },
+          {
+            "word": "depends",
+            "count": 2
+          },
+          {
             "word": "deployment",
             "count": 2
           },
           {
-            "word": "depth",
+            "word": "deposit",
             "count": 1
+          },
+          {
+            "word": "depth",
+            "count": 2
           },
           {
             "word": "design",
@@ -4984,12 +4539,16 @@
             "count": 1
           },
           {
-            "word": "directly",
+            "word": "direct",
             "count": 1
           },
           {
+            "word": "directly",
+            "count": 2
+          },
+          {
             "word": "discount",
-            "count": 5
+            "count": 13
           },
           {
             "word": "Discounted",
@@ -4997,7 +4556,7 @@
           },
           {
             "word": "do",
-            "count": 2
+            "count": 3
           },
           {
             "word": "docs",
@@ -5005,14 +4564,22 @@
           },
           {
             "word": "Docs",
-            "count": 1
+            "count": 2
           },
           {
             "word": "does",
-            "count": 1
+            "count": 3
+          },
+          {
+            "word": "Done",
+            "count": 4
           },
           {
             "word": "door",
+            "count": 1
+          },
+          {
+            "word": "Dust",
             "count": 1
           },
           {
@@ -5022,6 +4589,14 @@
           {
             "word": "Each",
             "count": 2
+          },
+          {
+            "word": "early",
+            "count": 4
+          },
+          {
+            "word": "ecosystem",
+            "count": 1
           },
           {
             "word": "EEE",
@@ -5037,23 +4612,31 @@
           },
           {
             "word": "else",
+            "count": 4
+          },
+          {
+            "word": "Empty",
             "count": 1
           },
           {
             "word": "enough",
-            "count": 1
+            "count": 4
           },
           {
             "word": "ERC-721",
             "count": 2
           },
           {
+            "word": "errors",
+            "count": 1
+          },
+          {
             "word": "escrow",
-            "count": 3
+            "count": 4
           },
           {
             "word": "Escrow",
-            "count": 1
+            "count": 2
           },
           {
             "word": "ESCROW",
@@ -5065,11 +4648,11 @@
           },
           {
             "word": "ETH",
-            "count": 24
+            "count": 29
           },
           {
             "word": "every",
-            "count": 1
+            "count": 5
           },
           {
             "word": "Every",
@@ -5089,11 +4672,35 @@
           },
           {
             "word": "exact",
-            "count": 1
+            "count": 2
+          },
+          {
+            "word": "exit",
+            "count": 5
           },
           {
             "word": "explorer",
             "count": 2
+          },
+          {
+            "word": "External",
+            "count": 1
+          },
+          {
+            "word": "fake",
+            "count": 1
+          },
+          {
+            "word": "fall",
+            "count": 2
+          },
+          {
+            "word": "falling",
+            "count": 1
+          },
+          {
+            "word": "Falling-price",
+            "count": 1
           },
           {
             "word": "falls",
@@ -5105,7 +4712,11 @@
           },
           {
             "word": "fee",
-            "count": 3
+            "count": 4
+          },
+          {
+            "word": "Fee",
+            "count": 2
           },
           {
             "word": "FEE",
@@ -5113,7 +4724,7 @@
           },
           {
             "word": "feed",
-            "count": 5
+            "count": 7
           },
           {
             "word": "fees",
@@ -5125,7 +4736,11 @@
           },
           {
             "word": "fill",
-            "count": 10
+            "count": 15
+          },
+          {
+            "word": "Fill",
+            "count": 1
           },
           {
             "word": "FILL",
@@ -5133,7 +4748,7 @@
           },
           {
             "word": "filled",
-            "count": 1
+            "count": 3
           },
           {
             "word": "Filled",
@@ -5141,7 +4756,7 @@
           },
           {
             "word": "fills",
-            "count": 2
+            "count": 4
           },
           {
             "word": "financial",
@@ -5149,7 +4764,7 @@
           },
           {
             "word": "first",
-            "count": 5
+            "count": 8
           },
           {
             "word": "FIRST",
@@ -5161,11 +4776,27 @@
           },
           {
             "word": "fixed",
-            "count": 2
+            "count": 5
+          },
+          {
+            "word": "Fixed-price",
+            "count": 1
+          },
+          {
+            "word": "flow",
+            "count": 6
+          },
+          {
+            "word": "Follower",
+            "count": 1
           },
           {
             "word": "for",
-            "count": 9
+            "count": 14
+          },
+          {
+            "word": "fork",
+            "count": 1
           },
           {
             "word": "four",
@@ -5173,7 +4804,11 @@
           },
           {
             "word": "from",
-            "count": 2
+            "count": 3
+          },
+          {
+            "word": "front",
+            "count": 1
           },
           {
             "word": "Frontend",
@@ -5185,7 +4820,19 @@
           },
           {
             "word": "function",
-            "count": 3
+            "count": 4
+          },
+          {
+            "word": "Fund",
+            "count": 1
+          },
+          {
+            "word": "funds",
+            "count": 2
+          },
+          {
+            "word": "further",
+            "count": 1
           },
           {
             "word": "future",
@@ -5200,6 +4847,18 @@
             "count": 1
           },
           {
+            "word": "get",
+            "count": 2
+          },
+          {
+            "word": "gets",
+            "count": 1
+          },
+          {
+            "word": "give",
+            "count": 2
+          },
+          {
             "word": "go",
             "count": 1
           },
@@ -5208,11 +4867,23 @@
             "count": 2
           },
           {
-            "word": "hands",
+            "word": "Governance",
             "count": 1
           },
           {
+            "word": "growth",
+            "count": 1
+          },
+          {
+            "word": "hands",
+            "count": 3
+          },
+          {
             "word": "hangs",
+            "count": 1
+          },
+          {
+            "word": "hard",
             "count": 1
           },
           {
@@ -5221,10 +4892,14 @@
           },
           {
             "word": "has",
-            "count": 1
+            "count": 3
           },
           {
             "word": "have",
+            "count": 2
+          },
+          {
+            "word": "headline",
             "count": 1
           },
           {
@@ -5237,23 +4912,39 @@
           },
           {
             "word": "history",
-            "count": 1
+            "count": 2
           },
           {
             "word": "hold",
             "count": 1
           },
           {
-            "word": "holder",
-            "count": 8
-          },
-          {
-            "word": "holders",
+            "word": "Hold",
             "count": 1
           },
           {
+            "word": "Holdavia",
+            "count": 9
+          },
+          {
+            "word": "holdavia.xyz",
+            "count": 1
+          },
+          {
+            "word": "holder",
+            "count": 10
+          },
+          {
+            "word": "holders",
+            "count": 2
+          },
+          {
             "word": "holds",
-            "count": 3
+            "count": 4
+          },
+          {
+            "word": "Holds",
+            "count": 1
           },
           {
             "word": "hour",
@@ -5261,22 +4952,50 @@
           },
           {
             "word": "hours",
-            "count": 3
+            "count": 4
           },
           {
             "word": "how",
-            "count": 2
+            "count": 3
+          },
+          {
+            "word": "hurt",
+            "count": 1
           },
           {
             "word": "if",
+            "count": 2
+          },
+          {
+            "word": "If",
+            "count": 1
+          },
+          {
+            "word": "Ignored",
+            "count": 1
+          },
+          {
+            "word": "Immutable",
             "count": 1
           },
           {
             "word": "in",
-            "count": 17
+            "count": 19
+          },
+          {
+            "word": "inflate",
+            "count": 1
+          },
+          {
+            "word": "informed",
+            "count": 1
           },
           {
             "word": "inspect",
+            "count": 1
+          },
+          {
+            "word": "instead",
             "count": 1
           },
           {
@@ -5285,11 +5004,11 @@
           },
           {
             "word": "is",
-            "count": 15
+            "count": 36
           },
           {
             "word": "it",
-            "count": 13
+            "count": 21
           },
           {
             "word": "It",
@@ -5297,10 +5016,14 @@
           },
           {
             "word": "its",
-            "count": 3
+            "count": 5
           },
           {
             "word": "Its",
+            "count": 1
+          },
+          {
+            "word": "keep",
             "count": 1
           },
           {
@@ -5313,47 +5036,71 @@
           },
           {
             "word": "key",
-            "count": 11
+            "count": 12
           },
           {
             "word": "Keys",
+            "count": 3
+          },
+          {
+            "word": "Labelled",
+            "count": 1
+          },
+          {
+            "word": "large",
             "count": 2
+          },
+          {
+            "word": "larger",
+            "count": 2
+          },
+          {
+            "word": "last",
+            "count": 1
           },
           {
             "word": "Latch",
             "count": 1
           },
           {
-            "word": "Latchera",
-            "count": 7
-          },
-          {
-            "word": "latchera.xyz",
-            "count": 1
-          },
-          {
             "word": "later",
-            "count": 1
+            "count": 2
           },
           {
             "word": "launch",
+            "count": 4
+          },
+          {
+            "word": "launches",
             "count": 1
           },
           {
             "word": "launchpad",
-            "count": 2
+            "count": 4
           },
           {
             "word": "Launchpad",
             "count": 2
           },
           {
+            "word": "least",
+            "count": 1
+          },
+          {
             "word": "leave",
             "count": 1
           },
           {
+            "word": "leaves",
+            "count": 1
+          },
+          {
+            "word": "leaving",
+            "count": 2
+          },
+          {
             "word": "left",
-            "count": 8
+            "count": 9
           },
           {
             "word": "legal",
@@ -5364,8 +5111,12 @@
             "count": 1
           },
           {
+            "word": "Lending",
+            "count": 1
+          },
+          {
             "word": "length",
-            "count": 5
+            "count": 6
           },
           {
             "word": "lengths",
@@ -5377,19 +5128,31 @@
           },
           {
             "word": "less",
-            "count": 1
+            "count": 3
           },
           {
             "word": "like",
             "count": 1
           },
           {
+            "word": "linked",
+            "count": 1
+          },
+          {
             "word": "liquid",
-            "count": 3
+            "count": 5
+          },
+          {
+            "word": "liquidity",
+            "count": 1
+          },
+          {
+            "word": "list",
+            "count": 1
           },
           {
             "word": "List",
-            "count": 2
+            "count": 4
           },
           {
             "word": "listed",
@@ -5401,15 +5164,15 @@
           },
           {
             "word": "listing",
-            "count": 9
+            "count": 17
           },
           {
             "word": "listings",
-            "count": 4
+            "count": 6
           },
           {
             "word": "Listings",
-            "count": 1
+            "count": 2
           },
           {
             "word": "lists",
@@ -5417,11 +5180,11 @@
           },
           {
             "word": "live",
-            "count": 3
+            "count": 5
           },
           {
             "word": "lock",
-            "count": 11
+            "count": 18
           },
           {
             "word": "Lock",
@@ -5433,7 +5196,7 @@
           },
           {
             "word": "locked",
-            "count": 12
+            "count": 17
           },
           {
             "word": "Locked",
@@ -5452,15 +5215,39 @@
             "count": 2
           },
           {
-            "word": "Lockers",
+            "word": "lockers",
             "count": 1
           },
           {
+            "word": "Lockers",
+            "count": 2
+          },
+          {
+            "word": "locking",
+            "count": 2
+          },
+          {
             "word": "locks",
+            "count": 2
+          },
+          {
+            "word": "Locks",
+            "count": 2
+          },
+          {
+            "word": "logic",
             "count": 1
           },
           {
             "word": "longer",
+            "count": 1
+          },
+          {
+            "word": "look",
+            "count": 1
+          },
+          {
+            "word": "lower",
             "count": 1
           },
           {
@@ -5476,23 +5263,59 @@
             "count": 2
           },
           {
+            "word": "many",
+            "count": 1
+          },
+          {
+            "word": "Marked",
+            "count": 1
+          },
+          {
             "word": "market",
-            "count": 12
+            "count": 23
+          },
+          {
+            "word": "Market",
+            "count": 2
           },
           {
             "word": "Master",
-            "count": 2
+            "count": 3
+          },
+          {
+            "word": "maximum",
+            "count": 1
           },
           {
             "word": "may",
-            "count": 2
+            "count": 3
           },
           {
             "word": "means",
             "count": 2
           },
           {
+            "word": "measured",
+            "count": 1
+          },
+          {
             "word": "measures",
+            "count": 1
+          },
+          {
+            "word": "Median",
+            "count": 1
+          },
+          {
+            "word": "meets",
+            "count": 1
+          },
+          {
+            "word": "messages",
+            "count": 1
+          },
+          {
+            "word": "minute",
             "count": 1
           },
           {
@@ -5500,24 +5323,36 @@
             "count": 3
           },
           {
+            "word": "missing",
+            "count": 1
+          },
+          {
             "word": "models",
             "count": 1
           },
           {
             "word": "moment",
-            "count": 1
+            "count": 2
           },
           {
             "word": "money",
-            "count": 2
+            "count": 3
+          },
+          {
+            "word": "months",
+            "count": 1
           },
           {
             "word": "more",
             "count": 1
           },
           {
+            "word": "More",
+            "count": 1
+          },
+          {
             "word": "move",
-            "count": 5
+            "count": 8
           },
           {
             "word": "moved",
@@ -5540,8 +5375,12 @@
             "count": 1
           },
           {
-            "word": "need",
+            "word": "natively",
             "count": 1
+          },
+          {
+            "word": "need",
+            "count": 3
           },
           {
             "word": "network",
@@ -5549,7 +5388,7 @@
           },
           {
             "word": "never",
-            "count": 4
+            "count": 6
           },
           {
             "word": "new",
@@ -5561,27 +5400,27 @@
           },
           {
             "word": "no",
-            "count": 5
+            "count": 9
           },
           {
             "word": "No",
-            "count": 7
+            "count": 12
           },
           {
             "word": "not",
-            "count": 2
+            "count": 5
           },
           {
             "word": "Not",
-            "count": 2
+            "count": 3
           },
           {
             "word": "nothing",
-            "count": 2
+            "count": 5
           },
           {
             "word": "Nothing",
-            "count": 1
+            "count": 2
           },
           {
             "word": "notices",
@@ -5589,10 +5428,14 @@
           },
           {
             "word": "now",
-            "count": 2
+            "count": 3
           },
           {
             "word": "number",
+            "count": 2
+          },
+          {
+            "word": "numbers",
             "count": 1
           },
           {
@@ -5601,7 +5444,19 @@
           },
           {
             "word": "of",
-            "count": 7
+            "count": 15
+          },
+          {
+            "word": "off",
+            "count": 1
+          },
+          {
+            "word": "offer",
+            "count": 1
+          },
+          {
+            "word": "offers",
+            "count": 1
           },
           {
             "word": "Old",
@@ -5609,7 +5464,7 @@
           },
           {
             "word": "on",
-            "count": 18
+            "count": 33
           },
           {
             "word": "On",
@@ -5625,19 +5480,19 @@
           },
           {
             "word": "one",
-            "count": 12
+            "count": 19
           },
           {
             "word": "One",
-            "count": 1
+            "count": 4
           },
           {
             "word": "only",
-            "count": 5
+            "count": 8
           },
           {
             "word": "open",
-            "count": 5
+            "count": 8
           },
           {
             "word": "Open",
@@ -5649,7 +5504,7 @@
           },
           {
             "word": "opens",
-            "count": 4
+            "count": 5
           },
           {
             "word": "optional",
@@ -5657,30 +5512,74 @@
           },
           {
             "word": "or",
-            "count": 9
+            "count": 11
+          },
+          {
+            "word": "order",
+            "count": 1
+          },
+          {
+            "word": "other",
+            "count": 2
+          },
+          {
+            "word": "Other",
+            "count": 1
           },
           {
             "word": "ours",
             "count": 1
           },
           {
-            "word": "own",
-            "count": 3
+            "word": "out",
+            "count": 2
           },
           {
-            "word": "owner",
-            "count": 3
-          },
-          {
-            "word": "page",
+            "word": "Outreach",
             "count": 1
           },
           {
+            "word": "outside",
+            "count": 4
+          },
+          {
+            "word": "over",
+            "count": 1
+          },
+          {
+            "word": "own",
+            "count": 7
+          },
+          {
+            "word": "owner",
+            "count": 4
+          },
+          {
+            "word": "page",
+            "count": 3
+          },
+          {
             "word": "pages",
+            "count": 3
+          },
+          {
+            "word": "paid",
             "count": 2
           },
           {
             "word": "Paperwork",
+            "count": 1
+          },
+          {
+            "word": "partner",
+            "count": 1
+          },
+          {
+            "word": "pass",
+            "count": 1
+          },
+          {
+            "word": "Pass",
             "count": 1
           },
           {
@@ -5693,7 +5592,7 @@
           },
           {
             "word": "path",
-            "count": 4
+            "count": 5
           },
           {
             "word": "paused",
@@ -5701,6 +5600,14 @@
           },
           {
             "word": "pay",
+            "count": 2
+          },
+          {
+            "word": "payable",
+            "count": 1
+          },
+          {
+            "word": "paying",
             "count": 1
           },
           {
@@ -5709,15 +5616,27 @@
           },
           {
             "word": "pays",
-            "count": 2
+            "count": 4
+          },
+          {
+            "word": "penalty",
+            "count": 3
+          },
+          {
+            "word": "people",
+            "count": 1
           },
           {
             "word": "per",
-            "count": 2
+            "count": 4
           },
           {
             "word": "phase",
             "count": 1
+          },
+          {
+            "word": "Phase",
+            "count": 4
           },
           {
             "word": "phases",
@@ -5745,11 +5664,11 @@
           },
           {
             "word": "Pons",
-            "count": 2
+            "count": 3
           },
           {
             "word": "pool",
-            "count": 17
+            "count": 24
           },
           {
             "word": "Pool",
@@ -5760,12 +5679,16 @@
             "count": 8
           },
           {
+            "word": "pools",
+            "count": 2
+          },
+          {
             "word": "Pools",
             "count": 1
           },
           {
             "word": "position",
-            "count": 7
+            "count": 14
           },
           {
             "word": "POSITION",
@@ -5773,11 +5696,11 @@
           },
           {
             "word": "positions",
-            "count": 2
+            "count": 7
           },
           {
             "word": "Positions",
-            "count": 2
+            "count": 3
           },
           {
             "word": "press",
@@ -5789,7 +5712,7 @@
           },
           {
             "word": "price",
-            "count": 17
+            "count": 30
           },
           {
             "word": "PRICE",
@@ -5801,7 +5724,7 @@
           },
           {
             "word": "primary",
-            "count": 1
+            "count": 2
           },
           {
             "word": "PRIMARY",
@@ -5813,23 +5736,35 @@
           },
           {
             "word": "public",
-            "count": 4
+            "count": 5
           },
           {
             "word": "punish",
             "count": 1
           },
           {
+            "word": "purpose",
+            "count": 2
+          },
+          {
+            "word": "Push",
+            "count": 1
+          },
+          {
+            "word": "quoting",
+            "count": 1
+          },
+          {
             "word": "rail",
-            "count": 5
+            "count": 6
           },
           {
             "word": "Rail",
-            "count": 2
+            "count": 4
           },
           {
             "word": "reaches",
-            "count": 2
+            "count": 3
           },
           {
             "word": "Read",
@@ -5844,11 +5779,35 @@
             "count": 2
           },
           {
+            "word": "real",
+            "count": 1
+          },
+          {
             "word": "receives",
             "count": 3
           },
           {
+            "word": "record",
+            "count": 1
+          },
+          {
             "word": "records",
+            "count": 1
+          },
+          {
+            "word": "red",
+            "count": 1
+          },
+          {
+            "word": "reduces",
+            "count": 1
+          },
+          {
+            "word": "reference",
+            "count": 1
+          },
+          {
+            "word": "Refused",
             "count": 1
           },
           {
@@ -5856,8 +5815,12 @@
             "count": 2
           },
           {
-            "word": "remove",
+            "word": "remains",
             "count": 1
+          },
+          {
+            "word": "remove",
+            "count": 2
           },
           {
             "word": "require",
@@ -5865,7 +5828,11 @@
           },
           {
             "word": "resale",
-            "count": 3
+            "count": 8
+          },
+          {
+            "word": "Resale",
+            "count": 2
           },
           {
             "word": "RESALE",
@@ -5876,11 +5843,23 @@
             "count": 2
           },
           {
+            "word": "rest",
+            "count": 1
+          },
+          {
             "word": "revenue",
             "count": 1
           },
           {
+            "word": "review",
+            "count": 3
+          },
+          {
             "word": "Review",
+            "count": 2
+          },
+          {
+            "word": "Rewards",
             "count": 2
           },
           {
@@ -5893,23 +5872,43 @@
           },
           {
             "word": "risk",
-            "count": 2
+            "count": 4
           },
           {
             "word": "Robinhood",
             "count": 8
           },
           {
+            "word": "runs",
+            "count": 1
+          },
+          {
+            "word": "safeguard",
+            "count": 1
+          },
+          {
+            "word": "sales",
+            "count": 1
+          },
+          {
             "word": "same",
-            "count": 4
+            "count": 7
           },
           {
             "word": "Sample",
             "count": 1
           },
           {
+            "word": "saving",
+            "count": 2
+          },
+          {
             "word": "screen",
             "count": 2
+          },
+          {
+            "word": "seasons",
+            "count": 1
           },
           {
             "word": "see",
@@ -5921,15 +5920,15 @@
           },
           {
             "word": "sell",
-            "count": 1
+            "count": 2
           },
           {
             "word": "Sell",
-            "count": 1
+            "count": 2
           },
           {
             "word": "seller",
-            "count": 6
+            "count": 12
           },
           {
             "word": "Seller",
@@ -5948,12 +5947,28 @@
             "count": 1
           },
           {
+            "word": "sellers",
+            "count": 1
+          },
+          {
+            "word": "Sellers",
+            "count": 1
+          },
+          {
+            "word": "Selling",
+            "count": 1
+          },
+          {
             "word": "sells",
             "count": 1
           },
           {
-            "word": "sends",
+            "word": "send",
             "count": 1
+          },
+          {
+            "word": "sends",
+            "count": 2
           },
           {
             "word": "Set",
@@ -5976,12 +5991,32 @@
             "count": 1
           },
           {
+            "word": "Short",
+            "count": 1
+          },
+          {
             "word": "show",
+            "count": 2
+          },
+          {
+            "word": "shown",
+            "count": 1
+          },
+          {
+            "word": "shows",
             "count": 1
           },
           {
             "word": "side",
-            "count": 3
+            "count": 5
+          },
+          {
+            "word": "sides",
+            "count": 1
+          },
+          {
+            "word": "signs",
+            "count": 1
           },
           {
             "word": "sit",
@@ -5993,10 +6028,26 @@
           },
           {
             "word": "size",
+            "count": 2
+          },
+          {
+            "word": "Size",
+            "count": 1
+          },
+          {
+            "word": "sized",
+            "count": 1
+          },
+          {
+            "word": "slippage",
             "count": 1
           },
           {
             "word": "small",
+            "count": 1
+          },
+          {
+            "word": "Smart",
             "count": 1
           },
           {
@@ -6005,7 +6056,7 @@
           },
           {
             "word": "so",
-            "count": 2
+            "count": 3
           },
           {
             "word": "social",
@@ -6013,11 +6064,15 @@
           },
           {
             "word": "sold",
-            "count": 1
+            "count": 5
           },
           {
             "word": "Sold",
             "count": 1
+          },
+          {
+            "word": "someone",
+            "count": 6
           },
           {
             "word": "Source",
@@ -6028,8 +6083,20 @@
             "count": 2
           },
           {
+            "word": "spent",
+            "count": 1
+          },
+          {
             "word": "stamped",
             "count": 1
+          },
+          {
+            "word": "start",
+            "count": 1
+          },
+          {
+            "word": "starts",
+            "count": 2
           },
           {
             "word": "stay",
@@ -6037,7 +6104,7 @@
           },
           {
             "word": "stays",
-            "count": 3
+            "count": 4
           },
           {
             "word": "steps",
@@ -6045,6 +6112,10 @@
           },
           {
             "word": "still",
+            "count": 5
+          },
+          {
+            "word": "stop",
             "count": 1
           },
           {
@@ -6052,11 +6123,23 @@
             "count": 1
           },
           {
+            "word": "streak",
+            "count": 1
+          },
+          {
             "word": "Strongbox",
             "count": 1
           },
           {
+            "word": "supply",
+            "count": 2
+          },
+          {
             "word": "swap",
+            "count": 1
+          },
+          {
+            "word": "Swap",
             "count": 1
           },
           {
@@ -6065,23 +6148,43 @@
           },
           {
             "word": "takes",
-            "count": 1
+            "count": 3
           },
           {
             "word": "tax",
             "count": 1
           },
           {
+            "word": "taxes",
+            "count": 1
+          },
+          {
+            "word": "team",
+            "count": 4
+          },
+          {
+            "word": "teams",
+            "count": 2
+          },
+          {
             "word": "ten",
             "count": 2
           },
           {
-            "word": "than",
+            "word": "Ten",
             "count": 1
           },
           {
+            "word": "terminals",
+            "count": 1
+          },
+          {
+            "word": "than",
+            "count": 5
+          },
+          {
             "word": "that",
-            "count": 2
+            "count": 7
           },
           {
             "word": "That",
@@ -6089,15 +6192,19 @@
           },
           {
             "word": "the",
-            "count": 97
+            "count": 139
           },
           {
             "word": "The",
-            "count": 23
+            "count": 36
           },
           {
             "word": "THE",
             "count": 8
+          },
+          {
+            "word": "their",
+            "count": 2
           },
           {
             "word": "them",
@@ -6109,6 +6216,14 @@
           },
           {
             "word": "Then",
+            "count": 1
+          },
+          {
+            "word": "there",
+            "count": 1
+          },
+          {
+            "word": "these",
             "count": 1
           },
           {
@@ -6137,34 +6252,50 @@
           },
           {
             "word": "through",
-            "count": 2
-          },
-          {
-            "word": "time",
-            "count": 2
-          },
-          {
-            "word": "Time",
             "count": 3
           },
           {
+            "word": "time",
+            "count": 5
+          },
+          {
+            "word": "Time",
+            "count": 5
+          },
+          {
             "word": "to",
-            "count": 16
+            "count": 37
           },
           {
             "word": "TO",
             "count": 1
           },
           {
+            "word": "today",
+            "count": 1
+          },
+          {
             "word": "token",
-            "count": 5
+            "count": 6
+          },
+          {
+            "word": "Token",
+            "count": 1
+          },
+          {
+            "word": "token's",
+            "count": 1
           },
           {
             "word": "tokens",
-            "count": 12
+            "count": 15
           },
           {
             "word": "Tokens",
+            "count": 2
+          },
+          {
+            "word": "too",
             "count": 1
           },
           {
@@ -6181,7 +6312,7 @@
           },
           {
             "word": "trade",
-            "count": 1
+            "count": 3
           },
           {
             "word": "transaction",
@@ -6200,6 +6331,18 @@
             "count": 1
           },
           {
+            "word": "transfers",
+            "count": 1
+          },
+          {
+            "word": "treasury",
+            "count": 1
+          },
+          {
+            "word": "trend",
+            "count": 1
+          },
+          {
             "word": "trigger",
             "count": 2
           },
@@ -6212,15 +6355,23 @@
             "count": 1
           },
           {
+            "word": "turnover",
+            "count": 1
+          },
+          {
             "word": "turns",
             "count": 1
           },
           {
             "word": "two",
-            "count": 1
+            "count": 5
           },
           {
             "word": "Two",
+            "count": 1
+          },
+          {
+            "word": "typed",
             "count": 1
           },
           {
@@ -6241,22 +6392,34 @@
           },
           {
             "word": "unlock",
-            "count": 4
+            "count": 5
           },
           {
             "word": "Unlock",
             "count": 1
           },
           {
+            "word": "Unlocks",
+            "count": 1
+          },
+          {
             "word": "until",
+            "count": 4
+          },
+          {
+            "word": "up",
             "count": 3
           },
           {
             "word": "upgrade",
-            "count": 3
+            "count": 5
           },
           {
             "word": "Use",
+            "count": 1
+          },
+          {
+            "word": "user",
             "count": 1
           },
           {
@@ -6288,6 +6451,10 @@
             "count": 2
           },
           {
+            "word": "verify",
+            "count": 1
+          },
+          {
             "word": "viem-ready",
             "count": 2
           },
@@ -6297,7 +6464,7 @@
           },
           {
             "word": "visible",
-            "count": 5
+            "count": 6
           },
           {
             "word": "Visible",
@@ -6313,7 +6480,7 @@
           },
           {
             "word": "wait",
-            "count": 2
+            "count": 3
           },
           {
             "word": "waits",
@@ -6321,7 +6488,15 @@
           },
           {
             "word": "wallet",
-            "count": 4
+            "count": 9
+          },
+          {
+            "word": "wallets",
+            "count": 2
+          },
+          {
+            "word": "wants",
+            "count": 1
           },
           {
             "word": "was",
@@ -6329,11 +6504,11 @@
           },
           {
             "word": "way",
-            "count": 1
+            "count": 3
           },
           {
             "word": "ways",
-            "count": 1
+            "count": 2
           },
           {
             "word": "weak",
@@ -6348,19 +6523,27 @@
             "count": 2
           },
           {
+            "word": "week",
+            "count": 1
+          },
+          {
             "word": "what",
             "count": 4
           },
           {
             "word": "What",
-            "count": 4
+            "count": 5
           },
           {
             "word": "when",
-            "count": 1
+            "count": 7
           },
           {
             "word": "where",
+            "count": 2
+          },
+          {
+            "word": "Where",
             "count": 1
           },
           {
@@ -6369,11 +6552,11 @@
           },
           {
             "word": "while",
-            "count": 1
+            "count": 2
           },
           {
             "word": "who",
-            "count": 2
+            "count": 6
           },
           {
             "word": "Whoever",
@@ -6384,7 +6567,15 @@
             "count": 4
           },
           {
+            "word": "whose",
+            "count": 1
+          },
+          {
             "word": "why",
+            "count": 1
+          },
+          {
+            "word": "widget",
             "count": 1
           },
           {
@@ -6397,7 +6588,7 @@
           },
           {
             "word": "with",
-            "count": 7
+            "count": 13
           },
           {
             "word": "withdraw",
@@ -6405,6 +6596,10 @@
           },
           {
             "word": "without",
+            "count": 1
+          },
+          {
+            "word": "Without",
             "count": 1
           },
           {
@@ -6421,23 +6616,35 @@
           },
           {
             "word": "worth",
-            "count": 2
+            "count": 3
           },
           {
             "word": "would",
             "count": 3
           },
           {
+            "word": "years",
+            "count": 1
+          },
+          {
             "word": "you",
+            "count": 5
+          },
+          {
+            "word": "You",
+            "count": 1
+          },
+          {
+            "word": "your",
             "count": 3
           },
           {
             "word": "yours",
-            "count": 1
+            "count": 2
           },
           {
             "word": "zero",
-            "count": 1
+            "count": 2
           }
         ],
         "attrs": [
@@ -6466,7 +6673,11 @@
             "count": 1
           },
           {
-            "key": "aria-label=Latchera home",
+            "key": "aria-label=Hardware",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Holdavia home",
             "count": 1
           },
           {
@@ -6476,28 +6687,36 @@
           {
             "key": "aria-label=Open the section list",
             "count": 1
+          },
+          {
+            "key": "aria-label=Paperwork",
+            "count": 2
+          },
+          {
+            "key": "aria-label=Sections",
+            "count": 1
           }
         ],
         "links": [
           {
             "href": "#/docs",
-            "count": 3
+            "count": 4
           },
           {
             "href": "#combination",
-            "count": 2
+            "count": 3
           },
           {
             "href": "#keys",
-            "count": 1
+            "count": 2
           },
           {
             "href": "#master-key",
-            "count": 1
+            "count": 2
           },
           {
             "href": "#rail",
-            "count": 1
+            "count": 2
           },
           {
             "href": "#spec-sheet",
@@ -6505,7 +6724,7 @@
           },
           {
             "href": "#time-lock",
-            "count": 2
+            "count": 3
           },
           {
             "href": "#top",
@@ -6534,169 +6753,195 @@
         "imageIssues": [],
         "interactiveIssues": [],
         "classTokens": [
-          "accent",
-          "accent-dark",
-          "arch-box",
-          "arch-center",
-          "arch-side",
-          "architecture",
-          "band-ink",
-          "brand",
-          "brand-mark",
-          "brand-word",
-          "burn-row",
-          "button",
-          "button-ghost",
-          "button-violet",
-          "calc-foot",
-          "calc-output",
-          "calc-row",
-          "cannot-grid",
-          "closing-image-band",
-          "closing-image-copy",
-          "combination-grid",
-          "compare-section",
-          "cta-actions",
-          "cta-band",
-          "cta-inner",
-          "dial-display",
-          "dial-help",
-          "dial-panel",
-          "eyebrow",
-          "field",
-          "flow-actors",
-          "flow-content",
-          "flow-diagram",
-          "flow-fees",
-          "flow-line",
-          "flow-number",
-          "flow-rail",
-          "flow-step",
-          "footer-bottom",
-          "footer-chain",
-          "footer-grid",
-          "footer-label",
-          "good",
-          "header-actions",
-          "header-inner",
-          "heading-art",
-          "hero",
-          "hero-actions",
-          "hero-copy",
-          "hero-grid",
-          "hero-lede",
-          "hero-lock",
-          "hero-lock-wrap",
-          "icon-button",
-          "image-band",
-          "image-caption",
-          "key-body",
-          "key-card",
-          "key-head",
-          "key-list",
-          "key-live",
-          "key-progress",
-          "keys-art",
-          "keys-grid",
-          "lead-copy",
-          "lens-box",
-          "listing-card",
-          "listing-grid",
-          "listing-lock",
-          "listing-tag",
-          "lock-choice",
-          "lock-glyph",
-          "lock-toggle",
+          "is-on",
+          "lt-act",
+          "lt-act--fill",
+          "lt-act--line",
+          "lt-app",
+          "lt-band",
+          "lt-band-body",
+          "lt-bar",
+          "lt-burger",
+          "lt-burn",
+          "lt-calc",
+          "lt-calc-foot",
+          "lt-calc-row",
+          "lt-checks",
+          "lt-close-line",
+          "lt-command",
+          "lt-command-actions",
+          "lt-compare",
+          "lt-compare-head",
+          "lt-compare-row",
+          "lt-cta",
+          "lt-cta-actions",
+          "lt-cta-copy",
+          "lt-decisions",
+          "lt-dial",
+          "lt-dial-help",
+          "lt-dial-read",
+          "lt-dial-stage",
+          "lt-exclusions",
+          "lt-field",
+          "lt-finale",
+          "lt-finale-copy",
+          "lt-finale-locks",
+          "lt-fold",
+          "lt-fold-body",
+          "lt-foot",
+          "lt-foot-bottom",
+          "lt-foot-brand",
+          "lt-foot-chain",
+          "lt-foot-grid",
+          "lt-foot-label",
+          "lt-foot-nav",
+          "lt-foot-note",
+          "lt-gauges",
+          "lt-good",
+          "lt-head",
+          "lt-head--split",
+          "lt-head-note",
+          "lt-hero",
+          "lt-hero-copy",
+          "lt-hero-stage",
+          "lt-issues",
+          "lt-key-list",
+          "lt-keys",
+          "lt-keys-copy",
+          "lt-kicker",
+          "lt-lead",
+          "lt-lede",
+          "lt-legend",
+          "lt-limits",
+          "lt-lockchoice",
+          "lt-main",
+          "lt-marker",
+          "lt-matrix",
+          "lt-matrix--bars",
+          "lt-node",
+          "lt-node--hot",
+          "lt-node--lens",
+          "lt-phase-label",
+          "lt-phase-status",
+          "lt-phases",
+          "lt-plate",
+          "lt-plate--open",
+          "lt-plate-copy",
+          "lt-presence",
+          "lt-record",
+          "lt-risk",
+          "lt-scale",
+          "lt-sigil",
+          "lt-sigil-mark",
+          "lt-sigil-name",
+          "lt-signal",
+          "lt-signal-actors",
+          "lt-signal-dial",
+          "lt-signal-fees",
+          "lt-signal-label",
+          "lt-signal-pool",
+          "lt-signal-stage",
+          "lt-slider",
+          "lt-spine",
+          "lt-spine-glyph",
+          "lt-spine-glyph--0",
+          "lt-spine-glyph--1",
+          "lt-spine-glyph--2",
+          "lt-spine-glyph--3",
+          "lt-spine-glyph--4",
+          "lt-spine-glyph--doc",
+          "lt-spine-link",
+          "lt-spine-nav",
+          "lt-spine-nav--doc",
+          "lt-spine-text",
+          "lt-step",
+          "lt-step-body",
+          "lt-step-no",
+          "lt-steps",
+          "lt-stream-bar",
+          "lt-stream-cap",
+          "lt-stream-fee",
+          "lt-stream-main",
+          "lt-streams",
+          "lt-submark",
+          "lt-tape",
+          "lt-tape-cut",
+          "lt-tape-row",
+          "lt-tape-tag",
+          "lt-tape-under",
+          "lt-telemetry",
+          "lt-thumb",
+          "lt-thumb--tag",
+          "lt-ticket",
+          "lt-ticket-body",
+          "lt-ticket-head",
+          "lt-ticket-live",
+          "lt-ticket-meter",
+          "lt-vault",
+          "lt-vault-body",
+          "lt-vault-guide",
+          "lt-vault-halo",
+          "lt-vault-legend",
+          "lt-vault-notch",
+          "lt-vault-notch--a",
+          "lt-vault-notch--b",
+          "lt-vault-notch--c",
+          "lt-vault-notch--d",
+          "lt-vault-pin",
+          "lt-vault-stem",
+          "lt-vault-switch",
+          "lt-vault-wrap",
+          "lt-weak",
+          "lt-weak-col",
+          "lt-weak-label",
+          "lt-wire",
+          "lt-wire-label",
+          "lt-wire-link",
+          "lt-wire-row",
+          "lt-wire-row--value",
           "lucide",
           "lucide-arrow-down-right-icon",
           "lucide-arrow-up-right-icon",
           "lucide-chevron-down-icon",
           "lucide-key-round-icon",
           "lucide-lock-keyhole-icon",
-          "lucide-menu-icon",
-          "master-key-grid",
-          "menu-button",
-          "money",
-          "old-locks-accordion",
-          "open-band",
-          "paper-art",
-          "pick-proof-accordion",
-          "plate-band",
-          "pool-line",
-          "position-record",
-          "rail-key",
-          "range",
-          "range-labels",
-          "section",
-          "section-accordion",
-          "section-heading",
-          "section-ink",
-          "section-intro",
-          "section-night",
-          "section-paper",
-          "selected",
-          "site-footer",
-          "site-header",
-          "spec-section",
-          "spec-sheet-accordion",
-          "split-heading",
-          "stats-row",
-          "stream-caption",
-          "stream-fee",
-          "stream-main",
-          "strongbox-bar",
-          "strongbox-grid",
-          "strongbox-note",
-          "strongbox-section",
-          "strongbox-stream",
-          "strongbox-streams",
-          "time-lock-sticky",
-          "vault-art",
-          "vault-dial",
-          "vault-handle",
-          "vault-label",
-          "vault-layout",
-          "violet-box",
-          "weak-points-accordion",
-          "weak-section",
-          "workings-section",
-          "workshop-accordion",
-          "workshop-section",
-          "wrap"
+          "lucide-menu-icon"
         ],
         "fingerprint": [
           "a@6:2",
           "a@7:0",
+          "a@7:1",
           "a@7:2",
           "a@8:0",
           "a@8:1",
-          "a@9:0",
-          "a@9:1",
+          "a@8:2",
           "article@10:2",
-          "article@8:2",
-          "article@8:3",
-          "article@8:4+",
+          "article@11:2",
+          "article@9:3",
+          "article@9:4+",
           "b@11:0",
-          "button@11:0",
+          "b@12:0",
+          "button@12:0",
           "button@7:1",
-          "button@8:2",
-          "button@8:4+",
-          "circle@11:0",
-          "dd@10:0",
-          "dd@9:0",
-          "details@7:2",
-          "div@10:0",
+          "button@9:2",
+          "button@9:4+",
+          "circle@13:0",
+          "circle@9:0",
+          "dd@11:0",
+          "details@8:2",
           "div@10:1",
           "div@10:2",
           "div@10:3",
           "div@10:4+",
           "div@11:2",
-          "div@3:3",
+          "div@11:3",
+          "div@11:4+",
+          "div@12:1",
+          "div@3:1",
+          "div@4:4+",
           "div@5:2",
-          "div@5:3",
           "div@6:2",
           "div@6:3",
-          "div@6:4+",
           "div@7:2",
           "div@7:3",
           "div@7:4+",
@@ -6708,734 +6953,220 @@
           "div@9:2",
           "div@9:3",
           "div@9:4+",
-          "dl@7:4+",
-          "dl@8:4+",
-          "dt@10:0",
-          "dt@9:0",
+          "dl@9:4+",
+          "dt@11:0",
           "em@11:0",
-          "figcaption@9:0",
-          "figure@8:2",
-          "footer@4:2",
-          "h1@8:2",
-          "h2@8:0",
+          "em@12:0",
+          "figcaption@10:0",
+          "figcaption@11:0",
+          "figure@10:2",
+          "figure@9:2",
+          "footer@5:2",
+          "h1@9:2",
+          "h2@10:0",
           "h2@8:1",
           "h2@9:0",
+          "h3@10:0",
+          "h3@11:0",
           "h3@12:0",
-          "h3@8:0",
-          "h3@9:0",
-          "header@4:1",
-          "i@10:0",
+          "header@5:3",
           "i@11:0",
-          "img@10:0",
-          "img@7:0",
-          "input@11:0",
-          "input@9:0",
-          "label@9:2",
-          "li@10:0",
-          "main@4:4+",
+          "i@13:0",
+          "i@7:0",
+          "img@11:0",
+          "img@12:0",
+          "img@8:0",
+          "input@10:0",
+          "input@12:0",
+          "label@10:2",
+          "li@11:0",
+          "li@11:3",
+          "li@11:4+",
+          "li@13:0",
+          "li@13:2",
+          "li@9:3",
+          "main@5:4+",
+          "nav@6:1",
+          "nav@6:4+",
+          "nav@7:4+",
+          "ol@10:4+",
+          "ol@8:4+",
           "p@10:0",
-          "p@11:2",
+          "p@11:0",
           "p@12:0",
-          "p@6:0",
+          "p@12:1",
+          "p@12:2",
           "p@7:0",
+          "p@7:1",
           "p@8:0",
-          "p@8:1",
           "p@9:0",
+          "p@9:1",
           "path@10:0",
           "path@11:0",
-          "picture@6:2",
-          "picture@9:2",
-          "rect@11:0",
-          "section@5:1",
-          "section@5:2",
+          "path@13:0",
+          "path@9:0",
+          "picture@10:2",
+          "picture@11:2",
+          "picture@7:2",
+          "rect@9:0",
+          "section@6:2",
           "small@10:0",
           "small@11:0",
           "small@12:0",
+          "small@13:0",
           "span@10:0",
+          "span@10:2",
           "span@11:0",
+          "span@11:2",
+          "span@12:0",
+          "span@13:0",
+          "span@14:0",
+          "span@6:1",
           "span@7:0",
           "span@8:0",
           "span@9:0",
           "strong@10:0",
           "strong@11:0",
           "strong@12:0",
-          "strong@8:0",
+          "strong@13:0",
+          "strong@14:0",
           "strong@9:0",
-          "summary@8:2",
+          "summary@9:2",
+          "svg@10:1",
           "svg@10:2",
-          "svg@10:3",
+          "svg@12:2",
           "svg@8:3",
-          "svg@9:1",
           "svg@9:2",
-          "ul@9:4+"
+          "ul@10:4+",
+          "ul@12:3",
+          "ul@12:4+"
         ],
         "landmarks": [
           {
             "tag": "header",
             "role": "",
-            "top": 0,
-            "left": 0,
-            "width": 390,
-            "height": 65
+            "top": 8,
+            "left": 10,
+            "width": 370,
+            "height": 110
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 775,
+            "left": -3,
+            "width": 328,
+            "height": 69
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 775,
+            "left": 330,
+            "width": 63,
+            "height": 69
           },
           {
             "tag": "main",
             "role": "",
-            "top": 65,
+            "top": 118,
             "left": 0,
             "width": 390,
-            "height": 18166
+            "height": 16697
           },
           {
             "tag": "footer",
             "role": "",
-            "top": 18231,
+            "top": 16815,
             "left": 0,
             "width": 390,
-            "height": 543
+            "height": 652
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 16951,
+            "left": 18,
+            "width": 354,
+            "height": 176
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 17147,
+            "left": 18,
+            "width": 354,
+            "height": 144
           }
         ],
         "colors": [
           {
-            "hex": "#f3f1ec",
-            "count": 218
+            "hex": "#f4f7fa",
+            "count": 399
           },
           {
-            "hex": "#0c0b10",
-            "count": 107
+            "hex": "#8fa3b5",
+            "count": 201
           },
           {
-            "hex": "#9a96a6",
-            "count": 91
+            "hex": "#e3a6da",
+            "count": 166
           },
           {
-            "hex": "#8b5cf6",
-            "count": 80
+            "hex": "#a9bbcb",
+            "count": 56
           },
           {
-            "hex": "#6c47e6",
-            "count": 49
+            "hex": "#080d14",
+            "count": 36
           },
           {
-            "hex": "#686271",
-            "count": 21
-          },
-          {
-            "hex": "#5d596a",
-            "count": 18
-          },
-          {
-            "hex": "#15131a",
-            "count": 16
-          },
-          {
-            "hex": "#7d7584",
-            "count": 10
+            "hex": "#b6509e",
+            "count": 19
           },
           {
             "hex": "#ffffff",
             "count": 10
           },
           {
-            "hex": "#111016",
-            "count": 7
+            "hex": "#1e2a36",
+            "count": 5
           },
           {
-            "hex": "#8a8290",
-            "count": 6
-          },
-          {
-            "hex": "#fbf8f2",
-            "count": 6
-          },
-          {
-            "hex": "#302b38",
+            "hex": "#2ebac6",
             "count": 4
           },
           {
-            "hex": "#f5f2ea",
-            "count": 4
-          },
-          {
-            "hex": "#6d6673",
+            "hex": "#0b1420",
             "count": 3
           },
           {
-            "hex": "#7c7482",
-            "count": 3
-          },
-          {
-            "hex": "#9c4b53",
-            "count": 3
-          },
-          {
-            "hex": "#faf7f1",
-            "count": 3
-          },
-          {
-            "hex": "#110f17",
+            "hex": "#08121a",
             "count": 2
           },
           {
-            "hex": "#8e8794",
+            "hex": "#0d1621",
             "count": 2
           },
           {
-            "hex": "#fffdf8",
+            "hex": "#5ce1a0",
             "count": 2
           },
           {
-            "hex": "#101010",
+            "hex": "#060a10",
             "count": 1
           },
           {
-            "hex": "#16131b",
+            "hex": "#0c151f",
             "count": 1
           },
           {
-            "hex": "#19151e",
-            "count": 1
-          },
-          {
-            "hex": "#58825c",
-            "count": 1
-          },
-          {
-            "hex": "#618765",
-            "count": 1
-          },
-          {
-            "hex": "#8c8490",
-            "count": 1
-          },
-          {
-            "hex": "#e0d8d0",
+            "hex": "#111a24",
             "count": 1
           }
         ],
-        "contrast": [
-          {
-            "selector": "div.hero-copy > div.hero-actions > a.button.button-violet",
-            "text": "See a deal lock",
-            "ratio": 4.23,
-            "required": 4.5,
-            "fontSize": 15.04,
-            "weight": 600,
-            "color": "rgb(255, 255, 255)",
-            "background": "#8b5cf6"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article.listing-card > div.listing-lock > small",
-            "text": "UNDER THE POOL",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 8.96,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.section-heading.split-heading > div > p.eyebrow.accent",
-            "text": "Time lock",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.time-lock-sticky > div.vault-art > div.vault-label",
-            "text": "LOCK",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 10.56,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.flow-diagram > div.pool-line > strong",
-            "text": "moved 0.0% by this deal",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.6,
-            "weight": 500,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.flow-diagram > div.flow-fees > em",
-            "text": "2%",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.6,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.flow-diagram > div.flow-fees > em",
-            "text": "1%",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.6,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.section-heading.split-heading > figure.heading-art.paper-art > figcaption",
-            "text": "The bag, before it moves.",
-            "ratio": 3.95,
-            "required": 4.5,
-            "fontSize": 10.24,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#f5f2ea"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "0",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "10",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "20",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "30",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "40",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "50",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.dial-panel > div.range-labels > span",
-            "text": "60",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.combination-grid > div.dial-panel > p.dial-help",
-            "text": "A live comparison against the pool price.",
-            "ratio": 4.13,
-            "required": 4.5,
-            "fontSize": 12.48,
-            "weight": 400,
-            "color": "rgb(125, 117, 132)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "label.field > div > b",
-            "text": "ETH",
-            "ratio": 3.42,
-            "required": 4.5,
-            "fontSize": 10.72,
-            "weight": 500,
-            "color": "rgb(142, 135, 148)",
-            "background": "#fffdf8"
-          },
-          {
-            "selector": "label.field > div > b",
-            "text": "ETH",
-            "ratio": 3.42,
-            "required": 4.5,
-            "fontSize": 10.72,
-            "weight": 500,
-            "color": "rgb(142, 135, 148)",
-            "background": "#fffdf8"
-          },
-          {
-            "selector": "div.dial-panel > div.lock-choice > small",
-            "text": "Filled now, it would unlock 27 Oct, 16:02 UTC.",
-            "ratio": 3.38,
-            "required": 4.5,
-            "fontSize": 11.68,
-            "weight": 400,
-            "color": "rgb(140, 132, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div > p > small",
-            "text": "Sold into the pool",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div > p > small",
-            "text": "Listed on Latchera",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.calc-row > div > em.good",
-            "text": "pool price moves 0.0%",
-            "ratio": 4.12,
-            "required": 4.5,
-            "fontSize": 9.44,
-            "weight": 400,
-            "color": "rgb(88, 130, 92)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div > p > small",
-            "text": "Bought from the pool",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div > p > small",
-            "text": "Filled on Latchera",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.calc-output > div.burn-row > small",
-            "text": "of $LORH, bought and destroyed",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 11.84,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div.combination-grid > div.calc-output > p.calc-foot",
-            "text": "Past 19.2% the pool would pay this seller more ETH. The listing buys one thing only: a chart that do",
-            "ratio": 3.46,
-            "required": 4.5,
-            "fontSize": 12,
-            "weight": 400,
-            "color": "rgb(138, 130, 144)",
-            "background": "#faf7f1"
-          },
-          {
-            "selector": "div > figure.keys-art > figcaption",
-            "text": "POSITION / THE RIGHT TO CLAIM",
-            "ratio": 4.01,
-            "required": 4.5,
-            "fontSize": 10.24,
-            "weight": 400,
-            "color": "rgb(124, 116, 130)",
-            "background": "#f5f2ea"
-          },
-          {
-            "selector": "div.key-card > div.key-head > span.key-live",
-            "text": "TRANSFERABLE",
-            "ratio": 3.84,
-            "required": 4.5,
-            "fontSize": 10.56,
-            "weight": 400,
-            "color": "rgb(97, 135, 101)",
-            "background": "#fbf8f2"
-          },
-          {
-            "selector": "div.key-card > div.key-body > span",
-            "text": "unlock 18 Oct · 14:08 UTC",
-            "ratio": 4.24,
-            "required": 4.5,
-            "fontSize": 10.88,
-            "weight": 400,
-            "color": "rgb(124, 116, 130)",
-            "background": "#fbf8f2"
-          },
-          {
-            "selector": "div.key-card > div.key-body > small",
-            "text": "Claimable by the current holder",
-            "ratio": 4.24,
-            "required": 4.5,
-            "fontSize": 10.88,
-            "weight": 400,
-            "color": "rgb(124, 116, 130)",
-            "background": "#fbf8f2"
-          },
-          {
-            "selector": "div.master-key-grid > article > span",
-            "text": "01 / BURN",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.92,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.master-key-grid > article > span",
-            "text": "02 / FIRST WINDOW",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.92,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.master-key-grid > article > span",
-            "text": "03 / PIN",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.92,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.master-key-grid > article > span",
-            "text": "04 / CHEAPER FEE",
-            "ratio": 4.47,
-            "required": 4.5,
-            "fontSize": 9.92,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#111016"
-          },
-          {
-            "selector": "div.wrap > div.section-heading > p.eyebrow.accent",
-            "text": "Strongbox",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article > div.stream-caption > span",
-            "text": "buys $LORH and burns it",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 13.76,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "article > div.stream-caption > span",
-            "text": "buys $LORH and burns it",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 13.76,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.strongbox-grid > article > span",
-            "text": "PRIMARY FILL",
-            "ratio": 3.23,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.strongbox-grid > article > span",
-            "text": "PRIMARY FILL",
-            "ratio": 3.23,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.strongbox-grid > article > span",
-            "text": "POSITION RESALE",
-            "ratio": 3.23,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.strongbox-grid > article > span",
-            "text": "POSITION RESALE",
-            "ratio": 3.23,
-            "required": 4.5,
-            "fontSize": 9.76,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.wrap > div.section-heading > p.eyebrow.accent-dark",
-            "text": "Pick-proof",
-            "ratio": 3.44,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(108, 71, 230)",
-            "background": "#0c0b10"
-          },
-          {
-            "selector": "div.section-heading.split-heading > div > p.eyebrow.accent",
-            "text": "Workshop",
-            "ratio": 4.35,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#15131a"
-          },
-          {
-            "selector": "div.section-heading.split-heading > div > p.eyebrow.accent",
-            "text": "Weak points",
-            "ratio": 4.34,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#16131b"
-          },
-          {
-            "selector": "div.wrap.cta-inner > div > p.eyebrow.accent",
-            "text": "$LORH · Robinhood Chain",
-            "ratio": 1,
-            "required": 4.5,
-            "fontSize": 11.52,
-            "weight": 400,
-            "color": "rgb(139, 92, 246)",
-            "background": "#8b5cf6"
-          },
-          {
-            "selector": "div.wrap.cta-inner > div > p",
-            "text": "List a bag or buy one at the open market. Every number is public, every date is visible.",
-            "ratio": 3.08,
-            "required": 4.5,
-            "fontSize": 16,
-            "weight": 400,
-            "color": "rgba(255, 255, 255, 0.75)",
-            "background": "#8b5cf6"
-          },
-          {
-            "selector": "div.wrap.cta-inner > div.cta-actions > a.button.button-ghost",
-            "text": "Read the docs",
-            "ratio": 3.75,
-            "required": 4.5,
-            "fontSize": 15.04,
-            "weight": 600,
-            "color": "rgb(243, 241, 236)",
-            "background": "#8b5cf6"
-          }
-        ],
-        "contrastChecked": 304,
+        "contrast": [],
+        "contrastChecked": 441,
         "headings": [
           {
             "tag": "h1",
@@ -7476,6 +7207,26 @@
           {
             "tag": "h2",
             "text": "Lockers ask holders to wait for nothing. Pools punish anyone with size."
+          },
+          {
+            "tag": "h3",
+            "text": "A bag bigger than its pool"
+          },
+          {
+            "tag": "h3",
+            "text": "Size is hard to buy, too"
+          },
+          {
+            "tag": "h3",
+            "text": "Nothing on day one"
+          },
+          {
+            "tag": "h3",
+            "text": "A lock that cannot move"
+          },
+          {
+            "tag": "h3",
+            "text": "Deals in direct messages"
           },
           {
             "tag": "h2",
@@ -7542,12 +7293,72 @@
             "text": "What is on the bench, and what waits its turn."
           },
           {
+            "tag": "h3",
+            "text": "A seller can list a bag and a buyer can fill it"
+          },
+          {
+            "tag": "h3",
+            "text": "$LORH launches and listing #1 opens the same day"
+          },
+          {
+            "tag": "h3",
+            "text": "More ways to price a locked bag"
+          },
+          {
+            "tag": "h3",
+            "text": "Other apps start quoting the discount"
+          },
+          {
             "tag": "h2",
             "text": "Decisions, and why each one was made."
           },
           {
+            "tag": "h3",
+            "text": "The lock is sold as a discount"
+          },
+          {
+            "tag": "h3",
+            "text": "No early exit; the position is sold instead"
+          },
+          {
+            "tag": "h3",
+            "text": "Fixed-price listings first"
+          },
+          {
+            "tag": "h3",
+            "text": "Fee 2% primary, 1% resale"
+          },
+          {
+            "tag": "h3",
+            "text": "No price feed on the chain"
+          },
+          {
+            "tag": "h3",
+            "text": "Immutable contracts"
+          },
+          {
+            "tag": "h3",
+            "text": "WHAT GETS MEASURED"
+          },
+          {
+            "tag": "h3",
+            "text": "IGNORED ON PURPOSE"
+          },
+          {
             "tag": "h2",
             "text": "Every lock has weak points. These are ours."
+          },
+          {
+            "tag": "h3",
+            "text": "A launchpad adds it natively"
+          },
+          {
+            "tag": "h3",
+            "text": "Sellers do not come"
+          },
+          {
+            "tag": "h3",
+            "text": "Buyers get hurt"
           },
           {
             "tag": "h2",
@@ -7559,7 +7370,48 @@
         ],
         "overflow": {
           "documentOverflow": false,
-          "offenders": []
+          "offenders": [
+            {
+              "selector": "div.lt-app > div.lt-spine > nav.lt-spine-nav.lt-spine-nav--doc",
+              "right": 393,
+              "width": 63
+            },
+            {
+              "selector": "div.lt-spine > nav.lt-spine-nav.lt-spine-nav--doc > a.lt-spine-link",
+              "right": 393,
+              "width": 62
+            },
+            {
+              "selector": "div.lt-band-body > ol.lt-tape > li.lt-tape-row",
+              "right": 462,
+              "width": 148
+            },
+            {
+              "selector": "ol.lt-tape > li.lt-tape-row > span.lt-tape-cut",
+              "right": 446,
+              "width": 117
+            },
+            {
+              "selector": "ol.lt-tape > li.lt-tape-row > small.lt-tape-under",
+              "right": 446,
+              "width": 117
+            },
+            {
+              "selector": "ol.lt-tape > li.lt-tape-row > div.lt-tape-tag",
+              "right": 446,
+              "width": 117
+            },
+            {
+              "selector": "li.lt-tape-row > div.lt-tape-tag > strong",
+              "right": 446,
+              "width": 117
+            },
+            {
+              "selector": "li.lt-tape-row > div.lt-tape-tag > span",
+              "right": 446,
+              "width": 117
+            }
+          ]
         }
       },
       "mobileNav": {
@@ -7573,72 +7425,12 @@
         "samples": [
           {
             "tag": "a",
-            "text": "Latchera home",
+            "text": "Holdavia home",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(139, 92, 246)",
+            "outlineColor": "rgb(227, 166, 218)",
             "boxShadow": "none",
-            "borderColor": "rgb(243, 241, 236)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
-          },
-          {
-            "tag": "a",
-            "text": "Rail",
-            "outlineStyle": "solid",
-            "outlineWidth": "2px",
-            "outlineColor": "rgb(139, 92, 246)",
-            "boxShadow": "none",
-            "borderColor": "rgb(154, 150, 166)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
-          },
-          {
-            "tag": "a",
-            "text": "Time lock",
-            "outlineStyle": "solid",
-            "outlineWidth": "2px",
-            "outlineColor": "rgb(139, 92, 246)",
-            "boxShadow": "none",
-            "borderColor": "rgb(154, 150, 166)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
-          },
-          {
-            "tag": "a",
-            "text": "Combination",
-            "outlineStyle": "solid",
-            "outlineWidth": "2px",
-            "outlineColor": "rgb(139, 92, 246)",
-            "boxShadow": "none",
-            "borderColor": "rgb(154, 150, 166)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
-          },
-          {
-            "tag": "a",
-            "text": "Keys",
-            "outlineStyle": "solid",
-            "outlineWidth": "2px",
-            "outlineColor": "rgb(139, 92, 246)",
-            "boxShadow": "none",
-            "borderColor": "rgb(154, 150, 166)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
-          },
-          {
-            "tag": "a",
-            "text": "Master key",
-            "outlineStyle": "solid",
-            "outlineWidth": "2px",
-            "outlineColor": "rgb(139, 92, 246)",
-            "boxShadow": "none",
-            "borderColor": "rgb(154, 150, 166)",
-            "backgroundColor": "rgba(0, 0, 0, 0)"
-          },
-          {
-            "tag": "a",
-            "text": "Docs",
-            "outlineStyle": "solid",
-            "outlineWidth": "2px",
-            "outlineColor": "rgb(139, 92, 246)",
-            "boxShadow": "none",
-            "borderColor": "rgb(154, 150, 166)",
+            "borderColor": "rgb(244, 247, 250)",
             "backgroundColor": "rgba(0, 0, 0, 0)"
           },
           {
@@ -7646,10 +7438,70 @@
             "text": "See a deal lock",
             "outlineStyle": "solid",
             "outlineWidth": "2px",
-            "outlineColor": "rgb(139, 92, 246)",
+            "outlineColor": "rgb(227, 166, 218)",
             "boxShadow": "none",
             "borderColor": "rgba(0, 0, 0, 0)",
-            "backgroundColor": "rgb(139, 92, 246)"
+            "backgroundColor": "rgb(182, 80, 158)"
+          },
+          {
+            "tag": "a",
+            "text": "Read the docs",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(44, 61, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "RAIL",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "TIME LOCK",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "COMBINATION",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "KEYS",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "MASTER KEY",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
           }
         ],
         "visibleCount": 8,
@@ -7657,5 +7509,5 @@
       }
     }
   },
-  "inventoryHash": "2b2c360e987666c7549dc174f9c5c51d1896fc2169b9db9fc0ef3056ececea40"
+  "inventoryHash": "9380f95d2cc5b4b04b576ea52f6c4f50d366fd127832c8cc5093e4301f1bbc2d"
 }

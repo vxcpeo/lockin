@@ -1,6 +1,6 @@
-# Reskin inventory — latchera-website
+# Reskin inventory — holdavia-website
 
-Generated: 2026-10-20T16:01:33.142Z
+Generated: 2026-10-21T16:56:43.492Z
 
 ## Project
 
@@ -15,12 +15,12 @@ Generated: 2026-10-20T16:01:33.142Z
 
 ## Original skeleton
 
-- Archetype: **dashboard-shell** (shell)
-- Traits: sidebar, topbar, cards, hero, grid, modal, charts, sticky
+- Archetype: **document-flow** (editorial)
+- Traits: hero, grid, modal, charts, sticky
 - Max template depth: 10
-- Top-level tags: docspage, template, div, docspage, template, div
+- Top-level tags: docspage, div, div, docspage, div, div
 
-The replacement skeleton must not be `dashboard-shell` and must not be in the same family (`shell`).
+The replacement skeleton must not be `document-flow` and must not be in the same family (`editorial`).
 
 ## Routes
 
@@ -28,14 +28,14 @@ The replacement skeleton must not be `dashboard-shell` and must not be in the sa
 
 ## Palette (most used first)
 
-`#686271` (40) · `#d6d0c7` (30) · `#d8d0c7` (20) · `#111016` (12) · `#faf7f1` (12) · `#ffffff` (10) · `#716a78` (8) · `#8a8290` (8) · `#8b5cf6` (8) · `#ded7cf` (8)
+`#080d14` (32) · `#e3a6da` (12) · `#182533` (10) · `#b6509e` (10) · `#000000` (8) · `#8fa3b5` (6) · `#060a10` (4) · `#090f17` (4) · `#111a24` (4) · `#2ebac6` (4)
 
 ## Content lock
 
-- Static visible text tokens: **764**
+- Static visible text tokens: **762**
 - Binding expressions: **154**
 - Event handlers: **16**
-- Contract hash: `2b2c360e987666c7549dc174f9c5c51d1896fc2169b9db9fc0ef3056ececea40`
+- Contract hash: `9380f95d2cc5b4b04b576ea52f6c4f50d366fd127832c8cc5093e4301f1bbc2d`
 
 Everything in `.reskin/content-contract.json` is immutable: visible copy, placeholders, labels, routes, link targets, asset sources, bindings, handlers, API endpoints and i18n values. A reskin may move these tokens to new markup but may not rewrite, remove or hide them.
 

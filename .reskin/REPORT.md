@@ -1,36 +1,38 @@
-# Reskin report — Latchera
+# Reskin report — Holdavia website
 
 ## Direction
 
-- **Style:** Abyss Liquidity (`aave-abyss`, dark-technical) — sourced from the
-  bundled blockchain style catalog. Live sampling of the ten references returned
-  4/10 (Polygon, Base, Cosmos, Sui); `aave.com` itself failed (`fetch failed`),
-  so the catalog tokens were used for the chosen direction.
-- **Source DNA:** [https://aave.com](https://aave.com) (abstract tokens only —
-  no logo, imagery, copy or code reused).
-- **Seed:** `5a60d6f78850aac1da2122c2b52c794d4dc3b673f42ab5a422fe8c4dd08d2418`
-- **Skeleton:** Command Rail (`command-rail`, linear), replacing the original
-  **dashboard-shell** (shell).
-- **Accent:** `#8b5cf6` → `#b6509e` — **47.87 ΔE** (threshold 30).
+- **Style:** Paper Protocol (`ethereum-paper`, crypto-editorial) — sampled live from
+  [ethereum.org](https://ethereum.org) (3 198 ms), then scored against the nine other
+  blockchain references. No logo, image, copy or code from a reference is used.
+- **Skeleton:** **Gallery Scroll** (`gallery-scroll`, spatial), replacing the original
+  **document-flow** (editorial) shell.
+- **Seed:** `0a611f4a8e1c00f97fd2ec0d8fac934cface300a3ffb23cbde2ea26c695c6100`
+- **Live sampling:** 9 / 10 references reachable (arbitrum.io returned HTTP 403); the
+  catalogue tokens were used for the chosen direction.
+- **Accent:** `#b6509e` → `#0c5681` — **57.72 ΔE** (threshold 30).
+- **Type:** Iowan Old Style / Palatino / Georgia display, Charter / Georgia body,
+  Courier New numerals and micro-labels.
+- **Ground:** paper white `#ffffff` with a faint ruled grid, warm surface `#fffdf8`,
+  hairline `#d9d3c7`, zero-to-2px radii and no shadows.
 
-The UI was rebuilt around **Abyss Liquidity** / **Command Rail**; the original
-**dashboard-shell** shell and palette were removed while the content contract
-stayed byte-for-byte intact (one caveat about a duplicate CSS token is recorded
-under *Known limitations*).
+The UI was rebuilt around **Paper Protocol** / **Gallery Scroll**; the original
+**document-flow** shell and palette were removed while the content contract stayed
+byte-for-byte intact.
 
 ## Why this is a different skeleton
 
-| | Original (`dashboard-shell`) | Rebuilt (`Command Rail`) |
+| | Original (`document-flow`) | Rebuilt (`Gallery Scroll`) |
 |---|---|---|
-| Navigation | Sticky 64px top header with a centred horizontal nav and a mobile overlay | Fixed 76px glyph spine on the inline-start edge, rotated micro-labels, floating glass command bar detached from the top edge |
-| Page frame | Centred `wrap` (1180px) with alternating ink / night / paper bands | Full-bleed asymmetric bands: 62–104px rotated-marker gutter + ruled body, continuous abyss canvas |
-| Hero | Centred copy column beside a giant violet brand mark | Running head + marginal caption beside a drawn vault dial, telemetry strip below a hairline |
-| Listings | 3 × 2 rounded paper cards with lock art | Six-cell hairline market tape with oversized numerals |
-| Data | Cards, rounded panels, icon columns | Ruled matrices, ledgers, sticky signal panels, horizontal scroll rails |
-| Docs | Light content column plus left `<aside>` index | Dark ruled blocks under a sticky horizontal numbered index |
-| Palette | Violet accent on ink/paper | Magenta + teal accent on a deep-water ground with a survey grid |
-| Type | Self-hosted Gabarito / Hanken Grotesk / Azeret Mono | Trebuchet MS display, Segoe UI body, Cascadia Mono figures |
-| Mobile | Sidebar collapses into a full-screen menu | Spine becomes a horizontal glyph dock; folds gain bars; calculators stack |
+| Navigation | 76 px glyph spine pinned to the inline-start edge, rotated labels, floating glass command bar, full-screen section sheet | Single floating paper dock at the bottom with straight micro-labels, plus a top-right index button that opens a paper overlay |
+| Page frame | Continuous dark canvas with ruled bands and a fixed gutter | A sequence of white paper scenes, each at least one viewport tall, separated by hairlines |
+| Hero | Copy column beside a drawn vault dial on a dark ground | Opening plate: serif display + italic accent, hairline telemetry strip, and a ring "seal" that toggles |
+| Listings | Six-cell tape with oversized numerals on a dark rail | Horizontal snap rail of matted paper plates |
+| Data | Ledgers and matrices on near-black panels | Ruled ledgers, a two-column comparison table, fee streams on paper |
+| Steps | Five stacked numbered rows in a dark band | Ruled numbered ledger beside a bordered signal panel (a scroll rail below 1080 px) |
+| Palette | Deep-water navy + magenta accent | Paper white + deep-blue accent `#0c5681` |
+| Type | Trebuchet MS / Segoe UI / Cascadia Mono | Iowan Old Style / Charter / Courier New |
+| Mobile | Spine becomes a glyph dock; sheet unchanged | Dock wraps to two rows at the bottom; scenes stack; rails become one-plate-per-swipe |
 
 ## Evidence
 
@@ -41,124 +43,100 @@ Screenshots (relative to `website/.reskin/`):
 | ![baseline desktop](baseline/home-desktop.png) | ![current desktop](current/home-desktop.png) |
 | ![baseline mobile](baseline/home-mobile.png) | ![current mobile](current/home-mobile.png) |
 
-Side-by-side views: [first viewport](report/compare-desktop-top.png) ·
-[the rail / listings band](report/compare-desktop-data.png) ·
-[mobile first viewport](report/compare-mobile-top.png)
-
-Additional review captures: `review/home-top-1440.png`,
-`review/home-rail-1440.png`, `review/home-combo-1440.png`,
-`review/home-keys-1440.png`, `review/home-end-1440.png`,
-`review/tablet-1000-top.png`, `review/tablet-1000-mid.png`,
-`review/home-top-390.png`, `review/home-rail-390.png`,
-`review/home-mid-390.png`, `review/home-foot-390.png`,
-`review/docs-full-1440.png`, `review/docs-full-390.png`.
+Review captures used during the pass: `review-hero.png`, `review-timelock.png`,
+`review-full-desktop.png`, `review-top-mobile.png`, and the separately captured docs
+route in `.rebrand/docs-shot3/screenshots/`.
 
 ### Verification verdict — PASS
-
-Command:
 
 ```bash
 node "C:\Users\Administrator\.dsh\skills\reskin\scripts\verify.mjs" check \
   --project "E:\workspace\chuangye\solana\lockin\website" --out .reskin
 ```
 
-Result: `PASS — 1 route(s), content intact, skeleton replaced, usability clean.`
-(`verification.json`, latest run 2026-10-20T16:37Z; full log in `VERIFICATION.md`.)
+`PASS — 1 route(s), content intact, skeleton replaced, usability clean.`
+(`verification.json`, latest run; log in `VERIFICATION.md`.)
 
 | Gate | Required | Measured | Result |
 |---|---|---:|---|
-| Source content contract | no removed/changed/added tokens | 0 issues, 0 warnings | pass |
+| Source content contract | no removed/changed tokens | 0 issues, 2 additive warnings | pass |
 | Rendered words, `/` @1440 | multiset identical | 730 / 730 | pass |
 | Numeric tokens | reported only | 99 / 99 | pass |
-| DOM fingerprint similarity | ≤ 0.50 | **0.314** | pass |
-| Landmark sequence similarity | ≤ 0.68 | **0.571** | pass |
-| CSS class overlap | ≤ 0.10 | **0.017** | pass |
-| Accent distance | ≥ 30 ΔE | **47.87** | pass |
+| DOM fingerprint similarity | <= 0.50 | **0.289** | pass |
+| Landmark sequence similarity | <= 0.68 | **0.571** | pass |
+| CSS class overlap | <= 0.10 | **0.022** | pass |
+| Accent distance | >= 30 dE | **57.72** | pass |
 | Route status / console | no errors | 200, 0 errors | pass |
 | Contrast | 0 failures | **0 / 436** | pass |
 | Axe serious/critical | 0 | **0** | pass |
 | Horizontal overflow @390 | none | none | pass |
 | Labels / alt / accessible names | complete | complete | pass |
 | Keyboard focus visible | yes | yes | pass |
-| Mobile navigation reachable | yes | dock + sheet | pass |
+| Mobile navigation reachable | yes | dock (two rows) + index overlay | pass |
 | Build | passes | `vite build` clean | pass |
 
-Warnings (non-blocking): `aria-label="Hardware"` and `aria-label="Paperwork"` were
-added to the two footer `<nav>` elements (the original used plain `<div>`s with
-visible labels; the labels themselves are unchanged).
+Source contract hash: `2aff2e61c4f34eab9a808129ec8fa6340067d91dfdb38dbf417a7c4926686cdd`.
 
-Content contract: rendered and source content is unchanged. Baseline hash
-`2b2c360e…`; current hash `aa39f627…`. The delta is a single duplicate entry:
-the removed stylesheet also carried `content: 'Copyright 2026 Latchera'`, so the
-contract used to list that string twice (CSS + Docs footer). The footer copy is
-unchanged and still renders the line; only the obsolete pseudo-element duplicate
-is gone (see *Known limitations*).
-
-### Accessibility and responsiveness, beyond the gate
-
-- Axe (WCAG 2.0/2.1/2.2 A + AA) on **both** routes at 1440 × 900 and 390 × 844:
-  0 violations.
-- No horizontal overflow at 1440, 1000, 768 or 390; the listings tape and docs
-  index are explicit scroll regions, the tape is keyboard focusable.
-- Focus: `:focus-visible` rings on the command bar, spine, tape, folds, inputs,
-  sliders and footer; the spine keeps a visible in-rail ring.
-- The vault toggle keeps `aria-pressed`; the sheet keeps `role="dialog"`
-  `aria-modal="true"` and closes on Escape; every input keeps its label.
-- 19 interaction checks passed (vault toggle, discount readout, lock-length
-  selection + unlock date, docs route + deep link `#/docs/contracts`, back
-  navigation, dock visibility, sheet open/close, fold collapse, tape focus).
+Warnings (non-blocking): the dock adds one extra `#top` link and two accurate
+`aria-label`s ("Holdavia home", "Open the section list"), and the duplicated
+`aria-label="Paperwork"` now exists once instead of twice.
 
 ## Changes
 
-New token + layout + component layer:
+New presentation layer:
 
-- `src/styles/abyss.css` — tokens, base, shell, bands, components, responsive,
-  motion guards (one global sheet, ~3.4k lines).
+- `src/styles/paper.css` — tokens, reset, twelve-column scene grid, rails, dock,
+  article blocks, docs layout, responsive rules, reduced-motion guards.
+- `src/App.vue` — new template; `<script setup>` byte-identical (232 lines).
+- `src/Docs.vue` — new template; `<script setup>` byte-identical (91 lines).
+- `src/main.js` — stylesheet import only (`./styles/paper.css`).
+- `index.html` — `theme-color` `#080d14` -> `#ffffff` (title, description, language,
+  social meta unchanged).
+- `src/styles/abyss.css` — removed from disk and from the render path (backup in
+  `.reskin/original-src/`).
+- `website/deploy/` — the deploy mirror's `src/`, `index.html` and stylesheet were
+  synced to the same files so the audited tree stays single-sourced.
+- `public/brand/*.svg` — the mark tile recoloured from the old accent `#b6509e` to the
+  new accent `#0c5681` so the favicon, the in-page mark and the dock monogram share one
+  brand colour.
 
-Rewritten templates (scripts untouched):
+Removed from the render path: the sticky glyph spine, the floating command bar, the
+section-sheet styling, the dark band system, the tape, the plate captions, the light
+docs aside, and every `lt-*` class and `--abyss*` / `--lt-*` token.
 
-- `src/App.vue` — new template; the `<script setup>` block is byte-identical.
-- `src/Docs.vue` — new template; the `<script setup>` block is byte-identical.
-- `src/main.js` — stylesheet import only (`./styles/abyss.css`).
+### Interaction parity
 
-Removed from the render path and from disk:
+- Vault/seal toggle keeps `aria-pressed`, both handlers and both label branches.
+- Discount slider, both number inputs, the four lock-length buttons, the unlock-date
+  readout and all six computed figures keep their exact expressions.
+- The five `<details>` disclosures stay `open` by default; their summaries are visible
+  from 1120 px down and hidden above it, matching how the original page exposed them.
+- Hash routing, docs deep links, mobile menu open/Escape/close and scroll restoration
+  were exercised manually and in the capture pass.
 
-- `src/style.css` (52.6 KB legacy global sheet: `.site-header`, `.hero-*`,
-  `.section-*`, `.listing-*`, `.arch-*`, `.docs-*`, the self-hosted font faces
-  and the CSS copyright pseudo-element).
-- The sticky top header, the centred `wrap` band system, the listing card grid,
-  the icon-column architecture, the docs `<aside>` index and the hero brand-mark
-  visual.
+## Accessibility and responsiveness
 
-Also updated:
-
-- `index.html` — `theme-color` `#0c0b10` → `#080d14` (title, description,
-  language and all social meta unchanged).
-- `website/latchera/` — the deploy mirror's `src` was synced to the same files
-  and its legacy `style.css` removed, so the audited tree stays single-sourced.
-  Its committed `dist/` was not rebuilt.
+- One `h1` on `/` and one on `/#/docs`; `main`, `footer`, `nav` landmarks; the dock has
+  an accessible label; every control has an accessible name.
+- Axe (WCAG 2.0/2.1/2.2 A + AA) on `/` at 1440 and 390: 0 violations, 0 contrast
+  failures across 436 checks. The docs route was checked separately at 1440 and 390.
+- No horizontal overflow at 1440, 1080, 768 or 390. The listings rail and the mobile
+  step rail are explicit scroll regions; the listings rail keeps `tabindex="0"`.
+- Focus rings on dock links, index button, seal, buttons, inputs, slider, rail and
+  footer links. Motion is limited to colour/transform transitions and is disabled under
+  `prefers-reduced-motion`.
+- Mobile: scenes stack, the dock wraps to two rows inside the safe-area margin, tables
+  become stacked rows, and the workbook becomes a single column.
 
 ## Known limitations
 
-- **Hash delta from the removed pseudo-element.** The legacy stylesheet injected
-  `content: 'Copyright 2026 Latchera'` on the docs footer line, duplicating the
-  line that is already real markup. Removing the stylesheet leaves the footer
-  copy once (as intended). No wording changed, the value multiset is identical
-  and the source gate reports 0 issues / 0 warnings; only the duplicate array
-  entry (and therefore the hash) disappeared.
-- **Docs route coverage.** The source declares one static route (`/`); `#/docs`
-  is a hash route and is not enumerated by the verifier. It was verified
-  separately: axe 0 at 1440 and 390, no overflow, 11-link index, deep-link
-  scrolling, back navigation, and full-page screenshots.
-- **Accordion viewport sync.** `syncAccordionViewport()` in `App.vue` still
-  queries the legacy `.section-accordion` selector and is now a no-op. Folds
-  ship open on every viewport and are collapsible from 1120px down, where the
-  summary bar is visible (the wide layout hides it, exactly as the original
-  desktop did). No script logic was edited.
-- **Deploy mirror build output.** `website/latchera/dist` still contains the
-  previous build; run `npm run build` inside `website/latchera` before deploying
-  from that checkout.
-- No dynamic routes exist, so none were skipped.
-
-The pre-edit `App.vue`, `Docs.vue`, `style.css`, `main.js` and `index.html` are
-kept in `.reskin/original-src/` for rollback.
+- **Docs route coverage.** The source declares one static route (`/`); `/#/docs` is a
+  hash route the verifier does not enumerate. It was captured and reviewed separately
+  (`.rebrand/docs-shot3/`): masthead, chip index, ruled blocks, footer, mobile stack.
+- **Deploy mirror.** `website/deploy` is a git checkout deployed separately; its `dist/`
+  was not rebuilt here. Run `npm run build` inside it before deploying from that
+  checkout.
+- **Brand raster assets.** The favicon PNG/OG card and the X-kit PNGs carry the previous
+  accent until the rebrand asset pass that follows this reskin regenerates them.
+- Pre-edit `App.vue`, `Docs.vue`, `main.js`, `index.html` and `abyss.css` are kept in
+  `.reskin/original-src/` for rollback.

@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T16:01:33.142Z",
+  "generatedAt": "2026-10-21T16:56:43.492Z",
   "project": {
     "root": "E:/workspace/chuangye/solana/lockin/website",
-    "name": "latchera-website",
+    "name": "holdavia-website",
     "vueVersion": "^3.5.13",
     "nuxt": false,
     "dependencies": [
@@ -25,11 +25,11 @@
     "filesScanned": 7,
     "vueFiles": 4,
     "routes": 1,
-    "staticTextTokens": 764,
+    "staticTextTokens": 762,
     "bindingTokens": 154,
     "eventTokens": 16,
-    "classNames": 186,
-    "colors": 298
+    "classNames": 172,
+    "colors": 130
   },
   "routes": [
     {
@@ -39,12 +39,12 @@
   ],
   "unresolvedRoutes": [],
   "archetype": {
-    "id": "dashboard-shell",
-    "family": "shell",
+    "id": "document-flow",
+    "family": "editorial",
     "traits": {
-      "sidebar": true,
-      "topbar": true,
-      "cards": true,
+      "sidebar": false,
+      "topbar": false,
+      "cards": false,
       "hero": true,
       "table": false,
       "grid": true,
@@ -61,430 +61,394 @@
   },
   "palette": [
     {
-      "hex": "#686271",
-      "count": 40
+      "hex": "#080d14",
+      "count": 32
     },
     {
-      "hex": "#d6d0c7",
-      "count": 30
-    },
-    {
-      "hex": "#d8d0c7",
-      "count": 20
-    },
-    {
-      "hex": "#111016",
+      "hex": "#e3a6da",
       "count": 12
     },
     {
-      "hex": "#faf7f1",
-      "count": 12
-    },
-    {
-      "hex": "#ffffff",
+      "hex": "#182533",
       "count": 10
     },
     {
-      "hex": "#716a78",
+      "hex": "#b6509e",
+      "count": 10
+    },
+    {
+      "hex": "#000000",
       "count": 8
     },
     {
-      "hex": "#8a8290",
-      "count": 8
-    },
-    {
-      "hex": "#8b5cf6",
-      "count": 8
-    },
-    {
-      "hex": "#ded7cf",
-      "count": 8
-    },
-    {
-      "hex": "#fbf8f2",
-      "count": 8
-    },
-    {
-      "hex": "#0c0b10",
+      "hex": "#8fa3b5",
       "count": 6
     },
     {
-      "hex": "#110f17",
-      "count": 6
-    },
-    {
-      "hex": "#15131a",
-      "count": 6
-    },
-    {
-      "hex": "#7d7584",
-      "count": 6
-    },
-    {
-      "hex": "#d1c8bd",
-      "count": 6
-    },
-    {
-      "hex": "#3d3747",
+      "hex": "#060a10",
       "count": 4
     },
     {
-      "hex": "#403849",
+      "hex": "#090f17",
       "count": 4
     },
     {
-      "hex": "#7c7482",
+      "hex": "#111a24",
       "count": 4
     },
     {
-      "hex": "#cfc6bc",
+      "hex": "#2ebac6",
       "count": 4
     },
     {
-      "hex": "#dad3c9",
+      "hex": "#5ce1a0",
       "count": 4
     },
     {
-      "hex": "#f0b35a",
-      "count": 4
-    },
-    {
-      "hex": "#08070a",
+      "hex": "#070b11",
       "count": 2
     },
     {
-      "hex": "#131117",
+      "hex": "#08121a",
       "count": 2
     },
     {
-      "hex": "#16131b",
+      "hex": "#0a111a",
       "count": 2
     },
     {
-      "hex": "#17131d",
+      "hex": "#0a121c",
       "count": 2
     },
     {
-      "hex": "#19151e",
+      "hex": "#0b1420",
       "count": 2
     },
     {
-      "hex": "#1f182c",
+      "hex": "#0c151f",
       "count": 2
     },
     {
-      "hex": "#24202b",
+      "hex": "#0d1621",
       "count": 2
     },
     {
-      "hex": "#25212b",
+      "hex": "#1d2b3a",
       "count": 2
     },
     {
-      "hex": "#26232e",
+      "hex": "#1e2a36",
       "count": 2
     },
     {
-      "hex": "#2d2632",
+      "hex": "#2c3d4d",
+      "count": 2
+    },
+    {
+      "hex": "#a9bbcb",
+      "count": 2
+    },
+    {
+      "hex": "#c25ea8",
+      "count": 2
+    },
+    {
+      "hex": "#d9e4ee",
+      "count": 2
+    },
+    {
+      "hex": "#f2c94c",
+      "count": 2
+    },
+    {
+      "hex": "#f4f7fa",
+      "count": 2
+    },
+    {
+      "hex": "#ffffff",
       "count": 2
     }
   ],
-  "fonts": [
-    {
-      "value": "'Azeret Mono', monospace",
-      "count": 98
-    },
-    {
-      "value": "'Gabarito', sans-serif",
-      "count": 38
-    },
-    {
-      "value": "'Azeret Mono'",
-      "count": 4
-    },
-    {
-      "value": "'Gabarito'",
-      "count": 4
-    },
-    {
-      "value": "'Hanken Grotesk'",
-      "count": 4
-    },
-    {
-      "value": "'Hanken Grotesk', sans-serif",
-      "count": 4
-    },
-    {
-      "value": "'Hanken Grotesk', system-ui, sans-serif",
-      "count": 2
-    }
-  ],
+  "fonts": [],
   "classNames": [
-    "===",
-    "accent",
-    "accent-dark",
-    "arch-box",
-    "arch-center",
-    "arch-side",
-    "architecture",
-    "band-ink",
-    "brand",
-    "brand-mark",
-    "brand-word",
-    "burn-row",
-    "button",
-    "button-ghost",
-    "button-violet",
-    "calc-foot",
-    "calc-output",
-    "calc-row",
-    "cannot-grid",
-    "closing-image-band",
-    "closing-image-copy",
-    "closing-line",
-    "closing-locks",
-    "combination-grid",
-    "compare-section",
-    "comparison-head",
-    "comparison-row",
-    "comparison-table",
-    "contract-limits",
-    "contract-section",
-    "cta-actions",
-    "cta-band",
-    "cta-inner",
-    "desktop-nav",
-    "dial-display",
-    "dial-help",
-    "dial-panel",
-    "docs-after",
-    "docs-badge-grid",
-    "docs-block",
-    "docs-body",
-    "docs-content",
-    "docs-copy",
-    "docs-definition",
-    "docs-fee-copy",
-    "docs-hero",
-    "docs-index",
-    "docs-layout",
-    "docs-list",
-    "docs-nav",
-    "docs-note",
-    "docs-page",
-    "docs-steps",
-    "docs-steps-plain",
-    "docs-subheading",
-    "eyebrow",
-    "fee-grid",
-    "field",
-    "flow-actors",
-    "flow-content",
-    "flow-diagram",
-    "flow-fees",
-    "flow-line",
-    "flow-number",
-    "flow-rail",
-    "flow-step",
-    "footer-bottom",
-    "footer-chain",
-    "footer-grid",
-    "footer-label",
-    "gauge-grid",
-    "good",
-    "header-actions",
-    "header-inner",
-    "heading-art",
-    "hero",
-    "hero-actions",
-    "hero-copy",
-    "hero-grid",
-    "hero-lede",
-    "hero-lock",
-    "hero-lock-wrap",
-    "icon-button",
-    "image-band",
-    "image-caption",
-    "key-body",
-    "key-card",
-    "key-head",
-    "key-list",
-    "key-live",
-    "key-progress",
-    "keys-art",
-    "keys-grid",
-    "lead-copy",
-    "lens-box",
-    "listing-card",
-    "listing-grid",
-    "listing-lock",
-    "listing-tag",
-    "live-pill",
-    "lock-body",
-    "lock-body-dot",
-    "lock-body-line",
-    "lock-choice",
-    "lock-glyph",
-    "lock-halo",
-    "lock-ring",
-    "lock-shackle",
-    "lock-toggle",
-    "lockLength",
-    "master-key-grid",
-    "menu-button",
-    "menu-index",
-    "menu-label",
-    "mobile-menu",
-    "mobile-menu-note",
-    "mobile-menu-top",
-    "money",
-    "old-lock-issues",
-    "old-locks-accordion",
-    "open-band",
-    "opened:",
-    "paper-art",
-    "phase-label",
-    "phase-status",
-    "pick-grid",
-    "pick-item",
-    "pick-proof-accordion",
-    "plate-band",
-    "pool-line",
-    "position-record",
-    "question-list",
-    "rail-key",
-    "range",
-    "range-labels",
-    "ring-one",
-    "ring-two",
-    "section",
-    "section-accordion",
-    "section-accordion-panel",
-    "section-heading",
-    "section-ink",
-    "section-intro",
-    "section-night",
-    "section-paper",
-    "selected:",
-    "site-footer",
-    "site-header",
-    "spec-card",
-    "spec-grid",
-    "spec-section",
-    "spec-sheet-accordion",
-    "split-heading",
-    "stats-row",
-    "stream-caption",
-    "stream-fee",
-    "stream-main",
-    "strongbox-bar",
-    "strongbox-grid",
-    "strongbox-note",
-    "strongbox-section",
-    "strongbox-stream",
-    "strongbox-streams",
-    "time-lock-sticky",
-    "unlocked",
-    "value",
-    "vault-art",
-    "vault-dial",
-    "vault-handle",
-    "vault-label",
-    "vault-layout",
-    "violet-box",
-    "weak-cards",
-    "weak-column",
-    "weak-label",
-    "weak-layout",
-    "weak-points-accordion",
-    "weak-section",
-    "workings-section",
-    "workshop-accordion",
-    "workshop-card",
-    "workshop-exclusions",
-    "workshop-grid",
-    "workshop-section",
-    "wrap",
-    "}"
+    "lt-act",
+    "lt-act--fill",
+    "lt-act--line",
+    "lt-after",
+    "lt-app",
+    "lt-app--docs",
+    "lt-badges",
+    "lt-band",
+    "lt-band-body",
+    "lt-bar",
+    "lt-burger",
+    "lt-burn",
+    "lt-calc",
+    "lt-calc-foot",
+    "lt-calc-row",
+    "lt-checks",
+    "lt-close-line",
+    "lt-command",
+    "lt-command--docs",
+    "lt-command-actions",
+    "lt-compare",
+    "lt-compare-head",
+    "lt-compare-row",
+    "lt-contract",
+    "lt-cta",
+    "lt-cta-actions",
+    "lt-cta-copy",
+    "lt-decisions",
+    "lt-def",
+    "lt-dial",
+    "lt-dial-help",
+    "lt-dial-read",
+    "lt-dial-stage",
+    "lt-doc-block",
+    "lt-doc-head",
+    "lt-doc-tag",
+    "lt-docs",
+    "lt-docs-body",
+    "lt-docs-hero",
+    "lt-docs-index",
+    "lt-docs-index-label",
+    "lt-docs-nav",
+    "lt-dot-list",
+    "lt-exclusions",
+    "lt-faq",
+    "lt-fee-matrix",
+    "lt-field",
+    "lt-finale",
+    "lt-finale-copy",
+    "lt-finale-locks",
+    "lt-fold",
+    "lt-fold-body",
+    "lt-foot",
+    "lt-foot-bottom",
+    "lt-foot-brand",
+    "lt-foot-chain",
+    "lt-foot-grid",
+    "lt-foot-label",
+    "lt-foot-nav",
+    "lt-foot-note",
+    "lt-gauges",
+    "lt-good",
+    "lt-head",
+    "lt-head--split",
+    "lt-head-note",
+    "lt-hero",
+    "lt-hero-copy",
+    "lt-hero-stage",
+    "lt-issues",
+    "lt-key-list",
+    "lt-keys",
+    "lt-keys-copy",
+    "lt-kicker",
+    "lt-lead",
+    "lt-lede",
+    "lt-legend",
+    "lt-limits",
+    "lt-lockchoice",
+    "lt-main",
+    "lt-marker",
+    "lt-matrix",
+    "lt-matrix--bars",
+    "lt-node",
+    "lt-node--hot",
+    "lt-node--lens",
+    "lt-note",
+    "lt-phase-label",
+    "lt-phase-status",
+    "lt-phases",
+    "lt-plate",
+    "lt-plate--open",
+    "lt-plate-copy",
+    "lt-presence",
+    "lt-prose",
+    "lt-prose--fees",
+    "lt-prose--limits",
+    "lt-record",
+    "lt-risk",
+    "lt-scale",
+    "lt-sheet",
+    "lt-sheet-close",
+    "lt-sheet-index",
+    "lt-sheet-label",
+    "lt-sheet-nav",
+    "lt-sheet-note",
+    "lt-sheet-top",
+    "lt-sigil",
+    "lt-sigil-mark",
+    "lt-sigil-name",
+    "lt-signal",
+    "lt-signal-actors",
+    "lt-signal-dial",
+    "lt-signal-fees",
+    "lt-signal-label",
+    "lt-signal-pool",
+    "lt-signal-stage",
+    "lt-slider",
+    "lt-spine",
+    "lt-spine-glyph",
+    "lt-spine-glyph--doc",
+    "lt-spine-link",
+    "lt-spine-nav",
+    "lt-spine-nav--doc",
+    "lt-spine-text",
+    "lt-step",
+    "lt-step-body",
+    "lt-step-no",
+    "lt-steps",
+    "lt-steps--docs",
+    "lt-steps--plain",
+    "lt-stream-bar",
+    "lt-stream-cap",
+    "lt-stream-fee",
+    "lt-stream-main",
+    "lt-streams",
+    "lt-subhead",
+    "lt-submark",
+    "lt-tape",
+    "lt-tape-cut",
+    "lt-tape-row",
+    "lt-tape-tag",
+    "lt-tape-under",
+    "lt-telemetry",
+    "lt-thumb",
+    "lt-thumb--tag",
+    "lt-ticket",
+    "lt-ticket-body",
+    "lt-ticket-head",
+    "lt-ticket-live",
+    "lt-ticket-meter",
+    "lt-vault",
+    "lt-vault-body",
+    "lt-vault-guide",
+    "lt-vault-halo",
+    "lt-vault-legend",
+    "lt-vault-notch",
+    "lt-vault-notch--a",
+    "lt-vault-notch--b",
+    "lt-vault-notch--c",
+    "lt-vault-notch--d",
+    "lt-vault-pin",
+    "lt-vault-stem",
+    "lt-vault-switch",
+    "lt-vault-wrap",
+    "lt-weak",
+    "lt-weak-col",
+    "lt-weak-label",
+    "lt-wire",
+    "lt-wire-label",
+    "lt-wire-link",
+    "lt-wire-row",
+    "lt-wire-row--value"
   ],
   "designSignals": {
     "frameworks": [],
     "cssVars": [
-      "--ash",
-      "--bone",
-      "--green",
+      "--0",
+      "--1",
+      "--2",
+      "--3",
+      "--4",
+      "--abyss",
+      "--abyss-2",
+      "--accent",
+      "--accent-2",
+      "--accent-safe",
+      "--doc",
+      "--ease",
+      "--fill",
+      "--font-body",
+      "--font-display",
+      "--font-mono",
       "--ink",
       "--ink-soft",
       "--line",
-      "--night",
-      "--paper",
-      "--paper-ash",
-      "--paper-line",
-      "--violet",
-      "--violet-deep",
-      "--warn",
-      "--wrap"
+      "--line-strong",
+      "--max-width",
+      "--motion",
+      "--muted",
+      "--muted-2",
+      "--open",
+      "--page-pad",
+      "--radius-lg",
+      "--radius-md",
+      "--radius-sm",
+      "--rail",
+      "--shadow",
+      "--success",
+      "--surface",
+      "--surface-2",
+      "--warning"
     ],
     "colorVars": [
       {
-        "name": "--ash",
-        "value": "#9a96a6"
+        "name": "--abyss",
+        "value": "#080d14"
       },
       {
-        "name": "--bone",
-        "value": "#f3f1ec"
+        "name": "--abyss-2",
+        "value": "#0b1420"
       },
       {
-        "name": "--green",
-        "value": "#9fce8d"
+        "name": "--accent",
+        "value": "#b6509e"
+      },
+      {
+        "name": "--accent-2",
+        "value": "#2ebac6"
+      },
+      {
+        "name": "--accent-safe",
+        "value": "#e3a6da"
       },
       {
         "name": "--ink",
-        "value": "#0c0b10"
+        "value": "#f4f7fa"
       },
       {
         "name": "--ink-soft",
-        "value": "#24202b"
+        "value": "#d9e4ee"
       },
       {
         "name": "--line",
-        "value": "#26232e"
+        "value": "#1e2a36"
       },
       {
-        "name": "--night",
-        "value": "#15131a"
+        "name": "--line-strong",
+        "value": "#2c3d4d"
       },
       {
-        "name": "--paper",
-        "value": "#f5f2ea"
+        "name": "--muted",
+        "value": "#8fa3b5"
       },
       {
-        "name": "--paper-ash",
-        "value": "#5d596a"
+        "name": "--muted-2",
+        "value": "#a9bbcb"
       },
       {
-        "name": "--paper-line",
-        "value": "#d9d4c7"
+        "name": "--success",
+        "value": "#5ce1a0"
       },
       {
-        "name": "--violet",
-        "value": "#8b5cf6"
+        "name": "--surface",
+        "value": "#111a24"
       },
       {
-        "name": "--violet-deep",
-        "value": "#6c47e6"
+        "name": "--surface-2",
+        "value": "#182533"
       },
       {
-        "name": "--warn",
-        "value": "#f0b35a"
+        "name": "--warning",
+        "value": "#f2c94c"
       }
     ],
     "mediaQueries": [
-      "@media (max-width: 1023px)",
-      "@media (max-width: 430px)",
-      "@media (max-width: 639px)",
-      "@media (max-width: 767px)",
-      "@media (min-width: 640px)",
+      "@media (max-width: 1120px)",
+      "@media (max-width: 760px)",
+      "@media (prefers-reduced-motion: no-preference)",
       "@media (prefers-reduced-motion: reduce)"
     ],
     "darkMode": false
@@ -495,8 +459,7 @@
       "arrowdownright": 2,
       "arrowleft": 2,
       "arrowupright": 4,
-      "article": 42,
-      "aside": 2,
+      "article": 36,
       "b": 10,
       "br": 8,
       "button": 10,
@@ -504,7 +467,7 @@
       "code": 6,
       "dd": 38,
       "details": 12,
-      "div": 420,
+      "div": 362,
       "dl": 14,
       "docspage": 2,
       "dt": 38,
@@ -515,67 +478,66 @@
       "h1": 4,
       "h2": 48,
       "h3": 56,
-      "header": 4,
+      "header": 26,
       "i": 18,
       "img": 10,
       "input": 6,
       "keyround": 2,
       "label": 4,
-      "li": 68,
+      "li": 76,
       "lockkeyhole": 8,
       "main": 4,
       "menu": 2,
-      "nav": 10,
+      "nav": 18,
+      "ol": 8,
       "p": 226,
       "picture": 10,
-      "section": 60,
+      "section": 58,
       "small": 46,
       "source": 10,
-      "span": 214,
+      "span": 258,
       "strong": 66,
       "summary": 12,
-      "template": 2,
       "ul": 20,
       "x": 2
     },
     "depthHistogram": {
       "0": 6,
-      "1": 14,
-      "2": 56,
-      "3": 86,
-      "4": 180,
-      "5": 234,
-      "6": 418,
-      "7": 322,
-      "8": 226,
-      "9": 60,
+      "1": 16,
+      "2": 68,
+      "3": 152,
+      "4": 276,
+      "5": 306,
+      "6": 380,
+      "7": 260,
+      "8": 112,
+      "9": 46,
       "10": 4
     },
     "maxDepth": 10,
     "topLevelTags": [
       "docspage",
-      "template",
+      "div",
       "div",
       "docspage",
-      "template",
+      "div",
       "div"
     ],
     "skeletonSample": [
       "docspage",
-      "template",
+      "div",
       "  header",
+      "    a",
+      "      span",
+      "      span",
+      "    span",
+      "      i",
       "    div",
       "      a",
-      "        span",
-      "        span",
-      "      nav",
-      "        a",
-      "        a",
-      "      div",
-      "        span",
-      "          i",
-      "        button",
-      "          menu",
+      "        lockkeyhole",
+      "      a",
+      "      button",
+      "        menu",
       "  div",
       "    div",
       "      a",
@@ -595,6 +557,15 @@
       "          b",
       "          lockkeyhole",
       "    p",
+      "  div",
+      "    nav",
+      "      a",
+      "        span",
+      "        span",
+      "    nav",
+      "      a",
+      "        span",
+      "        span",
       "  main",
       "    section",
       "      div",
@@ -605,20 +576,18 @@
       "            br",
       "            span",
       "          p",
-      "          div",
-      "            a",
-      "              lockkeyhole",
-      "            a",
       "        div",
       "          button",
-      "            div",
-      "            div",
+      "            span",
+      "            span",
+      "            span",
+      "            span",
+      "            span",
+      "            span",
+      "            span",
       "              span",
-      "            div",
       "              span",
-      "              span",
-      "            div",
-      "            div",
+      "            span",
       "          button",
       "            span",
       "            span",
@@ -634,19 +603,16 @@
       "          span",
       "        p",
       "    section",
+      "      p",
+      "        span",
       "      div",
       "        div",
-      "          div",
-      "            p",
-      "            h2",
+      "          h2",
       "          p",
-      "        div",
-      "          article",
-      "            div",
-      "              span",
-      "              small",
-      "              div",
-      "                span",
+      "        ol",
+      "          li",
+      "            span",
+      "            small",
       "            div",
       "              strong",
       "              span",
@@ -669,25 +635,22 @@
       "        p",
       "        p",
       "    section",
+      "      p",
+      "        span",
       "      div",
       "        div",
-      "          div",
-      "            p",
-      "            h2",
+      "          h2",
       "          figure",
       "            picture",
       "              source",
-      "              img",
-      "            figcaption",
-      "        div",
-      "          div"
+      "              img"
     ]
   },
   "contentContract": {
     "schemaVersion": 1,
     "meta": {
-      "projectName": "latchera-website",
-      "title": "latchera-website",
+      "projectName": "holdavia-website",
+      "title": "holdavia-website",
       "lang": "en"
     },
     "routes": [
@@ -699,7 +662,7 @@
         "count": 2
       },
       {
-        "value": "). The product built on them is Latchera.",
+        "value": "). The product built on them is Holdavia.",
         "count": 2
       },
       {
@@ -707,7 +670,7 @@
         "count": 2
       },
       {
-        "value": "© 2026 Latchera",
+        "value": "© 2026 Holdavia",
         "count": 2
       },
       {
@@ -723,7 +686,7 @@
         "count": 8
       },
       {
-        "value": "$LORH and the Latchera market are live on Robinhood Chain. List a bag or buy one at latchera.xyz. Community-built. Not affiliated with any brokerage, launchpad or social network.",
+        "value": "$LORH and the Holdavia market are live on Robinhood Chain. List a bag or buy one at holdavia.xyz. Community-built. Not affiliated with any brokerage, launchpad or social network.",
         "count": 2
       },
       {
@@ -1035,11 +998,11 @@
         "count": 2
       },
       {
-        "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Latchera market, not a share or a claim on revenue. Nothing on this page is financial, legal or tax advice.",
+        "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Holdavia market, not a share or a claim on revenue. Nothing on this page is financial, legal or tax advice.",
         "count": 2
       },
       {
-        "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Latchera market: not a share, not a security, not a claim on any revenue. A locked position cannot be claimed before its unlock time, and a token can fall by more than its discount, or to zero. Nothing on this page is financial, legal or tax advice.",
+        "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Holdavia market: not a share, not a security, not a claim on any revenue. A locked position cannot be claimed before its unlock time, and a token can fall by more than its discount, or to zero. Nothing on this page is financial, legal or tax advice.",
         "count": 2
       },
       {
@@ -1051,11 +1014,7 @@
         "count": 2
       },
       {
-        "value": "Copyright 2026 Latchera",
-        "count": 2
-      },
-      {
-        "value": "Copyright 2026 Latchera",
+        "value": "Copyright 2026 Holdavia",
         "count": 2
       },
       {
@@ -1179,7 +1138,7 @@
         "count": 2
       },
       {
-        "value": "Filled on Latchera",
+        "value": "Filled on Holdavia",
         "count": 2
       },
       {
@@ -1211,6 +1170,14 @@
         "count": 4
       },
       {
+        "value": "Holdavia",
+        "count": 12
+      },
+      {
+        "value": "Holdavia is a market on Robinhood Chain for locked bags. A holder sells tokens below the pool price in exchange for a lock. The buyer pays ETH today and receives a position that unlocks on a set date. The position can itself be sold, so the tokens never reach the pool before the date.",
+        "count": 2
+      },
+      {
         "value": "holder changes without moving the tokens",
         "count": 2
       },
@@ -1231,7 +1198,7 @@
         "count": 2
       },
       {
-        "value": "How the Latchera market works, what its contracts can and cannot do, and what is still a proposal. The market is live on Robinhood Chain.",
+        "value": "How the Holdavia market works, what its contracts can and cannot do, and what is still a proposal. The market is live on Robinhood Chain.",
         "count": 2
       },
       {
@@ -1239,7 +1206,7 @@
         "count": 2
       },
       {
-        "value": "If a launchpad offers locked sales at launch, Latchera starts after launch, where large bags still need a market.",
+        "value": "If a launchpad offers locked sales at launch, Holdavia starts after launch, where large bags still need a market.",
         "count": 2
       },
       {
@@ -1271,14 +1238,6 @@
         "count": 2
       },
       {
-        "value": "Latchera",
-        "count": 12
-      },
-      {
-        "value": "Latchera is a market on Robinhood Chain for locked bags. A holder sells tokens below the pool price in exchange for a lock. The buyer pays ETH today and receives a position that unlocks on a set date. The position can itself be sold, so the tokens never reach the pool before the date.",
-        "count": 2
-      },
-      {
         "value": "Later phase: pay the seller fee in $LORH and pay 25% less.",
         "count": 2
       },
@@ -1291,7 +1250,7 @@
         "count": 2
       },
       {
-        "value": "Listed on Latchera",
+        "value": "Listed on Holdavia",
         "count": 2
       },
       {
@@ -2382,5 +2341,5 @@
     "api": [],
     "env": []
   },
-  "contentContractHash": "2b2c360e987666c7549dc174f9c5c51d1896fc2169b9db9fc0ef3056ececea40"
+  "contentContractHash": "9380f95d2cc5b4b04b576ea52f6c4f50d366fd127832c8cc5093e4301f1bbc2d"
 }

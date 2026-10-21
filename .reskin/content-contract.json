@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "meta": {
-    "projectName": "latchera-website",
-    "title": "latchera-website",
+    "projectName": "holdavia-website",
+    "title": "holdavia-website",
     "lang": "en"
   },
   "routes": [
@@ -14,7 +14,7 @@
       "count": 2
     },
     {
-      "value": "). The product built on them is Latchera.",
+      "value": "). The product built on them is Holdavia.",
       "count": 2
     },
     {
@@ -22,7 +22,7 @@
       "count": 2
     },
     {
-      "value": "© 2026 Latchera",
+      "value": "© 2026 Holdavia",
       "count": 2
     },
     {
@@ -38,7 +38,7 @@
       "count": 8
     },
     {
-      "value": "$LORH and the Latchera market are live on Robinhood Chain. List a bag or buy one at latchera.xyz. Community-built. Not affiliated with any brokerage, launchpad or social network.",
+      "value": "$LORH and the Holdavia market are live on Robinhood Chain. List a bag or buy one at holdavia.xyz. Community-built. Not affiliated with any brokerage, launchpad or social network.",
       "count": 2
     },
     {
@@ -350,11 +350,11 @@
       "count": 2
     },
     {
-      "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Latchera market, not a share or a claim on revenue. Nothing on this page is financial, legal or tax advice.",
+      "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Holdavia market, not a share or a claim on revenue. Nothing on this page is financial, legal or tax advice.",
       "count": 2
     },
     {
-      "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Latchera market: not a share, not a security, not a claim on any revenue. A locked position cannot be claimed before its unlock time, and a token can fall by more than its discount, or to zero. Nothing on this page is financial, legal or tax advice.",
+      "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Holdavia market: not a share, not a security, not a claim on any revenue. A locked position cannot be claimed before its unlock time, and a token can fall by more than its discount, or to zero. Nothing on this page is financial, legal or tax advice.",
       "count": 2
     },
     {
@@ -366,11 +366,7 @@
       "count": 2
     },
     {
-      "value": "Copyright 2026 Latchera",
-      "count": 2
-    },
-    {
-      "value": "Copyright 2026 Latchera",
+      "value": "Copyright 2026 Holdavia",
       "count": 2
     },
     {
@@ -494,7 +490,7 @@
       "count": 2
     },
     {
-      "value": "Filled on Latchera",
+      "value": "Filled on Holdavia",
       "count": 2
     },
     {
@@ -526,6 +522,14 @@
       "count": 4
     },
     {
+      "value": "Holdavia",
+      "count": 12
+    },
+    {
+      "value": "Holdavia is a market on Robinhood Chain for locked bags. A holder sells tokens below the pool price in exchange for a lock. The buyer pays ETH today and receives a position that unlocks on a set date. The position can itself be sold, so the tokens never reach the pool before the date.",
+      "count": 2
+    },
+    {
       "value": "holder changes without moving the tokens",
       "count": 2
     },
@@ -546,7 +550,7 @@
       "count": 2
     },
     {
-      "value": "How the Latchera market works, what its contracts can and cannot do, and what is still a proposal. The market is live on Robinhood Chain.",
+      "value": "How the Holdavia market works, what its contracts can and cannot do, and what is still a proposal. The market is live on Robinhood Chain.",
       "count": 2
     },
     {
@@ -554,7 +558,7 @@
       "count": 2
     },
     {
-      "value": "If a launchpad offers locked sales at launch, Latchera starts after launch, where large bags still need a market.",
+      "value": "If a launchpad offers locked sales at launch, Holdavia starts after launch, where large bags still need a market.",
       "count": 2
     },
     {
@@ -586,14 +590,6 @@
       "count": 2
     },
     {
-      "value": "Latchera",
-      "count": 12
-    },
-    {
-      "value": "Latchera is a market on Robinhood Chain for locked bags. A holder sells tokens below the pool price in exchange for a lock. The buyer pays ETH today and receives a position that unlocks on a set date. The position can itself be sold, so the tokens never reach the pool before the date.",
-      "count": 2
-    },
-    {
       "value": "Later phase: pay the seller fee in $LORH and pay 25% less.",
       "count": 2
     },
@@ -606,7 +602,7 @@
       "count": 2
     },
     {
-      "value": "Listed on Latchera",
+      "value": "Listed on Holdavia",
       "count": 2
     },
     {

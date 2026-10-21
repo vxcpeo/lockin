@@ -1,91 +1,149 @@
 {
   "schemaVersion": 1,
-  "selectedAt": "2026-10-20T16:01:44.521Z",
-  "seed": "5a60d6f78850aac1da2122c2b52c794d4dc3b673f42ab5a422fe8c4dd08d2418",
+  "selectedAt": "2026-10-21T16:57:07.821Z",
+  "seed": "0a611f4a8e1c00f97fd2ec0d8fac934cface300a3ffb23cbde2ea26c695c6100",
   "style": {
-    "id": "aave-abyss",
-    "name": "Abyss Liquidity",
-    "family": "dark-technical",
+    "id": "ethereum-paper",
+    "name": "Paper Protocol",
+    "family": "crypto-editorial",
     "sources": [
-      "https://aave.com"
+      "https://ethereum.org"
     ],
     "keywords": [
-      "liquidity",
-      "glass",
-      "teal",
-      "nocturnal",
-      "precise"
+      "credible",
+      "neutral",
+      "serif",
+      "paper",
+      "calm"
     ],
     "palette": {
-      "bg": "#080D14",
-      "surface": "#111A24",
-      "surfaceAlt": "#182533",
-      "ink": "#F4F7FA",
-      "muted": "#8FA3B5",
-      "accent": "#B6509E",
-      "accentSafe": "#E3A6DA",
-      "accent2": "#2EBAC6",
-      "line": "#1E2A36",
-      "success": "#5CE1A0",
-      "danger": "#FF7A7A",
-      "warning": "#F2C94C"
+      "bg": "#ffffff",
+      "surface": "#FFFDF8",
+      "surfaceAlt": "#EDE9DF",
+      "ink": "#1B1B1B",
+      "muted": "#6B675F",
+      "accent": "#0c5681",
+      "accentSafe": "#0c5681",
+      "accent2": "#8B9DFF",
+      "line": "#D9D3C7",
+      "success": "#2F6B4F",
+      "danger": "#A83A2A",
+      "warning": "#8A5A00"
     },
     "typography": {
-      "display": "\"Trebuchet MS\", \"Segoe UI\", sans-serif",
-      "body": "\"Segoe UI\", \"Helvetica Neue\", sans-serif",
-      "mono": "\"Cascadia Mono\", ui-monospace, monospace",
-      "displayWeight": 650,
-      "displayTracking": "-0.035em",
-      "labelTracking": "0.1em",
-      "scale": "clamp(2.7rem, 6vw, 6rem) / 1.6rem / 1rem / 0.72rem"
+      "display": "\"Iowan Old Style\", \"Palatino Linotype\", Georgia, serif",
+      "body": "\"Charter\", \"Georgia\", \"Segoe UI\", serif",
+      "mono": "\"Courier New\", ui-monospace, monospace",
+      "displayWeight": 500,
+      "displayTracking": "-0.025em",
+      "labelTracking": "0.12em",
+      "scale": "clamp(2.7rem, 6vw, 6rem) / 1.8rem / 1.08rem / 0.74rem"
     },
     "shape": {
-      "radiusSm": "10px",
-      "radiusMd": "16px",
-      "radiusLg": "24px",
-      "border": "1px solid rgba(143, 163, 181, 0.18)",
-      "shadow": "0 26px 70px rgba(0, 0, 0, 0.5)"
+      "radiusSm": "0px",
+      "radiusMd": "2px",
+      "radiusLg": "4px",
+      "border": "1px solid var(--line)",
+      "shadow": "none"
     },
     "texture": [
-      "liquid glass",
-      "teal-magenta glow",
-      "fine grid",
-      "data sparklines"
+      "newsprint rules",
+      "drop caps",
+      "marginalia labels",
+      "ether gradient wash"
     ],
     "motion": {
-      "feel": "fluid",
-      "duration": "240ms",
-      "easing": "cubic-bezier(.22,1,.36,1)"
+      "feel": "quiet",
+      "duration": "300ms",
+      "easing": "ease-out"
     },
     "density": "comfortable",
     "live": {
-      "sampled": false
+      "sampled": true,
+      "url": "https://ethereum.org",
+      "elapsedMs": 3198,
+      "sampledColors": [
+        {
+          "hex": "#000000",
+          "count": 128
+        },
+        {
+          "hex": "#ffffff",
+          "count": 56
+        },
+        {
+          "hex": "#0c5681",
+          "count": 14
+        },
+        {
+          "hex": "#74acdf",
+          "count": 14
+        },
+        {
+          "hex": "#667bbc",
+          "count": 14
+        },
+        {
+          "hex": "#673076",
+          "count": 14
+        }
+      ],
+      "sampledFonts": [
+        {
+          "value": "Inter",
+          "count": 7
+        },
+        {
+          "value": "IBM Plex Mono",
+          "count": 5
+        },
+        {
+          "value": "Inter Fallback",
+          "count": 1
+        },
+        {
+          "value": "Inter,Inter Fallback",
+          "count": 1
+        },
+        {
+          "value": "IBM Plex Mono Fallback",
+          "count": 1
+        },
+        {
+          "value": "IBM Plex Mono,IBM Plex Mono Fallback",
+          "count": 1
+        }
+      ],
+      "applied": [
+        "accent #4C63D2 -> #0c5681",
+        "bg #F7F5EF -> #ffffff"
+      ]
     }
   },
   "layout": {
-    "id": "command-rail",
-    "name": "Command Rail",
-    "family": "linear",
+    "id": "gallery-scroll",
+    "name": "Gallery Scroll",
+    "family": "spatial",
     "signature": [
-      "72-84px icon-only rail on one edge",
-      "floating command bar detached from the top edge",
-      "content is full-bleed with an asymmetric left margin",
-      "page title is set as a large running head, not a toolbar label",
-      "rail uses glyphs and rotated micro-labels instead of text menu rows"
+      "full-viewport panels with generous negative space",
+      "horizontal scroll-snap for related panels",
+      "minimal floating dock navigation",
+      "each route is a sequence of framed scenes",
+      "large imagery/typography and very few borders"
     ],
-    "navigation": "Icon rail with accessible names and a command bar (search + primary action). The rail is visually a spine, not a sidebar: no logo block, no long labels, no 240px panel.",
+    "navigation": "Floating dock at the bottom (icons + accessible names) and a vertical dot index for sections; no conventional header.",
     "structure": [
-      "fixed 76px glyph rail",
-      "floating command bar offset 24px from the top",
-      "oversized running head",
-      "two-column data stage with an off-center gutter",
-      "bottom status strip"
+      "opening panel with brand and route count",
+      "scene panels with snap points",
+      "horizontal data rail",
+      "closing panel with form/action",
+      "floating dock"
     ],
-    "content_mapping": "Keep every route label as the accessible name of a rail glyph and as the running head. Put page actions in the command bar. Main data gets the wide column; secondary data gets a narrow marginal column.",
-    "css_recipe": "body{padding-left:76px}.rail{position:fixed;inset:0 auto 0 0;width:76px;display:flex;flex-direction:column;align-items:center;gap:12px}.command{position:sticky;top:18px;margin:18px 24px 0;display:flex;gap:12px;border:1px solid var(--line);border-radius:var(--radius-lg);backdrop-filter:blur(16px)}.stage{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(260px,.45fr);gap:clamp(24px,4vw,64px)}",
+    "content_mapping": "Group each route's content into 2-4 scenes. Keep metrics as large typographic facts. Tables become horizontal snap rails with one record per panel on mobile. Forms become the closing scene.",
+    "css_recipe": ".scene{min-height:100svh;display:grid;place-content:center;padding:clamp(24px,6vw,96px);scroll-snap-align:start}.rail{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px}.rail>*{scroll-snap-align:start;flex:0 0 min(86vw,520px)}.dock{position:fixed;bottom:18px;left:50%;translate:-50% 0;display:flex;gap:6px;border-radius:999px}",
     "risks": [
-      "a 240px labelled sidebar is the old skeleton in disguise",
-      "rail icons need visible focus and accessible names"
+      "full-viewport panels can hide content below the fold; provide visible scroll cues",
+      "horizontal rails need keyboard and touch support"
     ],
     "not_interchangeable_with": [
       "dashboard-shell",
@@ -93,29 +151,42 @@
     ]
   },
   "selection": {
-    "reason": "The selector sampled 4/10 blockchain references, scored every direction for perceptual distance from the original accent (#8b5cf6) and background (#faf7f1), added a deterministic seed jitter, and chose Abyss Liquidity because it is 62 ΔE away from the original accent and pairs with Command Rail, a linear skeleton rather than the original dashboard-shell.",
+    "reason": "The selector sampled 9/10 blockchain references, scored every direction for perceptual distance from the original accent (#b6509e) and background (#080d14), added a deterministic seed jitter, and chose Paper Protocol because it is 58 ΔE away from the original accent and pairs with Gallery Scroll, a spatial skeleton rather than the original document-flow.",
     "ranking": [
+      {
+        "id": "ethereum-paper",
+        "name": "Paper Protocol",
+        "score": 0.9048,
+        "accentDistance": 57.7,
+        "bgDistance": 96.6,
+        "familyNovelty": 1,
+        "jitter": 0.776,
+        "archetype": "gallery-scroll",
+        "archetypeFamily": "spatial",
+        "live": true,
+        "accent": "#0c5681"
+      },
       {
         "id": "aave-abyss",
         "name": "Abyss Liquidity",
-        "score": 0.8297,
-        "accentDistance": 62.4,
-        "bgDistance": 94.1,
+        "score": 0.8869,
+        "accentDistance": 94.8,
+        "bgDistance": 5.5,
         "familyNovelty": 1,
-        "jitter": 0.482,
-        "archetype": "command-rail",
-        "archetypeFamily": "linear",
-        "live": false,
-        "accent": "#B6509E"
+        "jitter": 0.845,
+        "archetype": "orbital",
+        "archetypeFamily": "spatial",
+        "live": true,
+        "accent": "#ff0000"
       },
       {
         "id": "cosmos-orbit",
         "name": "Cosmos Orbit",
-        "score": 0.796,
-        "accentDistance": 67.6,
-        "bgDistance": 97.4,
+        "score": 0.879,
+        "accentDistance": 66.1,
+        "bgDistance": 5.5,
         "familyNovelty": 1,
-        "jitter": 0.073,
+        "jitter": 0.809,
         "archetype": "gallery-scroll",
         "archetypeFamily": "spatial",
         "live": true,
@@ -124,50 +195,50 @@
       {
         "id": "arbitrum-signal",
         "name": "Signal Navy",
-        "score": 0.7893,
-        "accentDistance": 73.5,
-        "bgDistance": 90.9,
+        "score": 0.8741,
+        "accentDistance": 64.8,
+        "bgDistance": 15.9,
         "familyNovelty": 1,
-        "jitter": 0.224,
+        "jitter": 0.879,
         "archetype": "bento-canvas",
         "archetypeFamily": "spatial",
         "live": false,
         "accent": "#28A0F0"
       },
       {
-        "id": "uniswap-bubblegum",
-        "name": "Bubblegum Exchange",
-        "score": 0.7732,
-        "accentDistance": 77.9,
-        "bgDistance": 4.2,
+        "id": "sui-tidal",
+        "name": "Tidal Sui",
+        "score": 0.856,
+        "accentDistance": 53.5,
+        "bgDistance": 96.6,
         "familyNovelty": 1,
-        "jitter": 0.522,
-        "archetype": "bento-canvas",
+        "jitter": 0.675,
+        "archetype": "split-stage",
         "archetypeFamily": "spatial",
-        "live": false,
-        "accent": "#E6006F"
+        "live": true,
+        "accent": "#298dff"
       },
       {
         "id": "optimism-poster",
         "name": "Poster Optimism",
-        "score": 0.6792,
-        "accentDistance": 112.5,
-        "bgDistance": 2.2,
+        "score": 0.7959,
+        "accentDistance": 86,
+        "bgDistance": 94.8,
         "familyNovelty": 1,
-        "jitter": 0.113,
-        "archetype": "documentary",
-        "archetypeFamily": "editorial",
-        "live": false,
-        "accent": "#C40018"
+        "jitter": 0.072,
+        "archetype": "gallery-scroll",
+        "archetypeFamily": "spatial",
+        "live": true,
+        "accent": "#ff0421"
       },
       {
         "id": "base-cobalt",
         "name": "Cobalt Blueprint",
-        "score": 0.6521,
-        "accentDistance": 49.3,
-        "bgDistance": 10.1,
+        "score": 0.7875,
+        "accentDistance": 91.2,
+        "bgDistance": 86.4,
         "familyNovelty": 1,
-        "jitter": 0.186,
+        "jitter": 0.034,
         "archetype": "split-stage",
         "archetypeFamily": "spatial",
         "live": true,
@@ -176,66 +247,56 @@
       {
         "id": "solana-spectrum",
         "name": "Spectrum Terminal",
-        "score": 0.6388,
-        "accentDistance": 41,
-        "bgDistance": 97.4,
+        "score": 0.7738,
+        "accentDistance": 58.5,
+        "bgDistance": 5.5,
         "familyNovelty": 1,
-        "jitter": 0.229,
+        "jitter": 0.517,
         "archetype": "ticker-stage",
         "archetypeFamily": "linear",
-        "live": false,
-        "accent": "#9945FF"
-      },
-      {
-        "id": "ethereum-paper",
-        "name": "Paper Protocol",
-        "score": 0.5799,
-        "accentDistance": 32.9,
-        "bgDistance": 0.8,
-        "familyNovelty": 1,
-        "jitter": 0.593,
-        "archetype": "documentary",
-        "archetypeFamily": "editorial",
-        "live": false,
-        "accent": "#4C63D2"
-      },
-      {
-        "id": "sui-tidal",
-        "name": "Tidal Sui",
-        "score": 0.567,
-        "accentDistance": 36,
-        "bgDistance": 4.2,
-        "familyNovelty": 1,
-        "jitter": 0.233,
-        "archetype": "gallery-scroll",
-        "archetypeFamily": "spatial",
         "live": true,
-        "accent": "#298dff"
+        "accent": "#9945ff"
       },
       {
         "id": "polygon-agora",
         "name": "Agora Violet",
-        "score": 0.5486,
-        "accentDistance": 18.1,
-        "bgDistance": 97.4,
+        "score": 0.6776,
+        "accentDistance": 57.7,
+        "bgDistance": 5.5,
         "familyNovelty": 1,
-        "jitter": 0.294,
-        "archetype": "orbital",
+        "jitter": 0.103,
+        "archetype": "bento-canvas",
         "archetypeFamily": "spatial",
         "live": true,
         "accent": "#670de5"
+      },
+      {
+        "id": "uniswap-bubblegum",
+        "name": "Bubblegum Exchange",
+        "score": 0.6318,
+        "accentDistance": 34,
+        "bgDistance": 96.6,
+        "familyNovelty": 1,
+        "jitter": 0.215,
+        "archetype": "bento-canvas",
+        "archetypeFamily": "spatial",
+        "live": true,
+        "accent": "#E6006F"
       }
     ],
-    "liveApplied": []
+    "liveApplied": [
+      "accent #4C63D2 -> #0c5681",
+      "bg #F7F5EF -> #ffffff"
+    ]
   },
   "originality": {
-    "originalTheme": "light",
-    "anchorAccent": "#8b5cf6",
-    "background": "#faf7f1",
-    "originalArchetype": "dashboard-shell",
-    "originalFamily": "shell",
-    "accentDistance": 62.4,
-    "bgDistance": 94.1,
+    "originalTheme": "dark",
+    "anchorAccent": "#b6509e",
+    "background": "#080d14",
+    "originalArchetype": "document-flow",
+    "originalFamily": "editorial",
+    "accentDistance": 57.7,
+    "bgDistance": 96.6,
     "thresholds": {
       "minAccentDistance": 30,
       "minStructureDistance": 0.5,
@@ -245,89 +306,89 @@
   },
   "liveSampling": [
     {
-      "styleId": "polygon-agora",
-      "url": "https://polygon.technology",
+      "styleId": "ethereum-paper",
+      "url": "https://ethereum.org",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1888,
-      "cssFiles": 3,
+      "elapsedMs": 3198,
+      "cssFiles": 2,
       "colors": [
         {
-          "hex": "#ffffff",
-          "count": 186
-        },
-        {
-          "hex": "#f2f1f5",
-          "count": 137
-        },
-        {
-          "hex": "#2d2b36",
-          "count": 124
-        },
-        {
-          "hex": "#e4e4e7",
-          "count": 121
-        },
-        {
           "hex": "#000000",
-          "count": 72
+          "count": 128
         },
         {
-          "hex": "#670de5",
-          "count": 57
+          "hex": "#ffffff",
+          "count": 56
         },
         {
-          "hex": "#07060d",
-          "count": 36
+          "hex": "#0c5681",
+          "count": 14
         },
         {
-          "hex": "#9856f5",
-          "count": 33
+          "hex": "#74acdf",
+          "count": 14
         },
         {
-          "hex": "#686d73",
-          "count": 17
+          "hex": "#667bbc",
+          "count": 14
         },
         {
-          "hex": "#ccaafa",
-          "count": 16
+          "hex": "#673076",
+          "count": 14
+        },
+        {
+          "hex": "#af4796",
+          "count": 14
+        },
+        {
+          "hex": "#1616b4",
+          "count": 12
+        },
+        {
+          "hex": "#83aafa",
+          "count": 8
+        },
+        {
+          "hex": "#cfc4fa",
+          "count": 8
         }
       ],
       "fonts": [
         {
-          "value": "PolySans, -apple-system, BlinkMacSystemFont, &quot",
-          "count": 24
+          "value": "Inter",
+          "count": 7
         },
         {
-          "value": "Inter, -apple-system, BlinkMacSystemFont, &quot",
-          "count": 4
+          "value": "IBM Plex Mono",
+          "count": 5
         },
         {
-          "value": "PolySans",
-          "count": 2
-        },
-        {
-          "value": "PolySans Mono",
-          "count": 2
-        },
-        {
-          "value": "Inter, system-ui, sans-serif",
+          "value": "Inter Fallback",
           "count": 1
         },
         {
-          "value": "PolySans Slimwide",
+          "value": "Inter,Inter Fallback",
+          "count": 1
+        },
+        {
+          "value": "IBM Plex Mono Fallback",
+          "count": 1
+        },
+        {
+          "value": "IBM Plex Mono,IBM Plex Mono Fallback",
           "count": 1
         }
       ],
-      "bg": "#000000",
-      "accent": "#670de5"
+      "bg": "#ffffff",
+      "accent": "#0c5681"
     },
     {
       "styleId": "base-cobalt",
       "url": "https://www.base.org",
       "ok": true,
       "status": 200,
-      "elapsedMs": 3208,
+      "elapsedMs": 3402,
       "cssFiles": 3,
       "colors": [
         {
@@ -401,46 +462,252 @@
       "accent": "#0000ff"
     },
     {
+      "styleId": "polygon-agora",
+      "url": "https://polygon.technology",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 3942,
+      "cssFiles": 3,
+      "colors": [
+        {
+          "hex": "#ffffff",
+          "count": 186
+        },
+        {
+          "hex": "#f2f1f5",
+          "count": 137
+        },
+        {
+          "hex": "#2d2b36",
+          "count": 124
+        },
+        {
+          "hex": "#e4e4e7",
+          "count": 121
+        },
+        {
+          "hex": "#000000",
+          "count": 72
+        },
+        {
+          "hex": "#670de5",
+          "count": 57
+        },
+        {
+          "hex": "#07060d",
+          "count": 36
+        },
+        {
+          "hex": "#9856f5",
+          "count": 33
+        },
+        {
+          "hex": "#686d73",
+          "count": 17
+        },
+        {
+          "hex": "#ccaafa",
+          "count": 16
+        }
+      ],
+      "fonts": [
+        {
+          "value": "PolySans, -apple-system, BlinkMacSystemFont, &quot",
+          "count": 24
+        },
+        {
+          "value": "Inter, -apple-system, BlinkMacSystemFont, &quot",
+          "count": 4
+        },
+        {
+          "value": "PolySans",
+          "count": 2
+        },
+        {
+          "value": "PolySans Mono",
+          "count": 2
+        },
+        {
+          "value": "Inter, system-ui, sans-serif",
+          "count": 1
+        },
+        {
+          "value": "PolySans Slimwide",
+          "count": 1
+        }
+      ],
+      "bg": "#000000",
+      "accent": "#670de5"
+    },
+    {
       "styleId": "solana-spectrum",
       "url": "https://solana.com",
-      "ok": false,
-      "elapsedMs": 6516,
-      "error": "timeout"
-    },
-    {
-      "styleId": "ethereum-paper",
-      "url": "https://ethereum.org",
-      "ok": false,
-      "elapsedMs": 6518,
-      "error": "timeout"
-    },
-    {
-      "styleId": "aave-abyss",
-      "url": "https://aave.com",
-      "ok": false,
-      "elapsedMs": 180,
-      "error": "fetch failed"
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 4332,
+      "cssFiles": 3,
+      "colors": [
+        {
+          "hex": "#000000",
+          "count": 102
+        },
+        {
+          "hex": "#ffffff",
+          "count": 52
+        },
+        {
+          "hex": "#14f195",
+          "count": 46
+        },
+        {
+          "hex": "#9945ff",
+          "count": 45
+        },
+        {
+          "hex": "#ece4fd",
+          "count": 25
+        },
+        {
+          "hex": "#0d0c11",
+          "count": 11
+        },
+        {
+          "hex": "#ababba",
+          "count": 10
+        },
+        {
+          "hex": "#232323",
+          "count": 10
+        },
+        {
+          "hex": "#7b47ff",
+          "count": 7
+        },
+        {
+          "hex": "#414141",
+          "count": 7
+        }
+      ],
+      "fonts": [
+        {
+          "value": "Diatype",
+          "count": 10
+        },
+        {
+          "value": "DSemi",
+          "count": 10
+        },
+        {
+          "value": "Diatype,monotype",
+          "count": 9
+        },
+        {
+          "value": "Diatype,sans-serif",
+          "count": 8
+        },
+        {
+          "value": "inherit",
+          "count": 3
+        },
+        {
+          "value": "Monument",
+          "count": 3
+        }
+      ],
+      "bg": "#000000",
+      "accent": "#9945ff"
     },
     {
       "styleId": "arbitrum-signal",
       "url": "https://arbitrum.io",
       "ok": false,
-      "elapsedMs": 1172,
+      "elapsedMs": 1963,
       "error": "HTTP 403"
     },
     {
-      "styleId": "optimism-poster",
-      "url": "https://www.optimism.io",
-      "ok": false,
-      "elapsedMs": 6506,
-      "error": "timeout"
+      "styleId": "aave-abyss",
+      "url": "https://aave.com",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 3335,
+      "cssFiles": 3,
+      "colors": [
+        {
+          "hex": "#ff0000",
+          "count": 116
+        },
+        {
+          "hex": "#ffffff",
+          "count": 79
+        },
+        {
+          "hex": "#000000",
+          "count": 56
+        },
+        {
+          "hex": "#272228",
+          "count": 27
+        },
+        {
+          "hex": "#0000ff",
+          "count": 18
+        },
+        {
+          "hex": "#ff00ff",
+          "count": 17
+        },
+        {
+          "hex": "#cc00cc",
+          "count": 17
+        },
+        {
+          "hex": "#0000cc",
+          "count": 17
+        },
+        {
+          "hex": "#00ffff",
+          "count": 17
+        },
+        {
+          "hex": "#00cccc",
+          "count": 17
+        }
+      ],
+      "fonts": [
+        {
+          "value": "inherit",
+          "count": 11
+        },
+        {
+          "value": "Geist Mono,ui-monospace,monospace",
+          "count": 5
+        },
+        {
+          "value": "-apple-system,BlinkMacSystemFont,SF Pro Text,SF Pro,Segoe UI,Roboto,sans-serif",
+          "count": 3
+        },
+        {
+          "value": "\"FT Regola Neue\"",
+          "count": 2
+        },
+        {
+          "value": "Geist Mono,monospace",
+          "count": 2
+        },
+        {
+          "value": "\"Inter Variable\"",
+          "count": 1
+        }
+      ],
+      "bg": "#000000",
+      "accent": "#ff0000"
     },
     {
       "styleId": "cosmos-orbit",
       "url": "https://cosmos.network",
       "ok": true,
       "status": 200,
-      "elapsedMs": 2370,
+      "elapsedMs": 3561,
       "cssFiles": 2,
       "colors": [
         {
@@ -498,18 +765,123 @@
       "accent": "#40b3ff"
     },
     {
+      "styleId": "optimism-poster",
+      "url": "https://www.optimism.io",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 7167,
+      "cssFiles": 3,
+      "colors": [
+        {
+          "hex": "#111111",
+          "count": 183
+        },
+        {
+          "hex": "#fafaf9",
+          "count": 68
+        },
+        {
+          "hex": "#000000",
+          "count": 36
+        },
+        {
+          "hex": "#282827",
+          "count": 8
+        },
+        {
+          "hex": "#f3f3f1",
+          "count": 6
+        },
+        {
+          "hex": "#ffffff",
+          "count": 4
+        },
+        {
+          "hex": "#236758",
+          "count": 4
+        },
+        {
+          "hex": "#ff0421",
+          "count": 3
+        },
+        {
+          "hex": "#8d8d8c",
+          "count": 3
+        },
+        {
+          "hex": "#dedede",
+          "count": 3
+        }
+      ],
+      "fonts": [
+        {
+          "value": "Riforma LL,sans-serif",
+          "count": 33
+        },
+        {
+          "value": "Roboto Mono",
+          "count": 12
+        },
+        {
+          "value": "Riforma LL",
+          "count": 7
+        },
+        {
+          "value": "inherit",
+          "count": 3
+        },
+        {
+          "value": "Roboto Mono Fallback",
+          "count": 2
+        },
+        {
+          "value": "Roboto Mono,Roboto Mono Fallback",
+          "count": 2
+        }
+      ],
+      "bg": "#fafaf9",
+      "accent": "#ff0421"
+    },
+    {
       "styleId": "uniswap-bubblegum",
       "url": "https://uniswap.org",
-      "ok": false,
-      "elapsedMs": 6514,
-      "error": "timeout"
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 8336,
+      "cssFiles": 3,
+      "colors": [
+        {
+          "hex": "#ffffff",
+          "count": 2
+        },
+        {
+          "hex": "#131313",
+          "count": 2
+        }
+      ],
+      "fonts": [
+        {
+          "value": "'Basel', sans-serif",
+          "count": 2
+        },
+        {
+          "value": "'Basel'",
+          "count": 2
+        },
+        {
+          "value": "'Inter'",
+          "count": 1
+        }
+      ],
+      "bg": "#ffffff",
+      "accent": null
     },
     {
       "styleId": "sui-tidal",
       "url": "https://sui.io",
       "ok": true,
       "status": 200,
-      "elapsedMs": 3302,
+      "elapsedMs": 8219,
       "cssFiles": 1,
       "colors": [
         {
@@ -583,5 +955,5 @@
       "accent": "#298dff"
     }
   ],
-  "css": ":root {\n  --bg: #080D14;\n  --surface: #111A24;\n  --surface-alt: #182533;\n  --ink: #F4F7FA;\n  --muted: #8FA3B5;\n  --accent: #B6509E;\n  --accent-safe: #E3A6DA;\n  --accent-2: #2EBAC6;\n  --line: #1E2A36;\n  --success: #5CE1A0;\n  --danger: #FF7A7A;\n  --warning: #F2C94C;\n\n  --font-display: \"Trebuchet MS\", \"Segoe UI\", sans-serif;\n  --font-body: \"Segoe UI\", \"Helvetica Neue\", sans-serif;\n  --font-mono: \"Cascadia Mono\", ui-monospace, monospace;\n  --display-weight: 650;\n  --display-tracking: -0.035em;\n  --label-tracking: 0.1em;\n\n  --radius-sm: 10px;\n  --radius-md: 16px;\n  --radius-lg: 24px;\n  --border: 1px solid rgba(143, 163, 181, 0.18);\n  --shadow: 0 26px 70px rgba(0, 0, 0, 0.5);\n\n  --motion-duration: 240ms;\n  --motion-ease: cubic-bezier(.22,1,.36,1);\n  --space-1: clamp(4px, .35vw, 6px);\n  --space-2: clamp(8px, .7vw, 12px);\n  --space-3: clamp(14px, 1.2vw, 20px);\n  --space-4: clamp(22px, 2vw, 32px);\n  --space-5: clamp(36px, 3.4vw, 56px);\n  --space-6: clamp(56px, 5vw, 88px);\n  --page-pad: clamp(18px, 4vw, 64px);\n  --max-width: 1440px;\n}"
+  "css": ":root {\n  --bg: #ffffff;\n  --surface: #FFFDF8;\n  --surface-alt: #EDE9DF;\n  --ink: #1B1B1B;\n  --muted: #6B675F;\n  --accent: #0c5681;\n  --accent-safe: #0c5681;\n  --accent-2: #8B9DFF;\n  --line: #D9D3C7;\n  --success: #2F6B4F;\n  --danger: #A83A2A;\n  --warning: #8A5A00;\n\n  --font-display: \"Iowan Old Style\", \"Palatino Linotype\", Georgia, serif;\n  --font-body: \"Charter\", \"Georgia\", \"Segoe UI\", serif;\n  --font-mono: \"Courier New\", ui-monospace, monospace;\n  --display-weight: 500;\n  --display-tracking: -0.025em;\n  --label-tracking: 0.12em;\n\n  --radius-sm: 0px;\n  --radius-md: 2px;\n  --radius-lg: 4px;\n  --border: 1px solid var(--line);\n  --shadow: none;\n\n  --motion-duration: 300ms;\n  --motion-ease: ease-out;\n  --space-1: clamp(4px, .35vw, 6px);\n  --space-2: clamp(8px, .7vw, 12px);\n  --space-3: clamp(14px, 1.2vw, 20px);\n  --space-4: clamp(22px, 2vw, 32px);\n  --space-5: clamp(36px, 3.4vw, 56px);\n  --space-6: clamp(56px, 5vw, 88px);\n  --page-pad: clamp(18px, 4vw, 64px);\n  --max-width: 1440px;\n}"
 }

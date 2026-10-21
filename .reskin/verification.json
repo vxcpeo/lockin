@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T16:37:17.594Z",
+  "generatedAt": "2026-10-21T17:27:06.471Z",
   "project": {
     "root": "E:/workspace/chuangye/solana/lockin/website",
-    "name": "latchera-website",
-    "baseUrl": "http://127.0.0.1:4317/"
+    "name": "holdavia-website",
+    "baseUrl": "http://127.0.0.1:4318/"
   },
   "passed": true,
   "thresholds": {
@@ -19,33 +19,15 @@
     "sourceContract": {
       "passed": true,
       "issues": [],
-      "warnings": [],
-      "hash": "aa39f627cace09cb37cf51c58a3ada580d0854280d1180ca6bf4116338d1eced"
+      "warnings": [
+        "attributes: \"href=#top\" count increased 12 -> 14",
+        "links: \"href:#top\" count increased 12 -> 14"
+      ],
+      "hash": "2aff2e61c4f34eab9a808129ec8fa6340067d91dfdb38dbf417a7c4926686cdd"
     },
     "skeleton": {
       "passed": true,
       "original": {
-        "id": "dashboard-shell",
-        "family": "shell",
-        "traits": {
-          "sidebar": true,
-          "topbar": true,
-          "cards": true,
-          "hero": true,
-          "table": false,
-          "grid": true,
-          "tabs": false,
-          "modal": true,
-          "charts": true,
-          "sticky": true,
-          "orbital": false,
-          "terminal": false,
-          "bento": false,
-          "ticker": false,
-          "gallery": false
-        }
-      },
-      "current": {
         "id": "document-flow",
         "family": "editorial",
         "traits": {
@@ -66,10 +48,31 @@
           "gallery": false
         }
       },
+      "current": {
+        "id": "gallery-scroll",
+        "family": "spatial",
+        "traits": {
+          "sidebar": false,
+          "topbar": false,
+          "cards": false,
+          "hero": false,
+          "table": true,
+          "grid": true,
+          "tabs": false,
+          "modal": true,
+          "charts": true,
+          "sticky": true,
+          "orbital": false,
+          "terminal": false,
+          "bento": false,
+          "ticker": false,
+          "gallery": true
+        }
+      },
       "accent": {
-        "original": "#8b5cf6",
-        "current": "#b6509e",
-        "deltaE": 47.87,
+        "original": "#b6509e",
+        "current": "#0c5681",
+        "deltaE": 57.72,
         "min": 30
       }
     },
@@ -80,13 +83,15 @@
         "skipped": false,
         "failures": [],
         "warnings": [
-          "aria attribute added: aria-label=Hardware",
-          "aria attribute added: aria-label=Paperwork"
+          "aria attribute changed/removed: aria-label=Paperwork",
+          "aria attribute added: aria-label=Holdavia home",
+          "aria attribute added: aria-label=Open the section list",
+          "link target added: #top"
         ],
         "structure": {
-          "fingerprintSimilarity": 0.314,
+          "fingerprintSimilarity": 0.289,
           "landmarkSimilarity": 0.571,
-          "classOverlap": 0.017
+          "classOverlap": 0.022
         },
         "content": {
           "missing": [],
@@ -120,11 +125,15 @@
   },
   "failures": [],
   "warnings": [
-    "/: aria attribute added: aria-label=Hardware",
-    "/: aria attribute added: aria-label=Paperwork"
+    "attributes: \"href=#top\" count increased 12 -> 14",
+    "links: \"href:#top\" count increased 12 -> 14",
+    "/: aria attribute changed/removed: aria-label=Paperwork",
+    "/: aria attribute added: aria-label=Holdavia home",
+    "/: aria attribute added: aria-label=Open the section list",
+    "/: link target added: #top"
   ],
   "baseline": {
-    "generatedAt": "2026-10-20T16:02:09.657Z",
+    "generatedAt": "2026-10-21T16:57:47.091Z",
     "routes": [
       "/"
     ]
