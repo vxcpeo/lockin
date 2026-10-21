@@ -1,0 +1,7512 @@
+{
+  "schemaVersion": 1,
+  "label": "current",
+  "generatedAt": "2026-10-20T16:37:08.944Z",
+  "baseUrl": "http://127.0.0.1:4317/",
+  "browser": {
+    "executablePath": "C:\\Users\\Administrator\\AppData\\Local\\ms-playwright\\chromium-1247\\chrome-win64\\chrome.exe",
+    "playwrightSource": "reskin-tools",
+    "axe": true
+  },
+  "pages": {
+    "/": {
+      "route": "/",
+      "url": "http://127.0.0.1:4317/",
+      "status": 200,
+      "desktop": {
+        "meta": {
+          "title": "Latchera - Lock in a discount",
+          "lang": "en",
+          "h1Count": 1,
+          "bodyTextLength": 13069,
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "focusableCount": 31
+        },
+        "words": [
+          {
+            "word": "#0084",
+            "count": 1
+          },
+          {
+            "word": "#1",
+            "count": 1
+          },
+          {
+            "word": "$LORH",
+            "count": 23
+          },
+          {
+            "word": "0",
+            "count": 1
+          },
+          {
+            "word": "0.0%",
+            "count": 2
+          },
+          {
+            "word": "0.05",
+            "count": 1
+          },
+          {
+            "word": "0.0750",
+            "count": 1
+          },
+          {
+            "word": "0.12",
+            "count": 1
+          },
+          {
+            "word": "0.25",
+            "count": 1
+          },
+          {
+            "word": "0.42",
+            "count": 2
+          },
+          {
+            "word": "0.80",
+            "count": 1
+          },
+          {
+            "word": "01",
+            "count": 5
+          },
+          {
+            "word": "02",
+            "count": 5
+          },
+          {
+            "word": "03",
+            "count": 5
+          },
+          {
+            "word": "04",
+            "count": 4
+          },
+          {
+            "word": "05",
+            "count": 3
+          },
+          {
+            "word": "06",
+            "count": 1
+          },
+          {
+            "word": "07",
+            "count": 1
+          },
+          {
+            "word": "08",
+            "count": 1
+          },
+          {
+            "word": "1",
+            "count": 1
+          },
+          {
+            "word": "1-hour",
+            "count": 1
+          },
+          {
+            "word": "1.35",
+            "count": 1
+          },
+          {
+            "word": "1%",
+            "count": 6
+          },
+          {
+            "word": "10",
+            "count": 1
+          },
+          {
+            "word": "12%",
+            "count": 1
+          },
+          {
+            "word": "14:08",
+            "count": 1
+          },
+          {
+            "word": "16:37",
+            "count": 1
+          },
+          {
+            "word": "18",
+            "count": 1
+          },
+          {
+            "word": "19.2%",
+            "count": 1
+          },
+          {
+            "word": "19%",
+            "count": 1
+          },
+          {
+            "word": "2",
+            "count": 1
+          },
+          {
+            "word": "2.10",
+            "count": 1
+          },
+          {
+            "word": "2%",
+            "count": 7
+          },
+          {
+            "word": "20",
+            "count": 1
+          },
+          {
+            "word": "2026",
+            "count": 1
+          },
+          {
+            "word": "24",
+            "count": 4
+          },
+          {
+            "word": "24h",
+            "count": 1
+          },
+          {
+            "word": "25%",
+            "count": 3
+          },
+          {
+            "word": "26%",
+            "count": 1
+          },
+          {
+            "word": "27",
+            "count": 1
+          },
+          {
+            "word": "3",
+            "count": 4
+          },
+          {
+            "word": "3.675",
+            "count": 1
+          },
+          {
+            "word": "3.750",
+            "count": 1
+          },
+          {
+            "word": "3.960",
+            "count": 1
+          },
+          {
+            "word": "30",
+            "count": 3
+          },
+          {
+            "word": "30d",
+            "count": 1
+          },
+          {
+            "word": "31%",
+            "count": 1
+          },
+          {
+            "word": "36.0%",
+            "count": 1
+          },
+          {
+            "word": "3d",
+            "count": 1
+          },
+          {
+            "word": "4",
+            "count": 1
+          },
+          {
+            "word": "40",
+            "count": 1
+          },
+          {
+            "word": "44%",
+            "count": 1
+          },
+          {
+            "word": "4663",
+            "count": 2
+          },
+          {
+            "word": "50",
+            "count": 1
+          },
+          {
+            "word": "6.733",
+            "count": 1
+          },
+          {
+            "word": "60",
+            "count": 1
+          },
+          {
+            "word": "7",
+            "count": 2
+          },
+          {
+            "word": "7d",
+            "count": 2
+          },
+          {
+            "word": "8%",
+            "count": 1
+          },
+          {
+            "word": "98%",
+            "count": 2
+          },
+          {
+            "word": "99%",
+            "count": 2
+          },
+          {
+            "word": "a",
+            "count": 70
+          },
+          {
+            "word": "A",
+            "count": 36
+          },
+          {
+            "word": "AAA",
+            "count": 1
+          },
+          {
+            "word": "above",
+            "count": 2
+          },
+          {
+            "word": "accepts",
+            "count": 1
+          },
+          {
+            "word": "access",
+            "count": 1
+          },
+          {
+            "word": "accumulated",
+            "count": 1
+          },
+          {
+            "word": "across",
+            "count": 1
+          },
+          {
+            "word": "adding",
+            "count": 1
+          },
+          {
+            "word": "adds",
+            "count": 2
+          },
+          {
+            "word": "advice",
+            "count": 1
+          },
+          {
+            "word": "affiliated",
+            "count": 2
+          },
+          {
+            "word": "after",
+            "count": 2
+          },
+          {
+            "word": "against",
+            "count": 2
+          },
+          {
+            "word": "all",
+            "count": 1
+          },
+          {
+            "word": "already",
+            "count": 1
+          },
+          {
+            "word": "always",
+            "count": 1
+          },
+          {
+            "word": "amount",
+            "count": 5
+          },
+          {
+            "word": "Amount",
+            "count": 1
+          },
+          {
+            "word": "an",
+            "count": 3
+          },
+          {
+            "word": "and",
+            "count": 45
+          },
+          {
+            "word": "another",
+            "count": 2
+          },
+          {
+            "word": "any",
+            "count": 3
+          },
+          {
+            "word": "anyone",
+            "count": 3
+          },
+          {
+            "word": "Anyone",
+            "count": 1
+          },
+          {
+            "word": "API",
+            "count": 2
+          },
+          {
+            "word": "app",
+            "count": 2
+          },
+          {
+            "word": "approved",
+            "count": 1
+          },
+          {
+            "word": "apps",
+            "count": 1
+          },
+          {
+            "word": "are",
+            "count": 4
+          },
+          {
+            "word": "arrive",
+            "count": 1
+          },
+          {
+            "word": "as",
+            "count": 3
+          },
+          {
+            "word": "ask",
+            "count": 2
+          },
+          {
+            "word": "at",
+            "count": 13
+          },
+          {
+            "word": "auction",
+            "count": 1
+          },
+          {
+            "word": "average",
+            "count": 1
+          },
+          {
+            "word": "badges",
+            "count": 2
+          },
+          {
+            "word": "Badges",
+            "count": 1
+          },
+          {
+            "word": "bag",
+            "count": 15
+          },
+          {
+            "word": "Bag",
+            "count": 1
+          },
+          {
+            "word": "bags",
+            "count": 5
+          },
+          {
+            "word": "BBB",
+            "count": 1
+          },
+          {
+            "word": "be",
+            "count": 4
+          },
+          {
+            "word": "before",
+            "count": 7
+          },
+          {
+            "word": "below",
+            "count": 1
+          },
+          {
+            "word": "bench",
+            "count": 3
+          },
+          {
+            "word": "between",
+            "count": 1
+          },
+          {
+            "word": "Bids",
+            "count": 1
+          },
+          {
+            "word": "bigger",
+            "count": 1
+          },
+          {
+            "word": "blocks",
+            "count": 4
+          },
+          {
+            "word": "board",
+            "count": 1
+          },
+          {
+            "word": "bought",
+            "count": 1
+          },
+          {
+            "word": "Bought",
+            "count": 1
+          },
+          {
+            "word": "boundary",
+            "count": 2
+          },
+          {
+            "word": "breaks",
+            "count": 1
+          },
+          {
+            "word": "brokerage",
+            "count": 2
+          },
+          {
+            "word": "browser",
+            "count": 2
+          },
+          {
+            "word": "burn",
+            "count": 2
+          },
+          {
+            "word": "BURN",
+            "count": 1
+          },
+          {
+            "word": "burned",
+            "count": 6
+          },
+          {
+            "word": "Burned",
+            "count": 1
+          },
+          {
+            "word": "burner",
+            "count": 4
+          },
+          {
+            "word": "Burner",
+            "count": 2
+          },
+          {
+            "word": "BURNER",
+            "count": 1
+          },
+          {
+            "word": "burns",
+            "count": 6
+          },
+          {
+            "word": "but",
+            "count": 1
+          },
+          {
+            "word": "buy",
+            "count": 7
+          },
+          {
+            "word": "Buy",
+            "count": 1
+          },
+          {
+            "word": "buyer",
+            "count": 9
+          },
+          {
+            "word": "BUYER",
+            "count": 2
+          },
+          {
+            "word": "buyer's",
+            "count": 1
+          },
+          {
+            "word": "buyer’s",
+            "count": 1
+          },
+          {
+            "word": "Buyers",
+            "count": 1
+          },
+          {
+            "word": "buys",
+            "count": 8
+          },
+          {
+            "word": "by",
+            "count": 6
+          },
+          {
+            "word": "calendar",
+            "count": 2
+          },
+          {
+            "word": "call",
+            "count": 2
+          },
+          {
+            "word": "can",
+            "count": 21
+          },
+          {
+            "word": "Can",
+            "count": 1
+          },
+          {
+            "word": "cancels",
+            "count": 2
+          },
+          {
+            "word": "candle",
+            "count": 1
+          },
+          {
+            "word": "cannot",
+            "count": 11
+          },
+          {
+            "word": "cards",
+            "count": 2
+          },
+          {
+            "word": "carries",
+            "count": 1
+          },
+          {
+            "word": "CCC",
+            "count": 1
+          },
+          {
+            "word": "chain",
+            "count": 3
+          },
+          {
+            "word": "Chain",
+            "count": 10
+          },
+          {
+            "word": "chain’s",
+            "count": 2
+          },
+          {
+            "word": "chainId",
+            "count": 2
+          },
+          {
+            "word": "change",
+            "count": 4
+          },
+          {
+            "word": "changes",
+            "count": 2
+          },
+          {
+            "word": "chart",
+            "count": 3
+          },
+          {
+            "word": "cheaper",
+            "count": 3
+          },
+          {
+            "word": "CHEAPER",
+            "count": 1
+          },
+          {
+            "word": "cheat",
+            "count": 1
+          },
+          {
+            "word": "chooses",
+            "count": 1
+          },
+          {
+            "word": "chosen",
+            "count": 1
+          },
+          {
+            "word": "claim",
+            "count": 6
+          },
+          {
+            "word": "CLAIM",
+            "count": 1
+          },
+          {
+            "word": "Claimable",
+            "count": 2
+          },
+          {
+            "word": "claims",
+            "count": 3
+          },
+          {
+            "word": "Claims",
+            "count": 2
+          },
+          {
+            "word": "clear",
+            "count": 1
+          },
+          {
+            "word": "clock",
+            "count": 2
+          },
+          {
+            "word": "closes",
+            "count": 1
+          },
+          {
+            "word": "coin",
+            "count": 7
+          },
+          {
+            "word": "Coin",
+            "count": 1
+          },
+          {
+            "word": "coins",
+            "count": 5
+          },
+          {
+            "word": "collect",
+            "count": 1
+          },
+          {
+            "word": "Combination",
+            "count": 3
+          },
+          {
+            "word": "come",
+            "count": 1
+          },
+          {
+            "word": "comes",
+            "count": 2
+          },
+          {
+            "word": "Community-built",
+            "count": 2
+          },
+          {
+            "word": "compares",
+            "count": 1
+          },
+          {
+            "word": "comparison",
+            "count": 1
+          },
+          {
+            "word": "completes",
+            "count": 4
+          },
+          {
+            "word": "contain",
+            "count": 1
+          },
+          {
+            "word": "contract",
+            "count": 7
+          },
+          {
+            "word": "contracts",
+            "count": 4
+          },
+          {
+            "word": "cost",
+            "count": 1
+          },
+          {
+            "word": "costs",
+            "count": 1
+          },
+          {
+            "word": "count",
+            "count": 1
+          },
+          {
+            "word": "counts",
+            "count": 1
+          },
+          {
+            "word": "create",
+            "count": 1
+          },
+          {
+            "word": "created",
+            "count": 2
+          },
+          {
+            "word": "creates",
+            "count": 1
+          },
+          {
+            "word": "current",
+            "count": 2
+          },
+          {
+            "word": "curve",
+            "count": 4
+          },
+          {
+            "word": "cuts",
+            "count": 1
+          },
+          {
+            "word": "date",
+            "count": 9
+          },
+          {
+            "word": "day",
+            "count": 4
+          },
+          {
+            "word": "days",
+            "count": 6
+          },
+          {
+            "word": "DDD",
+            "count": 1
+          },
+          {
+            "word": "deal",
+            "count": 3
+          },
+          {
+            "word": "Deals",
+            "count": 1
+          },
+          {
+            "word": "Decisions",
+            "count": 1
+          },
+          {
+            "word": "deepest",
+            "count": 1
+          },
+          {
+            "word": "default",
+            "count": 1
+          },
+          {
+            "word": "deliver",
+            "count": 1
+          },
+          {
+            "word": "depends",
+            "count": 2
+          },
+          {
+            "word": "deployment",
+            "count": 2
+          },
+          {
+            "word": "deposit",
+            "count": 1
+          },
+          {
+            "word": "depth",
+            "count": 2
+          },
+          {
+            "word": "design",
+            "count": 1
+          },
+          {
+            "word": "destroyed",
+            "count": 1
+          },
+          {
+            "word": "destroys",
+            "count": 1
+          },
+          {
+            "word": "dial",
+            "count": 1
+          },
+          {
+            "word": "Dial",
+            "count": 1
+          },
+          {
+            "word": "direct",
+            "count": 1
+          },
+          {
+            "word": "directly",
+            "count": 2
+          },
+          {
+            "word": "discount",
+            "count": 13
+          },
+          {
+            "word": "Discounted",
+            "count": 1
+          },
+          {
+            "word": "do",
+            "count": 3
+          },
+          {
+            "word": "docs",
+            "count": 2
+          },
+          {
+            "word": "Docs",
+            "count": 2
+          },
+          {
+            "word": "does",
+            "count": 3
+          },
+          {
+            "word": "Done",
+            "count": 4
+          },
+          {
+            "word": "door",
+            "count": 1
+          },
+          {
+            "word": "Dust",
+            "count": 1
+          },
+          {
+            "word": "each",
+            "count": 3
+          },
+          {
+            "word": "Each",
+            "count": 2
+          },
+          {
+            "word": "early",
+            "count": 4
+          },
+          {
+            "word": "ecosystem",
+            "count": 1
+          },
+          {
+            "word": "EEE",
+            "count": 1
+          },
+          {
+            "word": "Eight",
+            "count": 1
+          },
+          {
+            "word": "else",
+            "count": 4
+          },
+          {
+            "word": "Empty",
+            "count": 1
+          },
+          {
+            "word": "enough",
+            "count": 4
+          },
+          {
+            "word": "ERC-721",
+            "count": 2
+          },
+          {
+            "word": "errors",
+            "count": 1
+          },
+          {
+            "word": "escrow",
+            "count": 4
+          },
+          {
+            "word": "Escrow",
+            "count": 2
+          },
+          {
+            "word": "ESCROW",
+            "count": 1
+          },
+          {
+            "word": "escrowed",
+            "count": 3
+          },
+          {
+            "word": "ETH",
+            "count": 29
+          },
+          {
+            "word": "every",
+            "count": 5
+          },
+          {
+            "word": "Every",
+            "count": 4
+          },
+          {
+            "word": "everything",
+            "count": 1
+          },
+          {
+            "word": "Everything",
+            "count": 1
+          },
+          {
+            "word": "EVM",
+            "count": 2
+          },
+          {
+            "word": "exact",
+            "count": 2
+          },
+          {
+            "word": "exit",
+            "count": 5
+          },
+          {
+            "word": "explorer",
+            "count": 2
+          },
+          {
+            "word": "External",
+            "count": 1
+          },
+          {
+            "word": "fake",
+            "count": 1
+          },
+          {
+            "word": "fall",
+            "count": 2
+          },
+          {
+            "word": "falling",
+            "count": 1
+          },
+          {
+            "word": "Falling-price",
+            "count": 1
+          },
+          {
+            "word": "falls",
+            "count": 1
+          },
+          {
+            "word": "far",
+            "count": 1
+          },
+          {
+            "word": "fee",
+            "count": 4
+          },
+          {
+            "word": "Fee",
+            "count": 2
+          },
+          {
+            "word": "FEE",
+            "count": 1
+          },
+          {
+            "word": "feed",
+            "count": 7
+          },
+          {
+            "word": "fees",
+            "count": 2
+          },
+          {
+            "word": "FFF",
+            "count": 1
+          },
+          {
+            "word": "fill",
+            "count": 15
+          },
+          {
+            "word": "Fill",
+            "count": 1
+          },
+          {
+            "word": "FILL",
+            "count": 2
+          },
+          {
+            "word": "filled",
+            "count": 3
+          },
+          {
+            "word": "Filled",
+            "count": 2
+          },
+          {
+            "word": "fills",
+            "count": 4
+          },
+          {
+            "word": "financial",
+            "count": 1
+          },
+          {
+            "word": "first",
+            "count": 8
+          },
+          {
+            "word": "FIRST",
+            "count": 1
+          },
+          {
+            "word": "five",
+            "count": 1
+          },
+          {
+            "word": "fixed",
+            "count": 5
+          },
+          {
+            "word": "Fixed-price",
+            "count": 1
+          },
+          {
+            "word": "flow",
+            "count": 6
+          },
+          {
+            "word": "Follower",
+            "count": 1
+          },
+          {
+            "word": "for",
+            "count": 14
+          },
+          {
+            "word": "fork",
+            "count": 1
+          },
+          {
+            "word": "from",
+            "count": 3
+          },
+          {
+            "word": "front",
+            "count": 1
+          },
+          {
+            "word": "Frontend",
+            "count": 2
+          },
+          {
+            "word": "full",
+            "count": 1
+          },
+          {
+            "word": "function",
+            "count": 4
+          },
+          {
+            "word": "Fund",
+            "count": 1
+          },
+          {
+            "word": "funds",
+            "count": 2
+          },
+          {
+            "word": "further",
+            "count": 1
+          },
+          {
+            "word": "future",
+            "count": 1
+          },
+          {
+            "word": "Future",
+            "count": 1
+          },
+          {
+            "word": "gap",
+            "count": 1
+          },
+          {
+            "word": "get",
+            "count": 2
+          },
+          {
+            "word": "gets",
+            "count": 1
+          },
+          {
+            "word": "give",
+            "count": 2
+          },
+          {
+            "word": "go",
+            "count": 1
+          },
+          {
+            "word": "goes",
+            "count": 2
+          },
+          {
+            "word": "Governance",
+            "count": 1
+          },
+          {
+            "word": "growth",
+            "count": 1
+          },
+          {
+            "word": "hands",
+            "count": 3
+          },
+          {
+            "word": "hangs",
+            "count": 1
+          },
+          {
+            "word": "hard",
+            "count": 1
+          },
+          {
+            "word": "Hardware",
+            "count": 1
+          },
+          {
+            "word": "has",
+            "count": 3
+          },
+          {
+            "word": "have",
+            "count": 2
+          },
+          {
+            "word": "headline",
+            "count": 1
+          },
+          {
+            "word": "held",
+            "count": 1
+          },
+          {
+            "word": "hidden",
+            "count": 1
+          },
+          {
+            "word": "history",
+            "count": 2
+          },
+          {
+            "word": "hold",
+            "count": 1
+          },
+          {
+            "word": "Hold",
+            "count": 1
+          },
+          {
+            "word": "holder",
+            "count": 10
+          },
+          {
+            "word": "holders",
+            "count": 2
+          },
+          {
+            "word": "holds",
+            "count": 3
+          },
+          {
+            "word": "Holds",
+            "count": 1
+          },
+          {
+            "word": "hour",
+            "count": 2
+          },
+          {
+            "word": "hours",
+            "count": 4
+          },
+          {
+            "word": "how",
+            "count": 3
+          },
+          {
+            "word": "hurt",
+            "count": 1
+          },
+          {
+            "word": "if",
+            "count": 2
+          },
+          {
+            "word": "If",
+            "count": 1
+          },
+          {
+            "word": "Ignored",
+            "count": 1
+          },
+          {
+            "word": "Immutable",
+            "count": 1
+          },
+          {
+            "word": "in",
+            "count": 19
+          },
+          {
+            "word": "inflate",
+            "count": 1
+          },
+          {
+            "word": "informed",
+            "count": 1
+          },
+          {
+            "word": "inspect",
+            "count": 1
+          },
+          {
+            "word": "instead",
+            "count": 1
+          },
+          {
+            "word": "into",
+            "count": 3
+          },
+          {
+            "word": "is",
+            "count": 36
+          },
+          {
+            "word": "it",
+            "count": 21
+          },
+          {
+            "word": "It",
+            "count": 2
+          },
+          {
+            "word": "its",
+            "count": 5
+          },
+          {
+            "word": "Its",
+            "count": 1
+          },
+          {
+            "word": "keep",
+            "count": 1
+          },
+          {
+            "word": "keeper",
+            "count": 2
+          },
+          {
+            "word": "keeps",
+            "count": 3
+          },
+          {
+            "word": "key",
+            "count": 12
+          },
+          {
+            "word": "Keys",
+            "count": 3
+          },
+          {
+            "word": "Labelled",
+            "count": 1
+          },
+          {
+            "word": "large",
+            "count": 2
+          },
+          {
+            "word": "larger",
+            "count": 2
+          },
+          {
+            "word": "last",
+            "count": 1
+          },
+          {
+            "word": "Latch",
+            "count": 1
+          },
+          {
+            "word": "Latchera",
+            "count": 9
+          },
+          {
+            "word": "latchera.xyz",
+            "count": 1
+          },
+          {
+            "word": "later",
+            "count": 2
+          },
+          {
+            "word": "launch",
+            "count": 4
+          },
+          {
+            "word": "launches",
+            "count": 1
+          },
+          {
+            "word": "launchpad",
+            "count": 4
+          },
+          {
+            "word": "Launchpad",
+            "count": 2
+          },
+          {
+            "word": "least",
+            "count": 1
+          },
+          {
+            "word": "leave",
+            "count": 1
+          },
+          {
+            "word": "leaves",
+            "count": 1
+          },
+          {
+            "word": "leaving",
+            "count": 2
+          },
+          {
+            "word": "left",
+            "count": 9
+          },
+          {
+            "word": "legal",
+            "count": 1
+          },
+          {
+            "word": "legible",
+            "count": 1
+          },
+          {
+            "word": "Lending",
+            "count": 1
+          },
+          {
+            "word": "length",
+            "count": 6
+          },
+          {
+            "word": "lengths",
+            "count": 1
+          },
+          {
+            "word": "lens",
+            "count": 2
+          },
+          {
+            "word": "less",
+            "count": 3
+          },
+          {
+            "word": "like",
+            "count": 1
+          },
+          {
+            "word": "linked",
+            "count": 1
+          },
+          {
+            "word": "liquid",
+            "count": 5
+          },
+          {
+            "word": "liquidity",
+            "count": 1
+          },
+          {
+            "word": "list",
+            "count": 1
+          },
+          {
+            "word": "List",
+            "count": 4
+          },
+          {
+            "word": "listed",
+            "count": 2
+          },
+          {
+            "word": "Listed",
+            "count": 1
+          },
+          {
+            "word": "listing",
+            "count": 17
+          },
+          {
+            "word": "listings",
+            "count": 6
+          },
+          {
+            "word": "Listings",
+            "count": 2
+          },
+          {
+            "word": "lists",
+            "count": 1
+          },
+          {
+            "word": "live",
+            "count": 5
+          },
+          {
+            "word": "lock",
+            "count": 17
+          },
+          {
+            "word": "Lock",
+            "count": 4
+          },
+          {
+            "word": "LOCK",
+            "count": 1
+          },
+          {
+            "word": "locked",
+            "count": 17
+          },
+          {
+            "word": "Locked",
+            "count": 1
+          },
+          {
+            "word": "LockedinBurner",
+            "count": 2
+          },
+          {
+            "word": "LockedinLens",
+            "count": 2
+          },
+          {
+            "word": "LockedinMarket",
+            "count": 2
+          },
+          {
+            "word": "lockers",
+            "count": 1
+          },
+          {
+            "word": "Lockers",
+            "count": 2
+          },
+          {
+            "word": "locking",
+            "count": 2
+          },
+          {
+            "word": "locks",
+            "count": 2
+          },
+          {
+            "word": "Locks",
+            "count": 2
+          },
+          {
+            "word": "logic",
+            "count": 1
+          },
+          {
+            "word": "longer",
+            "count": 1
+          },
+          {
+            "word": "look",
+            "count": 1
+          },
+          {
+            "word": "lower",
+            "count": 1
+          },
+          {
+            "word": "made",
+            "count": 1
+          },
+          {
+            "word": "makes",
+            "count": 2
+          },
+          {
+            "word": "manipulate",
+            "count": 2
+          },
+          {
+            "word": "many",
+            "count": 1
+          },
+          {
+            "word": "Marked",
+            "count": 1
+          },
+          {
+            "word": "market",
+            "count": 23
+          },
+          {
+            "word": "Market",
+            "count": 2
+          },
+          {
+            "word": "Master",
+            "count": 3
+          },
+          {
+            "word": "maximum",
+            "count": 1
+          },
+          {
+            "word": "may",
+            "count": 3
+          },
+          {
+            "word": "means",
+            "count": 2
+          },
+          {
+            "word": "measured",
+            "count": 1
+          },
+          {
+            "word": "Median",
+            "count": 1
+          },
+          {
+            "word": "meets",
+            "count": 1
+          },
+          {
+            "word": "messages",
+            "count": 1
+          },
+          {
+            "word": "minute",
+            "count": 1
+          },
+          {
+            "word": "minutes",
+            "count": 3
+          },
+          {
+            "word": "missing",
+            "count": 1
+          },
+          {
+            "word": "moment",
+            "count": 2
+          },
+          {
+            "word": "money",
+            "count": 3
+          },
+          {
+            "word": "months",
+            "count": 1
+          },
+          {
+            "word": "more",
+            "count": 1
+          },
+          {
+            "word": "More",
+            "count": 1
+          },
+          {
+            "word": "move",
+            "count": 8
+          },
+          {
+            "word": "moved",
+            "count": 1
+          },
+          {
+            "word": "moves",
+            "count": 5
+          },
+          {
+            "word": "Moves",
+            "count": 1
+          },
+          {
+            "word": "moving",
+            "count": 1
+          },
+          {
+            "word": "much",
+            "count": 1
+          },
+          {
+            "word": "natively",
+            "count": 1
+          },
+          {
+            "word": "need",
+            "count": 3
+          },
+          {
+            "word": "network",
+            "count": 2
+          },
+          {
+            "word": "never",
+            "count": 6
+          },
+          {
+            "word": "new",
+            "count": 2
+          },
+          {
+            "word": "NEXT",
+            "count": 1
+          },
+          {
+            "word": "no",
+            "count": 9
+          },
+          {
+            "word": "No",
+            "count": 12
+          },
+          {
+            "word": "not",
+            "count": 5
+          },
+          {
+            "word": "Not",
+            "count": 3
+          },
+          {
+            "word": "nothing",
+            "count": 5
+          },
+          {
+            "word": "Nothing",
+            "count": 2
+          },
+          {
+            "word": "notices",
+            "count": 2
+          },
+          {
+            "word": "now",
+            "count": 3
+          },
+          {
+            "word": "number",
+            "count": 2
+          },
+          {
+            "word": "numbers",
+            "count": 1
+          },
+          {
+            "word": "Oct",
+            "count": 2
+          },
+          {
+            "word": "of",
+            "count": 15
+          },
+          {
+            "word": "off",
+            "count": 1
+          },
+          {
+            "word": "offer",
+            "count": 1
+          },
+          {
+            "word": "offers",
+            "count": 1
+          },
+          {
+            "word": "Old",
+            "count": 1
+          },
+          {
+            "word": "on",
+            "count": 33
+          },
+          {
+            "word": "On",
+            "count": 4
+          },
+          {
+            "word": "once",
+            "count": 4
+          },
+          {
+            "word": "ONCE",
+            "count": 1
+          },
+          {
+            "word": "one",
+            "count": 19
+          },
+          {
+            "word": "One",
+            "count": 4
+          },
+          {
+            "word": "only",
+            "count": 8
+          },
+          {
+            "word": "open",
+            "count": 8
+          },
+          {
+            "word": "opening",
+            "count": 1
+          },
+          {
+            "word": "opens",
+            "count": 5
+          },
+          {
+            "word": "optional",
+            "count": 1
+          },
+          {
+            "word": "or",
+            "count": 11
+          },
+          {
+            "word": "order",
+            "count": 1
+          },
+          {
+            "word": "other",
+            "count": 2
+          },
+          {
+            "word": "Other",
+            "count": 1
+          },
+          {
+            "word": "ours",
+            "count": 1
+          },
+          {
+            "word": "out",
+            "count": 2
+          },
+          {
+            "word": "Outreach",
+            "count": 1
+          },
+          {
+            "word": "outside",
+            "count": 4
+          },
+          {
+            "word": "over",
+            "count": 1
+          },
+          {
+            "word": "own",
+            "count": 7
+          },
+          {
+            "word": "owner",
+            "count": 4
+          },
+          {
+            "word": "page",
+            "count": 3
+          },
+          {
+            "word": "pages",
+            "count": 3
+          },
+          {
+            "word": "paid",
+            "count": 2
+          },
+          {
+            "word": "Paperwork",
+            "count": 1
+          },
+          {
+            "word": "partner",
+            "count": 1
+          },
+          {
+            "word": "pass",
+            "count": 1
+          },
+          {
+            "word": "Pass",
+            "count": 1
+          },
+          {
+            "word": "past",
+            "count": 2
+          },
+          {
+            "word": "Past",
+            "count": 3
+          },
+          {
+            "word": "path",
+            "count": 5
+          },
+          {
+            "word": "paused",
+            "count": 2
+          },
+          {
+            "word": "pay",
+            "count": 2
+          },
+          {
+            "word": "payable",
+            "count": 1
+          },
+          {
+            "word": "paying",
+            "count": 1
+          },
+          {
+            "word": "payment",
+            "count": 1
+          },
+          {
+            "word": "pays",
+            "count": 4
+          },
+          {
+            "word": "penalty",
+            "count": 3
+          },
+          {
+            "word": "people",
+            "count": 1
+          },
+          {
+            "word": "per",
+            "count": 4
+          },
+          {
+            "word": "phase",
+            "count": 1
+          },
+          {
+            "word": "Phase",
+            "count": 4
+          },
+          {
+            "word": "phases",
+            "count": 1
+          },
+          {
+            "word": "Pick-proof",
+            "count": 1
+          },
+          {
+            "word": "Pin",
+            "count": 1
+          },
+          {
+            "word": "PIN",
+            "count": 1
+          },
+          {
+            "word": "plus",
+            "count": 1
+          },
+          {
+            "word": "points",
+            "count": 3
+          },
+          {
+            "word": "Pons",
+            "count": 3
+          },
+          {
+            "word": "pool",
+            "count": 24
+          },
+          {
+            "word": "Pool",
+            "count": 2
+          },
+          {
+            "word": "POOL",
+            "count": 8
+          },
+          {
+            "word": "pools",
+            "count": 2
+          },
+          {
+            "word": "Pools",
+            "count": 1
+          },
+          {
+            "word": "position",
+            "count": 14
+          },
+          {
+            "word": "POSITION",
+            "count": 4
+          },
+          {
+            "word": "positions",
+            "count": 7
+          },
+          {
+            "word": "Positions",
+            "count": 3
+          },
+          {
+            "word": "press",
+            "count": 1
+          },
+          {
+            "word": "Previous",
+            "count": 1
+          },
+          {
+            "word": "price",
+            "count": 30
+          },
+          {
+            "word": "PRICE",
+            "count": 1
+          },
+          {
+            "word": "prices",
+            "count": 2
+          },
+          {
+            "word": "primary",
+            "count": 2
+          },
+          {
+            "word": "PRIMARY",
+            "count": 2
+          },
+          {
+            "word": "product",
+            "count": 1
+          },
+          {
+            "word": "public",
+            "count": 5
+          },
+          {
+            "word": "punish",
+            "count": 1
+          },
+          {
+            "word": "purpose",
+            "count": 2
+          },
+          {
+            "word": "Push",
+            "count": 1
+          },
+          {
+            "word": "quoting",
+            "count": 1
+          },
+          {
+            "word": "rail",
+            "count": 6
+          },
+          {
+            "word": "Rail",
+            "count": 4
+          },
+          {
+            "word": "reaches",
+            "count": 3
+          },
+          {
+            "word": "Read",
+            "count": 6
+          },
+          {
+            "word": "reads",
+            "count": 1
+          },
+          {
+            "word": "READS",
+            "count": 2
+          },
+          {
+            "word": "real",
+            "count": 1
+          },
+          {
+            "word": "receives",
+            "count": 3
+          },
+          {
+            "word": "record",
+            "count": 1
+          },
+          {
+            "word": "records",
+            "count": 1
+          },
+          {
+            "word": "red",
+            "count": 1
+          },
+          {
+            "word": "reduces",
+            "count": 1
+          },
+          {
+            "word": "reference",
+            "count": 1
+          },
+          {
+            "word": "Refused",
+            "count": 1
+          },
+          {
+            "word": "release",
+            "count": 2
+          },
+          {
+            "word": "remains",
+            "count": 1
+          },
+          {
+            "word": "remove",
+            "count": 2
+          },
+          {
+            "word": "require",
+            "count": 1
+          },
+          {
+            "word": "resale",
+            "count": 8
+          },
+          {
+            "word": "Resale",
+            "count": 2
+          },
+          {
+            "word": "RESALE",
+            "count": 2
+          },
+          {
+            "word": "resales",
+            "count": 2
+          },
+          {
+            "word": "rest",
+            "count": 1
+          },
+          {
+            "word": "revenue",
+            "count": 1
+          },
+          {
+            "word": "review",
+            "count": 3
+          },
+          {
+            "word": "Review",
+            "count": 2
+          },
+          {
+            "word": "Rewards",
+            "count": 2
+          },
+          {
+            "word": "right",
+            "count": 3
+          },
+          {
+            "word": "RIGHT",
+            "count": 1
+          },
+          {
+            "word": "risk",
+            "count": 4
+          },
+          {
+            "word": "Robinhood",
+            "count": 8
+          },
+          {
+            "word": "runs",
+            "count": 1
+          },
+          {
+            "word": "safeguard",
+            "count": 1
+          },
+          {
+            "word": "sales",
+            "count": 1
+          },
+          {
+            "word": "same",
+            "count": 7
+          },
+          {
+            "word": "Sample",
+            "count": 1
+          },
+          {
+            "word": "saving",
+            "count": 2
+          },
+          {
+            "word": "screen",
+            "count": 2
+          },
+          {
+            "word": "seasons",
+            "count": 1
+          },
+          {
+            "word": "see",
+            "count": 1
+          },
+          {
+            "word": "See",
+            "count": 2
+          },
+          {
+            "word": "sell",
+            "count": 2
+          },
+          {
+            "word": "Sell",
+            "count": 2
+          },
+          {
+            "word": "seller",
+            "count": 12
+          },
+          {
+            "word": "Seller",
+            "count": 1
+          },
+          {
+            "word": "SELLER",
+            "count": 1
+          },
+          {
+            "word": "seller's",
+            "count": 1
+          },
+          {
+            "word": "seller’s",
+            "count": 1
+          },
+          {
+            "word": "sellers",
+            "count": 1
+          },
+          {
+            "word": "Sellers",
+            "count": 1
+          },
+          {
+            "word": "Selling",
+            "count": 1
+          },
+          {
+            "word": "sells",
+            "count": 1
+          },
+          {
+            "word": "send",
+            "count": 1
+          },
+          {
+            "word": "sends",
+            "count": 2
+          },
+          {
+            "word": "Set",
+            "count": 1
+          },
+          {
+            "word": "settle",
+            "count": 1
+          },
+          {
+            "word": "share",
+            "count": 1
+          },
+          {
+            "word": "sheet",
+            "count": 2
+          },
+          {
+            "word": "ships",
+            "count": 1
+          },
+          {
+            "word": "Short",
+            "count": 1
+          },
+          {
+            "word": "show",
+            "count": 2
+          },
+          {
+            "word": "shown",
+            "count": 1
+          },
+          {
+            "word": "shows",
+            "count": 1
+          },
+          {
+            "word": "side",
+            "count": 5
+          },
+          {
+            "word": "sides",
+            "count": 1
+          },
+          {
+            "word": "signs",
+            "count": 1
+          },
+          {
+            "word": "sit",
+            "count": 2
+          },
+          {
+            "word": "six",
+            "count": 1
+          },
+          {
+            "word": "size",
+            "count": 2
+          },
+          {
+            "word": "Size",
+            "count": 1
+          },
+          {
+            "word": "sized",
+            "count": 1
+          },
+          {
+            "word": "slippage",
+            "count": 1
+          },
+          {
+            "word": "small",
+            "count": 1
+          },
+          {
+            "word": "Smart",
+            "count": 1
+          },
+          {
+            "word": "smart-contract",
+            "count": 1
+          },
+          {
+            "word": "so",
+            "count": 3
+          },
+          {
+            "word": "social",
+            "count": 2
+          },
+          {
+            "word": "sold",
+            "count": 5
+          },
+          {
+            "word": "Sold",
+            "count": 1
+          },
+          {
+            "word": "someone",
+            "count": 6
+          },
+          {
+            "word": "Source",
+            "count": 2
+          },
+          {
+            "word": "Spec",
+            "count": 2
+          },
+          {
+            "word": "spent",
+            "count": 1
+          },
+          {
+            "word": "stamped",
+            "count": 1
+          },
+          {
+            "word": "start",
+            "count": 1
+          },
+          {
+            "word": "starts",
+            "count": 2
+          },
+          {
+            "word": "stay",
+            "count": 2
+          },
+          {
+            "word": "stays",
+            "count": 4
+          },
+          {
+            "word": "steps",
+            "count": 1
+          },
+          {
+            "word": "still",
+            "count": 5
+          },
+          {
+            "word": "stop",
+            "count": 1
+          },
+          {
+            "word": "story",
+            "count": 1
+          },
+          {
+            "word": "streak",
+            "count": 1
+          },
+          {
+            "word": "Strongbox",
+            "count": 1
+          },
+          {
+            "word": "supply",
+            "count": 2
+          },
+          {
+            "word": "swap",
+            "count": 1
+          },
+          {
+            "word": "Swap",
+            "count": 1
+          },
+          {
+            "word": "tag",
+            "count": 2
+          },
+          {
+            "word": "takes",
+            "count": 3
+          },
+          {
+            "word": "tax",
+            "count": 1
+          },
+          {
+            "word": "taxes",
+            "count": 1
+          },
+          {
+            "word": "team",
+            "count": 4
+          },
+          {
+            "word": "teams",
+            "count": 2
+          },
+          {
+            "word": "ten",
+            "count": 2
+          },
+          {
+            "word": "Ten",
+            "count": 1
+          },
+          {
+            "word": "terminals",
+            "count": 1
+          },
+          {
+            "word": "than",
+            "count": 5
+          },
+          {
+            "word": "that",
+            "count": 7
+          },
+          {
+            "word": "That",
+            "count": 1
+          },
+          {
+            "word": "the",
+            "count": 136
+          },
+          {
+            "word": "The",
+            "count": 36
+          },
+          {
+            "word": "THE",
+            "count": 8
+          },
+          {
+            "word": "their",
+            "count": 2
+          },
+          {
+            "word": "them",
+            "count": 1
+          },
+          {
+            "word": "then",
+            "count": 4
+          },
+          {
+            "word": "Then",
+            "count": 1
+          },
+          {
+            "word": "there",
+            "count": 1
+          },
+          {
+            "word": "these",
+            "count": 1
+          },
+          {
+            "word": "These",
+            "count": 2
+          },
+          {
+            "word": "they",
+            "count": 1
+          },
+          {
+            "word": "thing",
+            "count": 1
+          },
+          {
+            "word": "this",
+            "count": 5
+          },
+          {
+            "word": "those",
+            "count": 1
+          },
+          {
+            "word": "threshold",
+            "count": 1
+          },
+          {
+            "word": "through",
+            "count": 3
+          },
+          {
+            "word": "time",
+            "count": 5
+          },
+          {
+            "word": "Time",
+            "count": 5
+          },
+          {
+            "word": "to",
+            "count": 37
+          },
+          {
+            "word": "TO",
+            "count": 1
+          },
+          {
+            "word": "today",
+            "count": 1
+          },
+          {
+            "word": "token",
+            "count": 6
+          },
+          {
+            "word": "Token",
+            "count": 1
+          },
+          {
+            "word": "token's",
+            "count": 1
+          },
+          {
+            "word": "tokens",
+            "count": 15
+          },
+          {
+            "word": "Tokens",
+            "count": 2
+          },
+          {
+            "word": "too",
+            "count": 1
+          },
+          {
+            "word": "top",
+            "count": 1
+          },
+          {
+            "word": "touch",
+            "count": 1
+          },
+          {
+            "word": "Tradable",
+            "count": 1
+          },
+          {
+            "word": "trade",
+            "count": 3
+          },
+          {
+            "word": "transaction",
+            "count": 3
+          },
+          {
+            "word": "TRANSACTIONS",
+            "count": 2
+          },
+          {
+            "word": "transferable",
+            "count": 1
+          },
+          {
+            "word": "TRANSFERABLE",
+            "count": 1
+          },
+          {
+            "word": "transfers",
+            "count": 1
+          },
+          {
+            "word": "treasury",
+            "count": 1
+          },
+          {
+            "word": "trend",
+            "count": 1
+          },
+          {
+            "word": "trigger",
+            "count": 2
+          },
+          {
+            "word": "Try",
+            "count": 1
+          },
+          {
+            "word": "turn",
+            "count": 1
+          },
+          {
+            "word": "turnover",
+            "count": 1
+          },
+          {
+            "word": "turns",
+            "count": 1
+          },
+          {
+            "word": "two",
+            "count": 4
+          },
+          {
+            "word": "Two",
+            "count": 1
+          },
+          {
+            "word": "typed",
+            "count": 1
+          },
+          {
+            "word": "unchanged",
+            "count": 1
+          },
+          {
+            "word": "under",
+            "count": 1
+          },
+          {
+            "word": "UNDER",
+            "count": 7
+          },
+          {
+            "word": "Uniswap",
+            "count": 4
+          },
+          {
+            "word": "unlock",
+            "count": 5
+          },
+          {
+            "word": "Unlock",
+            "count": 1
+          },
+          {
+            "word": "Unlocks",
+            "count": 1
+          },
+          {
+            "word": "until",
+            "count": 4
+          },
+          {
+            "word": "up",
+            "count": 3
+          },
+          {
+            "word": "upgrade",
+            "count": 5
+          },
+          {
+            "word": "Use",
+            "count": 1
+          },
+          {
+            "word": "user",
+            "count": 1
+          },
+          {
+            "word": "UTC",
+            "count": 2
+          },
+          {
+            "word": "utility",
+            "count": 1
+          },
+          {
+            "word": "V4",
+            "count": 4
+          },
+          {
+            "word": "value",
+            "count": 1
+          },
+          {
+            "word": "VALUE",
+            "count": 2
+          },
+          {
+            "word": "vault",
+            "count": 1
+          },
+          {
+            "word": "verified",
+            "count": 2
+          },
+          {
+            "word": "verify",
+            "count": 1
+          },
+          {
+            "word": "viem-ready",
+            "count": 2
+          },
+          {
+            "word": "visible",
+            "count": 6
+          },
+          {
+            "word": "Visible",
+            "count": 2
+          },
+          {
+            "word": "Vite",
+            "count": 2
+          },
+          {
+            "word": "Vue",
+            "count": 2
+          },
+          {
+            "word": "wait",
+            "count": 3
+          },
+          {
+            "word": "waits",
+            "count": 1
+          },
+          {
+            "word": "wallet",
+            "count": 9
+          },
+          {
+            "word": "wallets",
+            "count": 2
+          },
+          {
+            "word": "wants",
+            "count": 1
+          },
+          {
+            "word": "was",
+            "count": 1
+          },
+          {
+            "word": "way",
+            "count": 3
+          },
+          {
+            "word": "ways",
+            "count": 2
+          },
+          {
+            "word": "weak",
+            "count": 1
+          },
+          {
+            "word": "Weak",
+            "count": 2
+          },
+          {
+            "word": "Web",
+            "count": 2
+          },
+          {
+            "word": "week",
+            "count": 1
+          },
+          {
+            "word": "what",
+            "count": 4
+          },
+          {
+            "word": "What",
+            "count": 5
+          },
+          {
+            "word": "when",
+            "count": 7
+          },
+          {
+            "word": "where",
+            "count": 2
+          },
+          {
+            "word": "Where",
+            "count": 1
+          },
+          {
+            "word": "which",
+            "count": 1
+          },
+          {
+            "word": "while",
+            "count": 2
+          },
+          {
+            "word": "who",
+            "count": 6
+          },
+          {
+            "word": "Whoever",
+            "count": 2
+          },
+          {
+            "word": "whole",
+            "count": 4
+          },
+          {
+            "word": "whose",
+            "count": 1
+          },
+          {
+            "word": "why",
+            "count": 1
+          },
+          {
+            "word": "widget",
+            "count": 1
+          },
+          {
+            "word": "window",
+            "count": 1
+          },
+          {
+            "word": "WINDOW",
+            "count": 1
+          },
+          {
+            "word": "with",
+            "count": 13
+          },
+          {
+            "word": "withdraw",
+            "count": 1
+          },
+          {
+            "word": "without",
+            "count": 1
+          },
+          {
+            "word": "Without",
+            "count": 1
+          },
+          {
+            "word": "Workings",
+            "count": 2
+          },
+          {
+            "word": "works",
+            "count": 1
+          },
+          {
+            "word": "Workshop",
+            "count": 1
+          },
+          {
+            "word": "worth",
+            "count": 3
+          },
+          {
+            "word": "would",
+            "count": 3
+          },
+          {
+            "word": "years",
+            "count": 1
+          },
+          {
+            "word": "you",
+            "count": 5
+          },
+          {
+            "word": "You",
+            "count": 1
+          },
+          {
+            "word": "your",
+            "count": 3
+          },
+          {
+            "word": "yours",
+            "count": 2
+          },
+          {
+            "word": "zero",
+            "count": 2
+          }
+        ],
+        "attrs": [
+          {
+            "key": "alt=A canvas pouch secured with a padlock",
+            "count": 1
+          },
+          {
+            "key": "alt=A metal key tag marked with a lock",
+            "count": 1
+          },
+          {
+            "key": "alt=An open padlock with the key turned",
+            "count": 1
+          },
+          {
+            "key": "alt=Padlocks secured to a dark wire fence",
+            "count": 1
+          },
+          {
+            "key": "alt=Three dials of a vault time lock",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Discount under the pool price",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Hardware",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Latchera home",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Open the lock",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Paperwork",
+            "count": 2
+          },
+          {
+            "key": "aria-label=Sections",
+            "count": 1
+          }
+        ],
+        "links": [
+          {
+            "href": "#/docs",
+            "count": 4
+          },
+          {
+            "href": "#combination",
+            "count": 3
+          },
+          {
+            "href": "#keys",
+            "count": 2
+          },
+          {
+            "href": "#master-key",
+            "count": 2
+          },
+          {
+            "href": "#rail",
+            "count": 2
+          },
+          {
+            "href": "#spec-sheet",
+            "count": 1
+          },
+          {
+            "href": "#time-lock",
+            "count": 3
+          },
+          {
+            "href": "#top",
+            "count": 2
+          },
+          {
+            "href": "#weak-points",
+            "count": 1
+          },
+          {
+            "href": "#workings",
+            "count": 1
+          }
+        ],
+        "forms": [
+          {
+            "key": "input::number",
+            "count": 2
+          },
+          {
+            "key": "input::range",
+            "count": 1
+          }
+        ],
+        "fieldIssues": [],
+        "imageIssues": [],
+        "interactiveIssues": [],
+        "classTokens": [
+          "is-on",
+          "lt-act",
+          "lt-act--fill",
+          "lt-act--line",
+          "lt-app",
+          "lt-band",
+          "lt-band-body",
+          "lt-bar",
+          "lt-burn",
+          "lt-calc",
+          "lt-calc-foot",
+          "lt-calc-row",
+          "lt-checks",
+          "lt-close-line",
+          "lt-command",
+          "lt-command-actions",
+          "lt-compare",
+          "lt-compare-head",
+          "lt-compare-row",
+          "lt-cta",
+          "lt-cta-actions",
+          "lt-cta-copy",
+          "lt-decisions",
+          "lt-dial",
+          "lt-dial-help",
+          "lt-dial-read",
+          "lt-dial-stage",
+          "lt-exclusions",
+          "lt-field",
+          "lt-finale",
+          "lt-finale-copy",
+          "lt-finale-locks",
+          "lt-fold",
+          "lt-fold-body",
+          "lt-foot",
+          "lt-foot-bottom",
+          "lt-foot-brand",
+          "lt-foot-chain",
+          "lt-foot-grid",
+          "lt-foot-label",
+          "lt-foot-nav",
+          "lt-foot-note",
+          "lt-gauges",
+          "lt-good",
+          "lt-head",
+          "lt-head--split",
+          "lt-head-note",
+          "lt-hero",
+          "lt-hero-copy",
+          "lt-hero-stage",
+          "lt-issues",
+          "lt-key-list",
+          "lt-keys",
+          "lt-keys-copy",
+          "lt-kicker",
+          "lt-lead",
+          "lt-lede",
+          "lt-legend",
+          "lt-limits",
+          "lt-lockchoice",
+          "lt-main",
+          "lt-marker",
+          "lt-matrix",
+          "lt-matrix--bars",
+          "lt-node",
+          "lt-node--hot",
+          "lt-node--lens",
+          "lt-phase-label",
+          "lt-phase-status",
+          "lt-phases",
+          "lt-plate",
+          "lt-plate--open",
+          "lt-plate-copy",
+          "lt-presence",
+          "lt-record",
+          "lt-risk",
+          "lt-scale",
+          "lt-sigil",
+          "lt-sigil-mark",
+          "lt-sigil-name",
+          "lt-signal",
+          "lt-signal-actors",
+          "lt-signal-dial",
+          "lt-signal-fees",
+          "lt-signal-label",
+          "lt-signal-pool",
+          "lt-signal-stage",
+          "lt-slider",
+          "lt-spine",
+          "lt-spine-glyph",
+          "lt-spine-glyph--0",
+          "lt-spine-glyph--1",
+          "lt-spine-glyph--2",
+          "lt-spine-glyph--3",
+          "lt-spine-glyph--4",
+          "lt-spine-glyph--doc",
+          "lt-spine-link",
+          "lt-spine-nav",
+          "lt-spine-nav--doc",
+          "lt-spine-text",
+          "lt-step",
+          "lt-step-body",
+          "lt-step-no",
+          "lt-steps",
+          "lt-stream-bar",
+          "lt-stream-cap",
+          "lt-stream-fee",
+          "lt-stream-main",
+          "lt-streams",
+          "lt-submark",
+          "lt-tape",
+          "lt-tape-cut",
+          "lt-tape-row",
+          "lt-tape-tag",
+          "lt-tape-under",
+          "lt-telemetry",
+          "lt-thumb",
+          "lt-thumb--tag",
+          "lt-ticket",
+          "lt-ticket-body",
+          "lt-ticket-head",
+          "lt-ticket-live",
+          "lt-ticket-meter",
+          "lt-vault",
+          "lt-vault-body",
+          "lt-vault-guide",
+          "lt-vault-halo",
+          "lt-vault-legend",
+          "lt-vault-notch",
+          "lt-vault-notch--a",
+          "lt-vault-notch--b",
+          "lt-vault-notch--c",
+          "lt-vault-notch--d",
+          "lt-vault-pin",
+          "lt-vault-stem",
+          "lt-vault-switch",
+          "lt-vault-wrap",
+          "lt-weak",
+          "lt-weak-col",
+          "lt-weak-label",
+          "lt-wire",
+          "lt-wire-label",
+          "lt-wire-link",
+          "lt-wire-row",
+          "lt-wire-row--value",
+          "lucide",
+          "lucide-arrow-down-right-icon",
+          "lucide-arrow-up-right-icon",
+          "lucide-key-round-icon",
+          "lucide-lock-keyhole-icon"
+        ],
+        "fingerprint": [
+          "a@6:2",
+          "a@7:0",
+          "a@7:1",
+          "a@7:2",
+          "a@8:0",
+          "a@8:1",
+          "a@8:2",
+          "article@10:2",
+          "article@11:2",
+          "article@9:3",
+          "article@9:4+",
+          "b@11:0",
+          "b@12:0",
+          "button@12:0",
+          "button@9:2",
+          "button@9:4+",
+          "circle@13:0",
+          "circle@9:0",
+          "dd@11:0",
+          "details@8:2",
+          "div@10:1",
+          "div@10:2",
+          "div@10:3",
+          "div@10:4+",
+          "div@11:2",
+          "div@11:3",
+          "div@11:4+",
+          "div@12:1",
+          "div@3:1",
+          "div@4:4+",
+          "div@5:2",
+          "div@6:2",
+          "div@6:3",
+          "div@7:2",
+          "div@7:3",
+          "div@7:4+",
+          "div@8:1",
+          "div@8:2",
+          "div@8:3",
+          "div@8:4+",
+          "div@9:1",
+          "div@9:2",
+          "div@9:3",
+          "div@9:4+",
+          "dl@9:4+",
+          "dt@11:0",
+          "em@11:0",
+          "em@12:0",
+          "figcaption@10:0",
+          "figcaption@11:0",
+          "figure@10:2",
+          "figure@9:2",
+          "footer@5:2",
+          "h1@9:2",
+          "h2@10:0",
+          "h2@8:1",
+          "h2@9:0",
+          "h3@10:0",
+          "h3@11:0",
+          "h3@12:0",
+          "header@5:3",
+          "i@11:0",
+          "i@13:0",
+          "i@7:0",
+          "img@11:0",
+          "img@12:0",
+          "img@8:0",
+          "input@10:0",
+          "input@12:0",
+          "label@10:2",
+          "li@11:0",
+          "li@11:3",
+          "li@11:4+",
+          "li@13:0",
+          "li@13:2",
+          "li@9:3",
+          "main@5:4+",
+          "nav@6:1",
+          "nav@6:4+",
+          "nav@7:4+",
+          "ol@10:4+",
+          "ol@8:4+",
+          "p@10:0",
+          "p@11:0",
+          "p@12:0",
+          "p@12:1",
+          "p@12:2",
+          "p@7:0",
+          "p@7:1",
+          "p@8:0",
+          "p@9:0",
+          "p@9:1",
+          "path@10:0",
+          "path@11:0",
+          "path@13:0",
+          "path@9:0",
+          "picture@10:2",
+          "picture@11:2",
+          "picture@7:2",
+          "rect@9:0",
+          "section@6:2",
+          "small@10:0",
+          "small@11:0",
+          "small@12:0",
+          "small@13:0",
+          "span@10:0",
+          "span@10:2",
+          "span@11:0",
+          "span@11:2",
+          "span@12:0",
+          "span@13:0",
+          "span@14:0",
+          "span@6:1",
+          "span@7:0",
+          "span@8:0",
+          "span@9:0",
+          "strong@10:0",
+          "strong@11:0",
+          "strong@12:0",
+          "strong@13:0",
+          "strong@14:0",
+          "strong@9:0",
+          "svg@10:2",
+          "svg@12:2",
+          "svg@8:3",
+          "svg@9:2",
+          "ul@10:4+",
+          "ul@12:3",
+          "ul@12:4+"
+        ],
+        "landmarks": [
+          {
+            "tag": "header",
+            "role": "",
+            "top": 14,
+            "left": 104,
+            "width": 1308,
+            "height": 62
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 14,
+            "left": 0,
+            "width": 75,
+            "height": 507
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 805,
+            "left": 0,
+            "width": 75,
+            "height": 75
+          },
+          {
+            "tag": "main",
+            "role": "",
+            "top": -199,
+            "left": 76,
+            "width": 1364,
+            "height": 12071
+          },
+          {
+            "tag": "footer",
+            "role": "",
+            "top": 11872,
+            "left": 76,
+            "width": 1364,
+            "height": 365
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 11932,
+            "left": 737,
+            "width": 298,
+            "height": 176
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 11932,
+            "left": 1084,
+            "width": 298,
+            "height": 176
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f4f7fa",
+            "count": 397
+          },
+          {
+            "hex": "#8fa3b5",
+            "count": 201
+          },
+          {
+            "hex": "#e3a6da",
+            "count": 146
+          },
+          {
+            "hex": "#a9bbcb",
+            "count": 56
+          },
+          {
+            "hex": "#080d14",
+            "count": 35
+          },
+          {
+            "hex": "#b6509e",
+            "count": 19
+          },
+          {
+            "hex": "#ffffff",
+            "count": 10
+          },
+          {
+            "hex": "#1e2a36",
+            "count": 5
+          },
+          {
+            "hex": "#2ebac6",
+            "count": 4
+          },
+          {
+            "hex": "#0b1420",
+            "count": 3
+          },
+          {
+            "hex": "#08121a",
+            "count": 2
+          },
+          {
+            "hex": "#0d1621",
+            "count": 2
+          },
+          {
+            "hex": "#5ce1a0",
+            "count": 2
+          },
+          {
+            "hex": "#060a10",
+            "count": 1
+          },
+          {
+            "hex": "#0c151f",
+            "count": 1
+          },
+          {
+            "hex": "#111a24",
+            "count": 1
+          }
+        ],
+        "contrast": [],
+        "contrastChecked": 436,
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Lock in a discount. The chart never notices."
+          },
+          {
+            "tag": "h2",
+            "text": "Every bag hangs in public, with its price on the tag."
+          },
+          {
+            "tag": "h2",
+            "text": "A deal that closes like a vault door: once, and on a clock."
+          },
+          {
+            "tag": "h3",
+            "text": "Escrow takes the bag"
+          },
+          {
+            "tag": "h3",
+            "text": "A buyer pays the listed price"
+          },
+          {
+            "tag": "h3",
+            "text": "Each fill cuts a key"
+          },
+          {
+            "tag": "h3",
+            "text": "That key can change hands"
+          },
+          {
+            "tag": "h3",
+            "text": "On the date, the lock opens"
+          },
+          {
+            "tag": "h2",
+            "text": "Dial in a discount. See what the pool would have cost."
+          },
+          {
+            "tag": "h2",
+            "text": "Lockers ask holders to wait for nothing. Pools punish anyone with size."
+          },
+          {
+            "tag": "h3",
+            "text": "A bag bigger than its pool"
+          },
+          {
+            "tag": "h3",
+            "text": "Size is hard to buy, too"
+          },
+          {
+            "tag": "h3",
+            "text": "Nothing on day one"
+          },
+          {
+            "tag": "h3",
+            "text": "A lock that cannot move"
+          },
+          {
+            "tag": "h3",
+            "text": "Deals in direct messages"
+          },
+          {
+            "tag": "h2",
+            "text": "A position is a key with a date stamped into it."
+          },
+          {
+            "tag": "h3",
+            "text": "Visible before you buy"
+          },
+          {
+            "tag": "h3",
+            "text": "Tradable while locked"
+          },
+          {
+            "tag": "h3",
+            "text": "Claimable by anyone"
+          },
+          {
+            "tag": "h3",
+            "text": "One fill, one key, one date."
+          },
+          {
+            "tag": "h2",
+            "text": "$LORH opens the first ten minutes. It never changes a price."
+          },
+          {
+            "tag": "h3",
+            "text": "Every fill buys and burns"
+          },
+          {
+            "tag": "h3",
+            "text": "Latch the opening minutes"
+          },
+          {
+            "tag": "h3",
+            "text": "Pin a listing on the rail"
+          },
+          {
+            "tag": "h3",
+            "text": "Use the token later"
+          },
+          {
+            "tag": "h3",
+            "text": "What the contract cannot do"
+          },
+          {
+            "tag": "h2",
+            "text": "The market keeps nothing. Its fees leave as burned $LORH."
+          },
+          {
+            "tag": "h2",
+            "text": "Two contracts hold the money. Everything else only reads."
+          },
+          {
+            "tag": "h3",
+            "text": "What the contract cannot do"
+          },
+          {
+            "tag": "h2",
+            "text": "Eight ways to cheat it, and what each one costs."
+          },
+          {
+            "tag": "h2",
+            "text": "What is on the bench, and what waits its turn."
+          },
+          {
+            "tag": "h3",
+            "text": "A seller can list a bag and a buyer can fill it"
+          },
+          {
+            "tag": "h3",
+            "text": "$LORH launches and listing #1 opens the same day"
+          },
+          {
+            "tag": "h3",
+            "text": "More ways to price a locked bag"
+          },
+          {
+            "tag": "h3",
+            "text": "Other apps start quoting the discount"
+          },
+          {
+            "tag": "h2",
+            "text": "Decisions, and why each one was made."
+          },
+          {
+            "tag": "h3",
+            "text": "The lock is sold as a discount"
+          },
+          {
+            "tag": "h3",
+            "text": "No early exit; the position is sold instead"
+          },
+          {
+            "tag": "h3",
+            "text": "Fixed-price listings first"
+          },
+          {
+            "tag": "h3",
+            "text": "Fee 2% primary, 1% resale"
+          },
+          {
+            "tag": "h3",
+            "text": "No price feed on the chain"
+          },
+          {
+            "tag": "h3",
+            "text": "Immutable contracts"
+          },
+          {
+            "tag": "h3",
+            "text": "WHAT GETS MEASURED"
+          },
+          {
+            "tag": "h3",
+            "text": "IGNORED ON PURPOSE"
+          },
+          {
+            "tag": "h2",
+            "text": "Every lock has weak points. These are ours."
+          },
+          {
+            "tag": "h3",
+            "text": "A launchpad adds it natively"
+          },
+          {
+            "tag": "h3",
+            "text": "Sellers do not come"
+          },
+          {
+            "tag": "h3",
+            "text": "Buyers get hurt"
+          },
+          {
+            "tag": "h2",
+            "text": "Lock in a discount. The chart never notices."
+          }
+        ],
+        "navTargets": [
+          ""
+        ],
+        "overflow": {
+          "documentOverflow": false,
+          "offenders": [
+            {
+              "selector": "main.lt-main > section.lt-finale > div.lt-finale-locks",
+              "right": 1450,
+              "width": 1384
+            }
+          ]
+        }
+      },
+      "axe": {
+        "skipped": true,
+        "violations": []
+      },
+      "consoleErrors": [],
+      "pageErrors": [],
+      "failedRequests": [],
+      "failedResponses": [],
+      "screenshots": {
+        "desktop": "current/home-desktop.png",
+        "mobile": "current/home-mobile.png"
+      },
+      "mobile": {
+        "meta": {
+          "title": "Latchera - Lock in a discount",
+          "lang": "en",
+          "h1Count": 1,
+          "bodyTextLength": 13199,
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "focusableCount": 32
+        },
+        "words": [
+          {
+            "word": "#0084",
+            "count": 1
+          },
+          {
+            "word": "#1",
+            "count": 1
+          },
+          {
+            "word": "$LORH",
+            "count": 23
+          },
+          {
+            "word": "0",
+            "count": 1
+          },
+          {
+            "word": "0.0%",
+            "count": 2
+          },
+          {
+            "word": "0.05",
+            "count": 1
+          },
+          {
+            "word": "0.0750",
+            "count": 1
+          },
+          {
+            "word": "0.12",
+            "count": 1
+          },
+          {
+            "word": "0.25",
+            "count": 1
+          },
+          {
+            "word": "0.42",
+            "count": 2
+          },
+          {
+            "word": "0.80",
+            "count": 1
+          },
+          {
+            "word": "01",
+            "count": 5
+          },
+          {
+            "word": "02",
+            "count": 5
+          },
+          {
+            "word": "03",
+            "count": 5
+          },
+          {
+            "word": "04",
+            "count": 4
+          },
+          {
+            "word": "05",
+            "count": 3
+          },
+          {
+            "word": "06",
+            "count": 1
+          },
+          {
+            "word": "07",
+            "count": 1
+          },
+          {
+            "word": "08",
+            "count": 1
+          },
+          {
+            "word": "1",
+            "count": 1
+          },
+          {
+            "word": "1-hour",
+            "count": 1
+          },
+          {
+            "word": "1.35",
+            "count": 1
+          },
+          {
+            "word": "1%",
+            "count": 6
+          },
+          {
+            "word": "10",
+            "count": 1
+          },
+          {
+            "word": "12%",
+            "count": 1
+          },
+          {
+            "word": "14:08",
+            "count": 1
+          },
+          {
+            "word": "16:37",
+            "count": 1
+          },
+          {
+            "word": "18",
+            "count": 1
+          },
+          {
+            "word": "19.2%",
+            "count": 1
+          },
+          {
+            "word": "19%",
+            "count": 1
+          },
+          {
+            "word": "2",
+            "count": 1
+          },
+          {
+            "word": "2.10",
+            "count": 1
+          },
+          {
+            "word": "2%",
+            "count": 7
+          },
+          {
+            "word": "20",
+            "count": 1
+          },
+          {
+            "word": "2026",
+            "count": 1
+          },
+          {
+            "word": "24",
+            "count": 4
+          },
+          {
+            "word": "24h",
+            "count": 1
+          },
+          {
+            "word": "25%",
+            "count": 3
+          },
+          {
+            "word": "26%",
+            "count": 1
+          },
+          {
+            "word": "27",
+            "count": 1
+          },
+          {
+            "word": "3",
+            "count": 4
+          },
+          {
+            "word": "3.675",
+            "count": 1
+          },
+          {
+            "word": "3.750",
+            "count": 1
+          },
+          {
+            "word": "3.960",
+            "count": 1
+          },
+          {
+            "word": "30",
+            "count": 3
+          },
+          {
+            "word": "30d",
+            "count": 1
+          },
+          {
+            "word": "31%",
+            "count": 1
+          },
+          {
+            "word": "36.0%",
+            "count": 1
+          },
+          {
+            "word": "3d",
+            "count": 1
+          },
+          {
+            "word": "4",
+            "count": 1
+          },
+          {
+            "word": "40",
+            "count": 1
+          },
+          {
+            "word": "44%",
+            "count": 1
+          },
+          {
+            "word": "4663",
+            "count": 2
+          },
+          {
+            "word": "50",
+            "count": 1
+          },
+          {
+            "word": "6.733",
+            "count": 1
+          },
+          {
+            "word": "60",
+            "count": 1
+          },
+          {
+            "word": "7",
+            "count": 2
+          },
+          {
+            "word": "7d",
+            "count": 2
+          },
+          {
+            "word": "8%",
+            "count": 1
+          },
+          {
+            "word": "98%",
+            "count": 2
+          },
+          {
+            "word": "99%",
+            "count": 2
+          },
+          {
+            "word": "a",
+            "count": 70
+          },
+          {
+            "word": "A",
+            "count": 36
+          },
+          {
+            "word": "AAA",
+            "count": 1
+          },
+          {
+            "word": "above",
+            "count": 2
+          },
+          {
+            "word": "accepts",
+            "count": 1
+          },
+          {
+            "word": "access",
+            "count": 1
+          },
+          {
+            "word": "accumulated",
+            "count": 1
+          },
+          {
+            "word": "across",
+            "count": 1
+          },
+          {
+            "word": "adding",
+            "count": 1
+          },
+          {
+            "word": "adds",
+            "count": 2
+          },
+          {
+            "word": "advice",
+            "count": 1
+          },
+          {
+            "word": "affiliated",
+            "count": 2
+          },
+          {
+            "word": "after",
+            "count": 2
+          },
+          {
+            "word": "against",
+            "count": 2
+          },
+          {
+            "word": "all",
+            "count": 2
+          },
+          {
+            "word": "already",
+            "count": 1
+          },
+          {
+            "word": "always",
+            "count": 1
+          },
+          {
+            "word": "amount",
+            "count": 5
+          },
+          {
+            "word": "Amount",
+            "count": 1
+          },
+          {
+            "word": "an",
+            "count": 3
+          },
+          {
+            "word": "and",
+            "count": 47
+          },
+          {
+            "word": "another",
+            "count": 2
+          },
+          {
+            "word": "any",
+            "count": 3
+          },
+          {
+            "word": "anyone",
+            "count": 3
+          },
+          {
+            "word": "Anyone",
+            "count": 1
+          },
+          {
+            "word": "API",
+            "count": 2
+          },
+          {
+            "word": "app",
+            "count": 2
+          },
+          {
+            "word": "approved",
+            "count": 1
+          },
+          {
+            "word": "apps",
+            "count": 1
+          },
+          {
+            "word": "are",
+            "count": 4
+          },
+          {
+            "word": "arrive",
+            "count": 1
+          },
+          {
+            "word": "as",
+            "count": 3
+          },
+          {
+            "word": "ask",
+            "count": 2
+          },
+          {
+            "word": "at",
+            "count": 13
+          },
+          {
+            "word": "auction",
+            "count": 1
+          },
+          {
+            "word": "average",
+            "count": 1
+          },
+          {
+            "word": "badges",
+            "count": 2
+          },
+          {
+            "word": "Badges",
+            "count": 1
+          },
+          {
+            "word": "bag",
+            "count": 15
+          },
+          {
+            "word": "Bag",
+            "count": 1
+          },
+          {
+            "word": "bags",
+            "count": 5
+          },
+          {
+            "word": "BBB",
+            "count": 1
+          },
+          {
+            "word": "be",
+            "count": 4
+          },
+          {
+            "word": "before",
+            "count": 7
+          },
+          {
+            "word": "below",
+            "count": 1
+          },
+          {
+            "word": "bench",
+            "count": 3
+          },
+          {
+            "word": "between",
+            "count": 1
+          },
+          {
+            "word": "Bids",
+            "count": 1
+          },
+          {
+            "word": "bigger",
+            "count": 1
+          },
+          {
+            "word": "blocks",
+            "count": 4
+          },
+          {
+            "word": "board",
+            "count": 1
+          },
+          {
+            "word": "bought",
+            "count": 1
+          },
+          {
+            "word": "Bought",
+            "count": 1
+          },
+          {
+            "word": "boundary",
+            "count": 2
+          },
+          {
+            "word": "breaks",
+            "count": 1
+          },
+          {
+            "word": "brokerage",
+            "count": 2
+          },
+          {
+            "word": "browser",
+            "count": 2
+          },
+          {
+            "word": "burn",
+            "count": 2
+          },
+          {
+            "word": "BURN",
+            "count": 1
+          },
+          {
+            "word": "burned",
+            "count": 6
+          },
+          {
+            "word": "Burned",
+            "count": 1
+          },
+          {
+            "word": "burner",
+            "count": 4
+          },
+          {
+            "word": "Burner",
+            "count": 2
+          },
+          {
+            "word": "BURNER",
+            "count": 1
+          },
+          {
+            "word": "burns",
+            "count": 6
+          },
+          {
+            "word": "but",
+            "count": 1
+          },
+          {
+            "word": "buy",
+            "count": 7
+          },
+          {
+            "word": "Buy",
+            "count": 1
+          },
+          {
+            "word": "buyer",
+            "count": 9
+          },
+          {
+            "word": "BUYER",
+            "count": 2
+          },
+          {
+            "word": "buyer's",
+            "count": 1
+          },
+          {
+            "word": "buyer’s",
+            "count": 1
+          },
+          {
+            "word": "Buyers",
+            "count": 1
+          },
+          {
+            "word": "buys",
+            "count": 8
+          },
+          {
+            "word": "by",
+            "count": 6
+          },
+          {
+            "word": "calendar",
+            "count": 2
+          },
+          {
+            "word": "call",
+            "count": 2
+          },
+          {
+            "word": "can",
+            "count": 21
+          },
+          {
+            "word": "Can",
+            "count": 1
+          },
+          {
+            "word": "cancels",
+            "count": 2
+          },
+          {
+            "word": "candle",
+            "count": 1
+          },
+          {
+            "word": "cannot",
+            "count": 11
+          },
+          {
+            "word": "cards",
+            "count": 2
+          },
+          {
+            "word": "carries",
+            "count": 1
+          },
+          {
+            "word": "CCC",
+            "count": 1
+          },
+          {
+            "word": "chain",
+            "count": 3
+          },
+          {
+            "word": "Chain",
+            "count": 10
+          },
+          {
+            "word": "chain’s",
+            "count": 2
+          },
+          {
+            "word": "chainId",
+            "count": 2
+          },
+          {
+            "word": "change",
+            "count": 4
+          },
+          {
+            "word": "changes",
+            "count": 2
+          },
+          {
+            "word": "chart",
+            "count": 3
+          },
+          {
+            "word": "cheaper",
+            "count": 3
+          },
+          {
+            "word": "CHEAPER",
+            "count": 1
+          },
+          {
+            "word": "cheat",
+            "count": 1
+          },
+          {
+            "word": "checks",
+            "count": 1
+          },
+          {
+            "word": "chooses",
+            "count": 1
+          },
+          {
+            "word": "chosen",
+            "count": 1
+          },
+          {
+            "word": "claim",
+            "count": 6
+          },
+          {
+            "word": "CLAIM",
+            "count": 1
+          },
+          {
+            "word": "Claimable",
+            "count": 2
+          },
+          {
+            "word": "claims",
+            "count": 3
+          },
+          {
+            "word": "Claims",
+            "count": 2
+          },
+          {
+            "word": "clear",
+            "count": 1
+          },
+          {
+            "word": "clock",
+            "count": 2
+          },
+          {
+            "word": "closes",
+            "count": 1
+          },
+          {
+            "word": "coin",
+            "count": 7
+          },
+          {
+            "word": "Coin",
+            "count": 1
+          },
+          {
+            "word": "coins",
+            "count": 5
+          },
+          {
+            "word": "collect",
+            "count": 1
+          },
+          {
+            "word": "Combination",
+            "count": 3
+          },
+          {
+            "word": "come",
+            "count": 1
+          },
+          {
+            "word": "comes",
+            "count": 2
+          },
+          {
+            "word": "Community-built",
+            "count": 2
+          },
+          {
+            "word": "Compare",
+            "count": 1
+          },
+          {
+            "word": "compares",
+            "count": 1
+          },
+          {
+            "word": "comparison",
+            "count": 1
+          },
+          {
+            "word": "completes",
+            "count": 4
+          },
+          {
+            "word": "contain",
+            "count": 1
+          },
+          {
+            "word": "contract",
+            "count": 7
+          },
+          {
+            "word": "contracts",
+            "count": 4
+          },
+          {
+            "word": "cost",
+            "count": 1
+          },
+          {
+            "word": "costs",
+            "count": 1
+          },
+          {
+            "word": "count",
+            "count": 1
+          },
+          {
+            "word": "counts",
+            "count": 1
+          },
+          {
+            "word": "create",
+            "count": 1
+          },
+          {
+            "word": "created",
+            "count": 2
+          },
+          {
+            "word": "creates",
+            "count": 1
+          },
+          {
+            "word": "current",
+            "count": 2
+          },
+          {
+            "word": "curve",
+            "count": 4
+          },
+          {
+            "word": "cuts",
+            "count": 1
+          },
+          {
+            "word": "date",
+            "count": 9
+          },
+          {
+            "word": "day",
+            "count": 4
+          },
+          {
+            "word": "days",
+            "count": 6
+          },
+          {
+            "word": "DDD",
+            "count": 1
+          },
+          {
+            "word": "deal",
+            "count": 3
+          },
+          {
+            "word": "Deals",
+            "count": 1
+          },
+          {
+            "word": "decisions",
+            "count": 1
+          },
+          {
+            "word": "Decisions",
+            "count": 1
+          },
+          {
+            "word": "deepest",
+            "count": 1
+          },
+          {
+            "word": "default",
+            "count": 1
+          },
+          {
+            "word": "deliver",
+            "count": 1
+          },
+          {
+            "word": "depends",
+            "count": 2
+          },
+          {
+            "word": "deployment",
+            "count": 2
+          },
+          {
+            "word": "deposit",
+            "count": 1
+          },
+          {
+            "word": "depth",
+            "count": 2
+          },
+          {
+            "word": "design",
+            "count": 1
+          },
+          {
+            "word": "destroyed",
+            "count": 1
+          },
+          {
+            "word": "destroys",
+            "count": 1
+          },
+          {
+            "word": "dial",
+            "count": 1
+          },
+          {
+            "word": "Dial",
+            "count": 1
+          },
+          {
+            "word": "direct",
+            "count": 1
+          },
+          {
+            "word": "directly",
+            "count": 2
+          },
+          {
+            "word": "discount",
+            "count": 13
+          },
+          {
+            "word": "Discounted",
+            "count": 1
+          },
+          {
+            "word": "do",
+            "count": 3
+          },
+          {
+            "word": "docs",
+            "count": 2
+          },
+          {
+            "word": "Docs",
+            "count": 2
+          },
+          {
+            "word": "does",
+            "count": 3
+          },
+          {
+            "word": "Done",
+            "count": 4
+          },
+          {
+            "word": "door",
+            "count": 1
+          },
+          {
+            "word": "Dust",
+            "count": 1
+          },
+          {
+            "word": "each",
+            "count": 3
+          },
+          {
+            "word": "Each",
+            "count": 2
+          },
+          {
+            "word": "early",
+            "count": 4
+          },
+          {
+            "word": "ecosystem",
+            "count": 1
+          },
+          {
+            "word": "EEE",
+            "count": 1
+          },
+          {
+            "word": "eight",
+            "count": 1
+          },
+          {
+            "word": "Eight",
+            "count": 1
+          },
+          {
+            "word": "else",
+            "count": 4
+          },
+          {
+            "word": "Empty",
+            "count": 1
+          },
+          {
+            "word": "enough",
+            "count": 4
+          },
+          {
+            "word": "ERC-721",
+            "count": 2
+          },
+          {
+            "word": "errors",
+            "count": 1
+          },
+          {
+            "word": "escrow",
+            "count": 4
+          },
+          {
+            "word": "Escrow",
+            "count": 2
+          },
+          {
+            "word": "ESCROW",
+            "count": 1
+          },
+          {
+            "word": "escrowed",
+            "count": 3
+          },
+          {
+            "word": "ETH",
+            "count": 29
+          },
+          {
+            "word": "every",
+            "count": 5
+          },
+          {
+            "word": "Every",
+            "count": 4
+          },
+          {
+            "word": "everything",
+            "count": 1
+          },
+          {
+            "word": "Everything",
+            "count": 1
+          },
+          {
+            "word": "EVM",
+            "count": 2
+          },
+          {
+            "word": "exact",
+            "count": 2
+          },
+          {
+            "word": "exit",
+            "count": 5
+          },
+          {
+            "word": "explorer",
+            "count": 2
+          },
+          {
+            "word": "External",
+            "count": 1
+          },
+          {
+            "word": "fake",
+            "count": 1
+          },
+          {
+            "word": "fall",
+            "count": 2
+          },
+          {
+            "word": "falling",
+            "count": 1
+          },
+          {
+            "word": "Falling-price",
+            "count": 1
+          },
+          {
+            "word": "falls",
+            "count": 1
+          },
+          {
+            "word": "far",
+            "count": 1
+          },
+          {
+            "word": "fee",
+            "count": 4
+          },
+          {
+            "word": "Fee",
+            "count": 2
+          },
+          {
+            "word": "FEE",
+            "count": 1
+          },
+          {
+            "word": "feed",
+            "count": 7
+          },
+          {
+            "word": "fees",
+            "count": 2
+          },
+          {
+            "word": "FFF",
+            "count": 1
+          },
+          {
+            "word": "fill",
+            "count": 15
+          },
+          {
+            "word": "Fill",
+            "count": 1
+          },
+          {
+            "word": "FILL",
+            "count": 2
+          },
+          {
+            "word": "filled",
+            "count": 3
+          },
+          {
+            "word": "Filled",
+            "count": 2
+          },
+          {
+            "word": "fills",
+            "count": 4
+          },
+          {
+            "word": "financial",
+            "count": 1
+          },
+          {
+            "word": "first",
+            "count": 8
+          },
+          {
+            "word": "FIRST",
+            "count": 1
+          },
+          {
+            "word": "five",
+            "count": 1
+          },
+          {
+            "word": "fixed",
+            "count": 5
+          },
+          {
+            "word": "Fixed-price",
+            "count": 1
+          },
+          {
+            "word": "flow",
+            "count": 6
+          },
+          {
+            "word": "Follower",
+            "count": 1
+          },
+          {
+            "word": "for",
+            "count": 14
+          },
+          {
+            "word": "fork",
+            "count": 1
+          },
+          {
+            "word": "four",
+            "count": 1
+          },
+          {
+            "word": "from",
+            "count": 3
+          },
+          {
+            "word": "front",
+            "count": 1
+          },
+          {
+            "word": "Frontend",
+            "count": 2
+          },
+          {
+            "word": "full",
+            "count": 1
+          },
+          {
+            "word": "function",
+            "count": 4
+          },
+          {
+            "word": "Fund",
+            "count": 1
+          },
+          {
+            "word": "funds",
+            "count": 2
+          },
+          {
+            "word": "further",
+            "count": 1
+          },
+          {
+            "word": "future",
+            "count": 1
+          },
+          {
+            "word": "Future",
+            "count": 1
+          },
+          {
+            "word": "gap",
+            "count": 1
+          },
+          {
+            "word": "get",
+            "count": 2
+          },
+          {
+            "word": "gets",
+            "count": 1
+          },
+          {
+            "word": "give",
+            "count": 2
+          },
+          {
+            "word": "go",
+            "count": 1
+          },
+          {
+            "word": "goes",
+            "count": 2
+          },
+          {
+            "word": "Governance",
+            "count": 1
+          },
+          {
+            "word": "growth",
+            "count": 1
+          },
+          {
+            "word": "hands",
+            "count": 3
+          },
+          {
+            "word": "hangs",
+            "count": 1
+          },
+          {
+            "word": "hard",
+            "count": 1
+          },
+          {
+            "word": "Hardware",
+            "count": 1
+          },
+          {
+            "word": "has",
+            "count": 3
+          },
+          {
+            "word": "have",
+            "count": 2
+          },
+          {
+            "word": "headline",
+            "count": 1
+          },
+          {
+            "word": "held",
+            "count": 1
+          },
+          {
+            "word": "hidden",
+            "count": 1
+          },
+          {
+            "word": "history",
+            "count": 2
+          },
+          {
+            "word": "hold",
+            "count": 1
+          },
+          {
+            "word": "Hold",
+            "count": 1
+          },
+          {
+            "word": "holder",
+            "count": 10
+          },
+          {
+            "word": "holders",
+            "count": 2
+          },
+          {
+            "word": "holds",
+            "count": 4
+          },
+          {
+            "word": "Holds",
+            "count": 1
+          },
+          {
+            "word": "hour",
+            "count": 2
+          },
+          {
+            "word": "hours",
+            "count": 4
+          },
+          {
+            "word": "how",
+            "count": 3
+          },
+          {
+            "word": "hurt",
+            "count": 1
+          },
+          {
+            "word": "if",
+            "count": 2
+          },
+          {
+            "word": "If",
+            "count": 1
+          },
+          {
+            "word": "Ignored",
+            "count": 1
+          },
+          {
+            "word": "Immutable",
+            "count": 1
+          },
+          {
+            "word": "in",
+            "count": 19
+          },
+          {
+            "word": "inflate",
+            "count": 1
+          },
+          {
+            "word": "informed",
+            "count": 1
+          },
+          {
+            "word": "inspect",
+            "count": 1
+          },
+          {
+            "word": "instead",
+            "count": 1
+          },
+          {
+            "word": "into",
+            "count": 3
+          },
+          {
+            "word": "is",
+            "count": 36
+          },
+          {
+            "word": "it",
+            "count": 21
+          },
+          {
+            "word": "It",
+            "count": 2
+          },
+          {
+            "word": "its",
+            "count": 5
+          },
+          {
+            "word": "Its",
+            "count": 1
+          },
+          {
+            "word": "keep",
+            "count": 1
+          },
+          {
+            "word": "keeper",
+            "count": 2
+          },
+          {
+            "word": "keeps",
+            "count": 3
+          },
+          {
+            "word": "key",
+            "count": 12
+          },
+          {
+            "word": "Keys",
+            "count": 3
+          },
+          {
+            "word": "Labelled",
+            "count": 1
+          },
+          {
+            "word": "large",
+            "count": 2
+          },
+          {
+            "word": "larger",
+            "count": 2
+          },
+          {
+            "word": "last",
+            "count": 1
+          },
+          {
+            "word": "Latch",
+            "count": 1
+          },
+          {
+            "word": "Latchera",
+            "count": 9
+          },
+          {
+            "word": "latchera.xyz",
+            "count": 1
+          },
+          {
+            "word": "later",
+            "count": 2
+          },
+          {
+            "word": "launch",
+            "count": 4
+          },
+          {
+            "word": "launches",
+            "count": 1
+          },
+          {
+            "word": "launchpad",
+            "count": 4
+          },
+          {
+            "word": "Launchpad",
+            "count": 2
+          },
+          {
+            "word": "least",
+            "count": 1
+          },
+          {
+            "word": "leave",
+            "count": 1
+          },
+          {
+            "word": "leaves",
+            "count": 1
+          },
+          {
+            "word": "leaving",
+            "count": 2
+          },
+          {
+            "word": "left",
+            "count": 9
+          },
+          {
+            "word": "legal",
+            "count": 1
+          },
+          {
+            "word": "legible",
+            "count": 1
+          },
+          {
+            "word": "Lending",
+            "count": 1
+          },
+          {
+            "word": "length",
+            "count": 6
+          },
+          {
+            "word": "lengths",
+            "count": 1
+          },
+          {
+            "word": "lens",
+            "count": 2
+          },
+          {
+            "word": "less",
+            "count": 3
+          },
+          {
+            "word": "like",
+            "count": 1
+          },
+          {
+            "word": "linked",
+            "count": 1
+          },
+          {
+            "word": "liquid",
+            "count": 5
+          },
+          {
+            "word": "liquidity",
+            "count": 1
+          },
+          {
+            "word": "list",
+            "count": 1
+          },
+          {
+            "word": "List",
+            "count": 4
+          },
+          {
+            "word": "listed",
+            "count": 2
+          },
+          {
+            "word": "Listed",
+            "count": 1
+          },
+          {
+            "word": "listing",
+            "count": 17
+          },
+          {
+            "word": "listings",
+            "count": 6
+          },
+          {
+            "word": "Listings",
+            "count": 2
+          },
+          {
+            "word": "lists",
+            "count": 1
+          },
+          {
+            "word": "live",
+            "count": 5
+          },
+          {
+            "word": "lock",
+            "count": 18
+          },
+          {
+            "word": "Lock",
+            "count": 4
+          },
+          {
+            "word": "LOCK",
+            "count": 1
+          },
+          {
+            "word": "locked",
+            "count": 17
+          },
+          {
+            "word": "Locked",
+            "count": 1
+          },
+          {
+            "word": "LockedinBurner",
+            "count": 2
+          },
+          {
+            "word": "LockedinLens",
+            "count": 2
+          },
+          {
+            "word": "LockedinMarket",
+            "count": 2
+          },
+          {
+            "word": "lockers",
+            "count": 1
+          },
+          {
+            "word": "Lockers",
+            "count": 2
+          },
+          {
+            "word": "locking",
+            "count": 2
+          },
+          {
+            "word": "locks",
+            "count": 2
+          },
+          {
+            "word": "Locks",
+            "count": 2
+          },
+          {
+            "word": "logic",
+            "count": 1
+          },
+          {
+            "word": "longer",
+            "count": 1
+          },
+          {
+            "word": "look",
+            "count": 1
+          },
+          {
+            "word": "lower",
+            "count": 1
+          },
+          {
+            "word": "made",
+            "count": 1
+          },
+          {
+            "word": "makes",
+            "count": 2
+          },
+          {
+            "word": "manipulate",
+            "count": 2
+          },
+          {
+            "word": "many",
+            "count": 1
+          },
+          {
+            "word": "Marked",
+            "count": 1
+          },
+          {
+            "word": "market",
+            "count": 23
+          },
+          {
+            "word": "Market",
+            "count": 2
+          },
+          {
+            "word": "Master",
+            "count": 3
+          },
+          {
+            "word": "maximum",
+            "count": 1
+          },
+          {
+            "word": "may",
+            "count": 3
+          },
+          {
+            "word": "means",
+            "count": 2
+          },
+          {
+            "word": "measured",
+            "count": 1
+          },
+          {
+            "word": "measures",
+            "count": 1
+          },
+          {
+            "word": "Median",
+            "count": 1
+          },
+          {
+            "word": "meets",
+            "count": 1
+          },
+          {
+            "word": "messages",
+            "count": 1
+          },
+          {
+            "word": "minute",
+            "count": 1
+          },
+          {
+            "word": "minutes",
+            "count": 3
+          },
+          {
+            "word": "missing",
+            "count": 1
+          },
+          {
+            "word": "models",
+            "count": 1
+          },
+          {
+            "word": "moment",
+            "count": 2
+          },
+          {
+            "word": "money",
+            "count": 3
+          },
+          {
+            "word": "months",
+            "count": 1
+          },
+          {
+            "word": "more",
+            "count": 1
+          },
+          {
+            "word": "More",
+            "count": 1
+          },
+          {
+            "word": "move",
+            "count": 8
+          },
+          {
+            "word": "moved",
+            "count": 1
+          },
+          {
+            "word": "moves",
+            "count": 5
+          },
+          {
+            "word": "Moves",
+            "count": 1
+          },
+          {
+            "word": "moving",
+            "count": 1
+          },
+          {
+            "word": "much",
+            "count": 1
+          },
+          {
+            "word": "natively",
+            "count": 1
+          },
+          {
+            "word": "need",
+            "count": 3
+          },
+          {
+            "word": "network",
+            "count": 2
+          },
+          {
+            "word": "never",
+            "count": 6
+          },
+          {
+            "word": "new",
+            "count": 2
+          },
+          {
+            "word": "NEXT",
+            "count": 1
+          },
+          {
+            "word": "no",
+            "count": 9
+          },
+          {
+            "word": "No",
+            "count": 12
+          },
+          {
+            "word": "not",
+            "count": 5
+          },
+          {
+            "word": "Not",
+            "count": 3
+          },
+          {
+            "word": "nothing",
+            "count": 5
+          },
+          {
+            "word": "Nothing",
+            "count": 2
+          },
+          {
+            "word": "notices",
+            "count": 2
+          },
+          {
+            "word": "now",
+            "count": 3
+          },
+          {
+            "word": "number",
+            "count": 2
+          },
+          {
+            "word": "numbers",
+            "count": 1
+          },
+          {
+            "word": "Oct",
+            "count": 2
+          },
+          {
+            "word": "of",
+            "count": 15
+          },
+          {
+            "word": "off",
+            "count": 1
+          },
+          {
+            "word": "offer",
+            "count": 1
+          },
+          {
+            "word": "offers",
+            "count": 1
+          },
+          {
+            "word": "Old",
+            "count": 1
+          },
+          {
+            "word": "on",
+            "count": 33
+          },
+          {
+            "word": "On",
+            "count": 4
+          },
+          {
+            "word": "once",
+            "count": 4
+          },
+          {
+            "word": "ONCE",
+            "count": 1
+          },
+          {
+            "word": "one",
+            "count": 19
+          },
+          {
+            "word": "One",
+            "count": 4
+          },
+          {
+            "word": "only",
+            "count": 8
+          },
+          {
+            "word": "open",
+            "count": 8
+          },
+          {
+            "word": "Open",
+            "count": 2
+          },
+          {
+            "word": "opening",
+            "count": 1
+          },
+          {
+            "word": "opens",
+            "count": 5
+          },
+          {
+            "word": "optional",
+            "count": 1
+          },
+          {
+            "word": "or",
+            "count": 11
+          },
+          {
+            "word": "order",
+            "count": 1
+          },
+          {
+            "word": "other",
+            "count": 2
+          },
+          {
+            "word": "Other",
+            "count": 1
+          },
+          {
+            "word": "ours",
+            "count": 1
+          },
+          {
+            "word": "out",
+            "count": 2
+          },
+          {
+            "word": "Outreach",
+            "count": 1
+          },
+          {
+            "word": "outside",
+            "count": 4
+          },
+          {
+            "word": "over",
+            "count": 1
+          },
+          {
+            "word": "own",
+            "count": 7
+          },
+          {
+            "word": "owner",
+            "count": 4
+          },
+          {
+            "word": "page",
+            "count": 3
+          },
+          {
+            "word": "pages",
+            "count": 3
+          },
+          {
+            "word": "paid",
+            "count": 2
+          },
+          {
+            "word": "Paperwork",
+            "count": 1
+          },
+          {
+            "word": "partner",
+            "count": 1
+          },
+          {
+            "word": "pass",
+            "count": 1
+          },
+          {
+            "word": "Pass",
+            "count": 1
+          },
+          {
+            "word": "past",
+            "count": 2
+          },
+          {
+            "word": "Past",
+            "count": 3
+          },
+          {
+            "word": "path",
+            "count": 5
+          },
+          {
+            "word": "paused",
+            "count": 2
+          },
+          {
+            "word": "pay",
+            "count": 2
+          },
+          {
+            "word": "payable",
+            "count": 1
+          },
+          {
+            "word": "paying",
+            "count": 1
+          },
+          {
+            "word": "payment",
+            "count": 1
+          },
+          {
+            "word": "pays",
+            "count": 4
+          },
+          {
+            "word": "penalty",
+            "count": 3
+          },
+          {
+            "word": "people",
+            "count": 1
+          },
+          {
+            "word": "per",
+            "count": 4
+          },
+          {
+            "word": "phase",
+            "count": 1
+          },
+          {
+            "word": "Phase",
+            "count": 4
+          },
+          {
+            "word": "phases",
+            "count": 2
+          },
+          {
+            "word": "Pick-proof",
+            "count": 1
+          },
+          {
+            "word": "Pin",
+            "count": 1
+          },
+          {
+            "word": "PIN",
+            "count": 1
+          },
+          {
+            "word": "plus",
+            "count": 1
+          },
+          {
+            "word": "points",
+            "count": 4
+          },
+          {
+            "word": "Pons",
+            "count": 3
+          },
+          {
+            "word": "pool",
+            "count": 24
+          },
+          {
+            "word": "Pool",
+            "count": 2
+          },
+          {
+            "word": "POOL",
+            "count": 8
+          },
+          {
+            "word": "pools",
+            "count": 2
+          },
+          {
+            "word": "Pools",
+            "count": 1
+          },
+          {
+            "word": "position",
+            "count": 14
+          },
+          {
+            "word": "POSITION",
+            "count": 4
+          },
+          {
+            "word": "positions",
+            "count": 7
+          },
+          {
+            "word": "Positions",
+            "count": 3
+          },
+          {
+            "word": "press",
+            "count": 1
+          },
+          {
+            "word": "Previous",
+            "count": 1
+          },
+          {
+            "word": "price",
+            "count": 30
+          },
+          {
+            "word": "PRICE",
+            "count": 1
+          },
+          {
+            "word": "prices",
+            "count": 2
+          },
+          {
+            "word": "primary",
+            "count": 2
+          },
+          {
+            "word": "PRIMARY",
+            "count": 2
+          },
+          {
+            "word": "product",
+            "count": 1
+          },
+          {
+            "word": "public",
+            "count": 5
+          },
+          {
+            "word": "punish",
+            "count": 1
+          },
+          {
+            "word": "purpose",
+            "count": 2
+          },
+          {
+            "word": "Push",
+            "count": 1
+          },
+          {
+            "word": "quoting",
+            "count": 1
+          },
+          {
+            "word": "rail",
+            "count": 6
+          },
+          {
+            "word": "Rail",
+            "count": 4
+          },
+          {
+            "word": "reaches",
+            "count": 3
+          },
+          {
+            "word": "Read",
+            "count": 7
+          },
+          {
+            "word": "reads",
+            "count": 1
+          },
+          {
+            "word": "READS",
+            "count": 2
+          },
+          {
+            "word": "real",
+            "count": 1
+          },
+          {
+            "word": "receives",
+            "count": 3
+          },
+          {
+            "word": "record",
+            "count": 1
+          },
+          {
+            "word": "records",
+            "count": 1
+          },
+          {
+            "word": "red",
+            "count": 1
+          },
+          {
+            "word": "reduces",
+            "count": 1
+          },
+          {
+            "word": "reference",
+            "count": 1
+          },
+          {
+            "word": "Refused",
+            "count": 1
+          },
+          {
+            "word": "release",
+            "count": 2
+          },
+          {
+            "word": "remains",
+            "count": 1
+          },
+          {
+            "word": "remove",
+            "count": 2
+          },
+          {
+            "word": "require",
+            "count": 1
+          },
+          {
+            "word": "resale",
+            "count": 8
+          },
+          {
+            "word": "Resale",
+            "count": 2
+          },
+          {
+            "word": "RESALE",
+            "count": 2
+          },
+          {
+            "word": "resales",
+            "count": 2
+          },
+          {
+            "word": "rest",
+            "count": 1
+          },
+          {
+            "word": "revenue",
+            "count": 1
+          },
+          {
+            "word": "review",
+            "count": 3
+          },
+          {
+            "word": "Review",
+            "count": 2
+          },
+          {
+            "word": "Rewards",
+            "count": 2
+          },
+          {
+            "word": "right",
+            "count": 3
+          },
+          {
+            "word": "RIGHT",
+            "count": 1
+          },
+          {
+            "word": "risk",
+            "count": 4
+          },
+          {
+            "word": "Robinhood",
+            "count": 8
+          },
+          {
+            "word": "runs",
+            "count": 1
+          },
+          {
+            "word": "safeguard",
+            "count": 1
+          },
+          {
+            "word": "sales",
+            "count": 1
+          },
+          {
+            "word": "same",
+            "count": 7
+          },
+          {
+            "word": "Sample",
+            "count": 1
+          },
+          {
+            "word": "saving",
+            "count": 2
+          },
+          {
+            "word": "screen",
+            "count": 2
+          },
+          {
+            "word": "seasons",
+            "count": 1
+          },
+          {
+            "word": "see",
+            "count": 1
+          },
+          {
+            "word": "See",
+            "count": 2
+          },
+          {
+            "word": "sell",
+            "count": 2
+          },
+          {
+            "word": "Sell",
+            "count": 2
+          },
+          {
+            "word": "seller",
+            "count": 12
+          },
+          {
+            "word": "Seller",
+            "count": 1
+          },
+          {
+            "word": "SELLER",
+            "count": 1
+          },
+          {
+            "word": "seller's",
+            "count": 1
+          },
+          {
+            "word": "seller’s",
+            "count": 1
+          },
+          {
+            "word": "sellers",
+            "count": 1
+          },
+          {
+            "word": "Sellers",
+            "count": 1
+          },
+          {
+            "word": "Selling",
+            "count": 1
+          },
+          {
+            "word": "sells",
+            "count": 1
+          },
+          {
+            "word": "send",
+            "count": 1
+          },
+          {
+            "word": "sends",
+            "count": 2
+          },
+          {
+            "word": "Set",
+            "count": 1
+          },
+          {
+            "word": "settle",
+            "count": 1
+          },
+          {
+            "word": "share",
+            "count": 1
+          },
+          {
+            "word": "sheet",
+            "count": 2
+          },
+          {
+            "word": "ships",
+            "count": 1
+          },
+          {
+            "word": "Short",
+            "count": 1
+          },
+          {
+            "word": "show",
+            "count": 2
+          },
+          {
+            "word": "shown",
+            "count": 1
+          },
+          {
+            "word": "shows",
+            "count": 1
+          },
+          {
+            "word": "side",
+            "count": 5
+          },
+          {
+            "word": "sides",
+            "count": 1
+          },
+          {
+            "word": "signs",
+            "count": 1
+          },
+          {
+            "word": "sit",
+            "count": 2
+          },
+          {
+            "word": "six",
+            "count": 1
+          },
+          {
+            "word": "size",
+            "count": 2
+          },
+          {
+            "word": "Size",
+            "count": 1
+          },
+          {
+            "word": "sized",
+            "count": 1
+          },
+          {
+            "word": "slippage",
+            "count": 1
+          },
+          {
+            "word": "small",
+            "count": 1
+          },
+          {
+            "word": "Smart",
+            "count": 1
+          },
+          {
+            "word": "smart-contract",
+            "count": 1
+          },
+          {
+            "word": "so",
+            "count": 3
+          },
+          {
+            "word": "social",
+            "count": 2
+          },
+          {
+            "word": "sold",
+            "count": 5
+          },
+          {
+            "word": "Sold",
+            "count": 1
+          },
+          {
+            "word": "someone",
+            "count": 6
+          },
+          {
+            "word": "Source",
+            "count": 2
+          },
+          {
+            "word": "Spec",
+            "count": 2
+          },
+          {
+            "word": "spent",
+            "count": 1
+          },
+          {
+            "word": "stamped",
+            "count": 1
+          },
+          {
+            "word": "start",
+            "count": 1
+          },
+          {
+            "word": "starts",
+            "count": 2
+          },
+          {
+            "word": "stay",
+            "count": 2
+          },
+          {
+            "word": "stays",
+            "count": 4
+          },
+          {
+            "word": "steps",
+            "count": 1
+          },
+          {
+            "word": "still",
+            "count": 5
+          },
+          {
+            "word": "stop",
+            "count": 1
+          },
+          {
+            "word": "story",
+            "count": 1
+          },
+          {
+            "word": "streak",
+            "count": 1
+          },
+          {
+            "word": "Strongbox",
+            "count": 1
+          },
+          {
+            "word": "supply",
+            "count": 2
+          },
+          {
+            "word": "swap",
+            "count": 1
+          },
+          {
+            "word": "Swap",
+            "count": 1
+          },
+          {
+            "word": "tag",
+            "count": 2
+          },
+          {
+            "word": "takes",
+            "count": 3
+          },
+          {
+            "word": "tax",
+            "count": 1
+          },
+          {
+            "word": "taxes",
+            "count": 1
+          },
+          {
+            "word": "team",
+            "count": 4
+          },
+          {
+            "word": "teams",
+            "count": 2
+          },
+          {
+            "word": "ten",
+            "count": 2
+          },
+          {
+            "word": "Ten",
+            "count": 1
+          },
+          {
+            "word": "terminals",
+            "count": 1
+          },
+          {
+            "word": "than",
+            "count": 5
+          },
+          {
+            "word": "that",
+            "count": 7
+          },
+          {
+            "word": "That",
+            "count": 1
+          },
+          {
+            "word": "the",
+            "count": 139
+          },
+          {
+            "word": "The",
+            "count": 36
+          },
+          {
+            "word": "THE",
+            "count": 8
+          },
+          {
+            "word": "their",
+            "count": 2
+          },
+          {
+            "word": "them",
+            "count": 1
+          },
+          {
+            "word": "then",
+            "count": 4
+          },
+          {
+            "word": "Then",
+            "count": 1
+          },
+          {
+            "word": "there",
+            "count": 1
+          },
+          {
+            "word": "these",
+            "count": 1
+          },
+          {
+            "word": "These",
+            "count": 2
+          },
+          {
+            "word": "they",
+            "count": 1
+          },
+          {
+            "word": "thing",
+            "count": 1
+          },
+          {
+            "word": "this",
+            "count": 5
+          },
+          {
+            "word": "those",
+            "count": 1
+          },
+          {
+            "word": "threshold",
+            "count": 1
+          },
+          {
+            "word": "through",
+            "count": 3
+          },
+          {
+            "word": "time",
+            "count": 5
+          },
+          {
+            "word": "Time",
+            "count": 5
+          },
+          {
+            "word": "to",
+            "count": 37
+          },
+          {
+            "word": "TO",
+            "count": 1
+          },
+          {
+            "word": "today",
+            "count": 1
+          },
+          {
+            "word": "token",
+            "count": 6
+          },
+          {
+            "word": "Token",
+            "count": 1
+          },
+          {
+            "word": "token's",
+            "count": 1
+          },
+          {
+            "word": "tokens",
+            "count": 15
+          },
+          {
+            "word": "Tokens",
+            "count": 2
+          },
+          {
+            "word": "too",
+            "count": 1
+          },
+          {
+            "word": "top",
+            "count": 1
+          },
+          {
+            "word": "touch",
+            "count": 1
+          },
+          {
+            "word": "Tradable",
+            "count": 1
+          },
+          {
+            "word": "trade",
+            "count": 3
+          },
+          {
+            "word": "transaction",
+            "count": 3
+          },
+          {
+            "word": "TRANSACTIONS",
+            "count": 2
+          },
+          {
+            "word": "transferable",
+            "count": 1
+          },
+          {
+            "word": "TRANSFERABLE",
+            "count": 1
+          },
+          {
+            "word": "transfers",
+            "count": 1
+          },
+          {
+            "word": "treasury",
+            "count": 1
+          },
+          {
+            "word": "trend",
+            "count": 1
+          },
+          {
+            "word": "trigger",
+            "count": 2
+          },
+          {
+            "word": "Try",
+            "count": 1
+          },
+          {
+            "word": "turn",
+            "count": 1
+          },
+          {
+            "word": "turnover",
+            "count": 1
+          },
+          {
+            "word": "turns",
+            "count": 1
+          },
+          {
+            "word": "two",
+            "count": 5
+          },
+          {
+            "word": "Two",
+            "count": 1
+          },
+          {
+            "word": "typed",
+            "count": 1
+          },
+          {
+            "word": "unchanged",
+            "count": 1
+          },
+          {
+            "word": "under",
+            "count": 1
+          },
+          {
+            "word": "UNDER",
+            "count": 7
+          },
+          {
+            "word": "Uniswap",
+            "count": 4
+          },
+          {
+            "word": "unlock",
+            "count": 5
+          },
+          {
+            "word": "Unlock",
+            "count": 1
+          },
+          {
+            "word": "Unlocks",
+            "count": 1
+          },
+          {
+            "word": "until",
+            "count": 4
+          },
+          {
+            "word": "up",
+            "count": 3
+          },
+          {
+            "word": "upgrade",
+            "count": 5
+          },
+          {
+            "word": "Use",
+            "count": 1
+          },
+          {
+            "word": "user",
+            "count": 1
+          },
+          {
+            "word": "UTC",
+            "count": 2
+          },
+          {
+            "word": "utility",
+            "count": 1
+          },
+          {
+            "word": "V4",
+            "count": 4
+          },
+          {
+            "word": "value",
+            "count": 1
+          },
+          {
+            "word": "VALUE",
+            "count": 2
+          },
+          {
+            "word": "vault",
+            "count": 1
+          },
+          {
+            "word": "verified",
+            "count": 2
+          },
+          {
+            "word": "verify",
+            "count": 1
+          },
+          {
+            "word": "viem-ready",
+            "count": 2
+          },
+          {
+            "word": "View",
+            "count": 1
+          },
+          {
+            "word": "visible",
+            "count": 6
+          },
+          {
+            "word": "Visible",
+            "count": 2
+          },
+          {
+            "word": "Vite",
+            "count": 2
+          },
+          {
+            "word": "Vue",
+            "count": 2
+          },
+          {
+            "word": "wait",
+            "count": 3
+          },
+          {
+            "word": "waits",
+            "count": 1
+          },
+          {
+            "word": "wallet",
+            "count": 9
+          },
+          {
+            "word": "wallets",
+            "count": 2
+          },
+          {
+            "word": "wants",
+            "count": 1
+          },
+          {
+            "word": "was",
+            "count": 1
+          },
+          {
+            "word": "way",
+            "count": 3
+          },
+          {
+            "word": "ways",
+            "count": 2
+          },
+          {
+            "word": "weak",
+            "count": 2
+          },
+          {
+            "word": "Weak",
+            "count": 2
+          },
+          {
+            "word": "Web",
+            "count": 2
+          },
+          {
+            "word": "week",
+            "count": 1
+          },
+          {
+            "word": "what",
+            "count": 4
+          },
+          {
+            "word": "What",
+            "count": 5
+          },
+          {
+            "word": "when",
+            "count": 7
+          },
+          {
+            "word": "where",
+            "count": 2
+          },
+          {
+            "word": "Where",
+            "count": 1
+          },
+          {
+            "word": "which",
+            "count": 1
+          },
+          {
+            "word": "while",
+            "count": 2
+          },
+          {
+            "word": "who",
+            "count": 6
+          },
+          {
+            "word": "Whoever",
+            "count": 2
+          },
+          {
+            "word": "whole",
+            "count": 4
+          },
+          {
+            "word": "whose",
+            "count": 1
+          },
+          {
+            "word": "why",
+            "count": 1
+          },
+          {
+            "word": "widget",
+            "count": 1
+          },
+          {
+            "word": "window",
+            "count": 1
+          },
+          {
+            "word": "WINDOW",
+            "count": 1
+          },
+          {
+            "word": "with",
+            "count": 13
+          },
+          {
+            "word": "withdraw",
+            "count": 1
+          },
+          {
+            "word": "without",
+            "count": 1
+          },
+          {
+            "word": "Without",
+            "count": 1
+          },
+          {
+            "word": "Workings",
+            "count": 2
+          },
+          {
+            "word": "works",
+            "count": 1
+          },
+          {
+            "word": "Workshop",
+            "count": 1
+          },
+          {
+            "word": "worth",
+            "count": 3
+          },
+          {
+            "word": "would",
+            "count": 3
+          },
+          {
+            "word": "years",
+            "count": 1
+          },
+          {
+            "word": "you",
+            "count": 5
+          },
+          {
+            "word": "You",
+            "count": 1
+          },
+          {
+            "word": "your",
+            "count": 3
+          },
+          {
+            "word": "yours",
+            "count": 2
+          },
+          {
+            "word": "zero",
+            "count": 2
+          }
+        ],
+        "attrs": [
+          {
+            "key": "alt=A canvas pouch secured with a padlock",
+            "count": 1
+          },
+          {
+            "key": "alt=A metal key tag marked with a lock",
+            "count": 1
+          },
+          {
+            "key": "alt=An open padlock with the key turned",
+            "count": 1
+          },
+          {
+            "key": "alt=Padlocks secured to a dark wire fence",
+            "count": 1
+          },
+          {
+            "key": "alt=Three dials of a vault time lock",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Discount under the pool price",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Hardware",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Latchera home",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Open the lock",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Open the section list",
+            "count": 1
+          },
+          {
+            "key": "aria-label=Paperwork",
+            "count": 2
+          },
+          {
+            "key": "aria-label=Sections",
+            "count": 1
+          }
+        ],
+        "links": [
+          {
+            "href": "#/docs",
+            "count": 4
+          },
+          {
+            "href": "#combination",
+            "count": 3
+          },
+          {
+            "href": "#keys",
+            "count": 2
+          },
+          {
+            "href": "#master-key",
+            "count": 2
+          },
+          {
+            "href": "#rail",
+            "count": 2
+          },
+          {
+            "href": "#spec-sheet",
+            "count": 1
+          },
+          {
+            "href": "#time-lock",
+            "count": 3
+          },
+          {
+            "href": "#top",
+            "count": 2
+          },
+          {
+            "href": "#weak-points",
+            "count": 1
+          },
+          {
+            "href": "#workings",
+            "count": 1
+          }
+        ],
+        "forms": [
+          {
+            "key": "input::number",
+            "count": 2
+          },
+          {
+            "key": "input::range",
+            "count": 1
+          }
+        ],
+        "fieldIssues": [],
+        "imageIssues": [],
+        "interactiveIssues": [],
+        "classTokens": [
+          "is-on",
+          "lt-act",
+          "lt-act--fill",
+          "lt-act--line",
+          "lt-app",
+          "lt-band",
+          "lt-band-body",
+          "lt-bar",
+          "lt-burger",
+          "lt-burn",
+          "lt-calc",
+          "lt-calc-foot",
+          "lt-calc-row",
+          "lt-checks",
+          "lt-close-line",
+          "lt-command",
+          "lt-command-actions",
+          "lt-compare",
+          "lt-compare-head",
+          "lt-compare-row",
+          "lt-cta",
+          "lt-cta-actions",
+          "lt-cta-copy",
+          "lt-decisions",
+          "lt-dial",
+          "lt-dial-help",
+          "lt-dial-read",
+          "lt-dial-stage",
+          "lt-exclusions",
+          "lt-field",
+          "lt-finale",
+          "lt-finale-copy",
+          "lt-finale-locks",
+          "lt-fold",
+          "lt-fold-body",
+          "lt-foot",
+          "lt-foot-bottom",
+          "lt-foot-brand",
+          "lt-foot-chain",
+          "lt-foot-grid",
+          "lt-foot-label",
+          "lt-foot-nav",
+          "lt-foot-note",
+          "lt-gauges",
+          "lt-good",
+          "lt-head",
+          "lt-head--split",
+          "lt-head-note",
+          "lt-hero",
+          "lt-hero-copy",
+          "lt-hero-stage",
+          "lt-issues",
+          "lt-key-list",
+          "lt-keys",
+          "lt-keys-copy",
+          "lt-kicker",
+          "lt-lead",
+          "lt-lede",
+          "lt-legend",
+          "lt-limits",
+          "lt-lockchoice",
+          "lt-main",
+          "lt-marker",
+          "lt-matrix",
+          "lt-matrix--bars",
+          "lt-node",
+          "lt-node--hot",
+          "lt-node--lens",
+          "lt-phase-label",
+          "lt-phase-status",
+          "lt-phases",
+          "lt-plate",
+          "lt-plate--open",
+          "lt-plate-copy",
+          "lt-presence",
+          "lt-record",
+          "lt-risk",
+          "lt-scale",
+          "lt-sigil",
+          "lt-sigil-mark",
+          "lt-sigil-name",
+          "lt-signal",
+          "lt-signal-actors",
+          "lt-signal-dial",
+          "lt-signal-fees",
+          "lt-signal-label",
+          "lt-signal-pool",
+          "lt-signal-stage",
+          "lt-slider",
+          "lt-spine",
+          "lt-spine-glyph",
+          "lt-spine-glyph--0",
+          "lt-spine-glyph--1",
+          "lt-spine-glyph--2",
+          "lt-spine-glyph--3",
+          "lt-spine-glyph--4",
+          "lt-spine-glyph--doc",
+          "lt-spine-link",
+          "lt-spine-nav",
+          "lt-spine-nav--doc",
+          "lt-spine-text",
+          "lt-step",
+          "lt-step-body",
+          "lt-step-no",
+          "lt-steps",
+          "lt-stream-bar",
+          "lt-stream-cap",
+          "lt-stream-fee",
+          "lt-stream-main",
+          "lt-streams",
+          "lt-submark",
+          "lt-tape",
+          "lt-tape-cut",
+          "lt-tape-row",
+          "lt-tape-tag",
+          "lt-tape-under",
+          "lt-telemetry",
+          "lt-thumb",
+          "lt-thumb--tag",
+          "lt-ticket",
+          "lt-ticket-body",
+          "lt-ticket-head",
+          "lt-ticket-live",
+          "lt-ticket-meter",
+          "lt-vault",
+          "lt-vault-body",
+          "lt-vault-guide",
+          "lt-vault-halo",
+          "lt-vault-legend",
+          "lt-vault-notch",
+          "lt-vault-notch--a",
+          "lt-vault-notch--b",
+          "lt-vault-notch--c",
+          "lt-vault-notch--d",
+          "lt-vault-pin",
+          "lt-vault-stem",
+          "lt-vault-switch",
+          "lt-vault-wrap",
+          "lt-weak",
+          "lt-weak-col",
+          "lt-weak-label",
+          "lt-wire",
+          "lt-wire-label",
+          "lt-wire-link",
+          "lt-wire-row",
+          "lt-wire-row--value",
+          "lucide",
+          "lucide-arrow-down-right-icon",
+          "lucide-arrow-up-right-icon",
+          "lucide-chevron-down-icon",
+          "lucide-key-round-icon",
+          "lucide-lock-keyhole-icon",
+          "lucide-menu-icon"
+        ],
+        "fingerprint": [
+          "a@6:2",
+          "a@7:0",
+          "a@7:1",
+          "a@7:2",
+          "a@8:0",
+          "a@8:1",
+          "a@8:2",
+          "article@10:2",
+          "article@11:2",
+          "article@9:3",
+          "article@9:4+",
+          "b@11:0",
+          "b@12:0",
+          "button@12:0",
+          "button@7:1",
+          "button@9:2",
+          "button@9:4+",
+          "circle@13:0",
+          "circle@9:0",
+          "dd@11:0",
+          "details@8:2",
+          "div@10:1",
+          "div@10:2",
+          "div@10:3",
+          "div@10:4+",
+          "div@11:2",
+          "div@11:3",
+          "div@11:4+",
+          "div@12:1",
+          "div@3:1",
+          "div@4:4+",
+          "div@5:2",
+          "div@6:2",
+          "div@6:3",
+          "div@7:2",
+          "div@7:3",
+          "div@7:4+",
+          "div@8:1",
+          "div@8:2",
+          "div@8:3",
+          "div@8:4+",
+          "div@9:1",
+          "div@9:2",
+          "div@9:3",
+          "div@9:4+",
+          "dl@9:4+",
+          "dt@11:0",
+          "em@11:0",
+          "em@12:0",
+          "figcaption@10:0",
+          "figcaption@11:0",
+          "figure@10:2",
+          "figure@9:2",
+          "footer@5:2",
+          "h1@9:2",
+          "h2@10:0",
+          "h2@8:1",
+          "h2@9:0",
+          "h3@10:0",
+          "h3@11:0",
+          "h3@12:0",
+          "header@5:3",
+          "i@11:0",
+          "i@13:0",
+          "i@7:0",
+          "img@11:0",
+          "img@12:0",
+          "img@8:0",
+          "input@10:0",
+          "input@12:0",
+          "label@10:2",
+          "li@11:0",
+          "li@11:3",
+          "li@11:4+",
+          "li@13:0",
+          "li@13:2",
+          "li@9:3",
+          "main@5:4+",
+          "nav@6:1",
+          "nav@6:4+",
+          "nav@7:4+",
+          "ol@10:4+",
+          "ol@8:4+",
+          "p@10:0",
+          "p@11:0",
+          "p@12:0",
+          "p@12:1",
+          "p@12:2",
+          "p@7:0",
+          "p@7:1",
+          "p@8:0",
+          "p@9:0",
+          "p@9:1",
+          "path@10:0",
+          "path@11:0",
+          "path@13:0",
+          "path@9:0",
+          "picture@10:2",
+          "picture@11:2",
+          "picture@7:2",
+          "rect@9:0",
+          "section@6:2",
+          "small@10:0",
+          "small@11:0",
+          "small@12:0",
+          "small@13:0",
+          "span@10:0",
+          "span@10:2",
+          "span@11:0",
+          "span@11:2",
+          "span@12:0",
+          "span@13:0",
+          "span@14:0",
+          "span@6:1",
+          "span@7:0",
+          "span@8:0",
+          "span@9:0",
+          "strong@10:0",
+          "strong@11:0",
+          "strong@12:0",
+          "strong@13:0",
+          "strong@14:0",
+          "strong@9:0",
+          "summary@9:2",
+          "svg@10:1",
+          "svg@10:2",
+          "svg@12:2",
+          "svg@8:3",
+          "svg@9:2",
+          "ul@10:4+",
+          "ul@12:3",
+          "ul@12:4+"
+        ],
+        "landmarks": [
+          {
+            "tag": "header",
+            "role": "",
+            "top": 8,
+            "left": 10,
+            "width": 370,
+            "height": 110
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 775,
+            "left": -3,
+            "width": 328,
+            "height": 69
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 775,
+            "left": 330,
+            "width": 63,
+            "height": 69
+          },
+          {
+            "tag": "main",
+            "role": "",
+            "top": 118,
+            "left": 0,
+            "width": 390,
+            "height": 16697
+          },
+          {
+            "tag": "footer",
+            "role": "",
+            "top": 16815,
+            "left": 0,
+            "width": 390,
+            "height": 652
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 16951,
+            "left": 18,
+            "width": 354,
+            "height": 176
+          },
+          {
+            "tag": "nav",
+            "role": "",
+            "top": 17147,
+            "left": 18,
+            "width": 354,
+            "height": 144
+          }
+        ],
+        "colors": [
+          {
+            "hex": "#f4f7fa",
+            "count": 399
+          },
+          {
+            "hex": "#8fa3b5",
+            "count": 201
+          },
+          {
+            "hex": "#e3a6da",
+            "count": 166
+          },
+          {
+            "hex": "#a9bbcb",
+            "count": 56
+          },
+          {
+            "hex": "#080d14",
+            "count": 36
+          },
+          {
+            "hex": "#b6509e",
+            "count": 19
+          },
+          {
+            "hex": "#ffffff",
+            "count": 10
+          },
+          {
+            "hex": "#1e2a36",
+            "count": 5
+          },
+          {
+            "hex": "#2ebac6",
+            "count": 4
+          },
+          {
+            "hex": "#0b1420",
+            "count": 3
+          },
+          {
+            "hex": "#08121a",
+            "count": 2
+          },
+          {
+            "hex": "#0d1621",
+            "count": 2
+          },
+          {
+            "hex": "#5ce1a0",
+            "count": 2
+          },
+          {
+            "hex": "#060a10",
+            "count": 1
+          },
+          {
+            "hex": "#0c151f",
+            "count": 1
+          },
+          {
+            "hex": "#111a24",
+            "count": 1
+          }
+        ],
+        "contrast": [],
+        "contrastChecked": 441,
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Lock in a discount. The chart never notices."
+          },
+          {
+            "tag": "h2",
+            "text": "Every bag hangs in public, with its price on the tag."
+          },
+          {
+            "tag": "h2",
+            "text": "A deal that closes like a vault door: once, and on a clock."
+          },
+          {
+            "tag": "h3",
+            "text": "Escrow takes the bag"
+          },
+          {
+            "tag": "h3",
+            "text": "A buyer pays the listed price"
+          },
+          {
+            "tag": "h3",
+            "text": "Each fill cuts a key"
+          },
+          {
+            "tag": "h3",
+            "text": "That key can change hands"
+          },
+          {
+            "tag": "h3",
+            "text": "On the date, the lock opens"
+          },
+          {
+            "tag": "h2",
+            "text": "Dial in a discount. See what the pool would have cost."
+          },
+          {
+            "tag": "h2",
+            "text": "Lockers ask holders to wait for nothing. Pools punish anyone with size."
+          },
+          {
+            "tag": "h3",
+            "text": "A bag bigger than its pool"
+          },
+          {
+            "tag": "h3",
+            "text": "Size is hard to buy, too"
+          },
+          {
+            "tag": "h3",
+            "text": "Nothing on day one"
+          },
+          {
+            "tag": "h3",
+            "text": "A lock that cannot move"
+          },
+          {
+            "tag": "h3",
+            "text": "Deals in direct messages"
+          },
+          {
+            "tag": "h2",
+            "text": "A position is a key with a date stamped into it."
+          },
+          {
+            "tag": "h3",
+            "text": "Visible before you buy"
+          },
+          {
+            "tag": "h3",
+            "text": "Tradable while locked"
+          },
+          {
+            "tag": "h3",
+            "text": "Claimable by anyone"
+          },
+          {
+            "tag": "h3",
+            "text": "One fill, one key, one date."
+          },
+          {
+            "tag": "h2",
+            "text": "$LORH opens the first ten minutes. It never changes a price."
+          },
+          {
+            "tag": "h3",
+            "text": "Every fill buys and burns"
+          },
+          {
+            "tag": "h3",
+            "text": "Latch the opening minutes"
+          },
+          {
+            "tag": "h3",
+            "text": "Pin a listing on the rail"
+          },
+          {
+            "tag": "h3",
+            "text": "Use the token later"
+          },
+          {
+            "tag": "h3",
+            "text": "What the contract cannot do"
+          },
+          {
+            "tag": "h2",
+            "text": "The market keeps nothing. Its fees leave as burned $LORH."
+          },
+          {
+            "tag": "h2",
+            "text": "Two contracts hold the money. Everything else only reads."
+          },
+          {
+            "tag": "h3",
+            "text": "What the contract cannot do"
+          },
+          {
+            "tag": "h2",
+            "text": "Eight ways to cheat it, and what each one costs."
+          },
+          {
+            "tag": "h2",
+            "text": "What is on the bench, and what waits its turn."
+          },
+          {
+            "tag": "h3",
+            "text": "A seller can list a bag and a buyer can fill it"
+          },
+          {
+            "tag": "h3",
+            "text": "$LORH launches and listing #1 opens the same day"
+          },
+          {
+            "tag": "h3",
+            "text": "More ways to price a locked bag"
+          },
+          {
+            "tag": "h3",
+            "text": "Other apps start quoting the discount"
+          },
+          {
+            "tag": "h2",
+            "text": "Decisions, and why each one was made."
+          },
+          {
+            "tag": "h3",
+            "text": "The lock is sold as a discount"
+          },
+          {
+            "tag": "h3",
+            "text": "No early exit; the position is sold instead"
+          },
+          {
+            "tag": "h3",
+            "text": "Fixed-price listings first"
+          },
+          {
+            "tag": "h3",
+            "text": "Fee 2% primary, 1% resale"
+          },
+          {
+            "tag": "h3",
+            "text": "No price feed on the chain"
+          },
+          {
+            "tag": "h3",
+            "text": "Immutable contracts"
+          },
+          {
+            "tag": "h3",
+            "text": "WHAT GETS MEASURED"
+          },
+          {
+            "tag": "h3",
+            "text": "IGNORED ON PURPOSE"
+          },
+          {
+            "tag": "h2",
+            "text": "Every lock has weak points. These are ours."
+          },
+          {
+            "tag": "h3",
+            "text": "A launchpad adds it natively"
+          },
+          {
+            "tag": "h3",
+            "text": "Sellers do not come"
+          },
+          {
+            "tag": "h3",
+            "text": "Buyers get hurt"
+          },
+          {
+            "tag": "h2",
+            "text": "Lock in a discount. The chart never notices."
+          }
+        ],
+        "navTargets": [
+          ""
+        ],
+        "overflow": {
+          "documentOverflow": false,
+          "offenders": [
+            {
+              "selector": "div.lt-app > div.lt-spine > nav.lt-spine-nav.lt-spine-nav--doc",
+              "right": 393,
+              "width": 63
+            },
+            {
+              "selector": "div.lt-spine > nav.lt-spine-nav.lt-spine-nav--doc > a.lt-spine-link",
+              "right": 393,
+              "width": 62
+            },
+            {
+              "selector": "div.lt-band-body > ol.lt-tape > li.lt-tape-row",
+              "right": 462,
+              "width": 148
+            },
+            {
+              "selector": "ol.lt-tape > li.lt-tape-row > span.lt-tape-cut",
+              "right": 446,
+              "width": 117
+            },
+            {
+              "selector": "ol.lt-tape > li.lt-tape-row > small.lt-tape-under",
+              "right": 446,
+              "width": 117
+            },
+            {
+              "selector": "ol.lt-tape > li.lt-tape-row > div.lt-tape-tag",
+              "right": 446,
+              "width": 117
+            },
+            {
+              "selector": "li.lt-tape-row > div.lt-tape-tag > strong",
+              "right": 446,
+              "width": 117
+            },
+            {
+              "selector": "li.lt-tape-row > div.lt-tape-tag > span",
+              "right": 446,
+              "width": 117
+            }
+          ]
+        }
+      },
+      "mobileNav": {
+        "opened": false,
+        "targets": [
+          ""
+        ],
+        "reachable": true
+      },
+      "focus": {
+        "samples": [
+          {
+            "tag": "a",
+            "text": "Latchera home",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(244, 247, 250)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "See a deal lock",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgba(0, 0, 0, 0)",
+            "backgroundColor": "rgb(182, 80, 158)"
+          },
+          {
+            "tag": "a",
+            "text": "Read the docs",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(44, 61, 77)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "RAIL",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "TIME LOCK",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "COMBINATION",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "KEYS",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          },
+          {
+            "tag": "a",
+            "text": "MASTER KEY",
+            "outlineStyle": "solid",
+            "outlineWidth": "2px",
+            "outlineColor": "rgb(227, 166, 218)",
+            "boxShadow": "none",
+            "borderColor": "rgb(143, 163, 181)",
+            "backgroundColor": "rgba(0, 0, 0, 0)"
+          }
+        ],
+        "visibleCount": 8,
+        "passed": true
+      }
+    }
+  }
+}

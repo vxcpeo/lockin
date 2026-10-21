@@ -1,0 +1,2386 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-20T16:01:33.142Z",
+  "project": {
+    "root": "E:/workspace/chuangye/solana/lockin/website",
+    "name": "latchera-website",
+    "vueVersion": "^3.5.13",
+    "nuxt": false,
+    "dependencies": [
+      "@vitejs/plugin-vue",
+      "ethers",
+      "lucide-vue-next",
+      "vite",
+      "vue"
+    ],
+    "packageManager": "npm",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+    "frameworks": []
+  },
+  "stats": {
+    "filesScanned": 7,
+    "vueFiles": 4,
+    "routes": 1,
+    "staticTextTokens": 764,
+    "bindingTokens": 154,
+    "eventTokens": 16,
+    "classNames": 186,
+    "colors": 298
+  },
+  "routes": [
+    {
+      "path": "/",
+      "dynamic": false
+    }
+  ],
+  "unresolvedRoutes": [],
+  "archetype": {
+    "id": "dashboard-shell",
+    "family": "shell",
+    "traits": {
+      "sidebar": true,
+      "topbar": true,
+      "cards": true,
+      "hero": true,
+      "table": false,
+      "grid": true,
+      "tabs": false,
+      "modal": true,
+      "charts": true,
+      "sticky": true,
+      "orbital": false,
+      "terminal": false,
+      "bento": false,
+      "ticker": false,
+      "gallery": false
+    }
+  },
+  "palette": [
+    {
+      "hex": "#686271",
+      "count": 40
+    },
+    {
+      "hex": "#d6d0c7",
+      "count": 30
+    },
+    {
+      "hex": "#d8d0c7",
+      "count": 20
+    },
+    {
+      "hex": "#111016",
+      "count": 12
+    },
+    {
+      "hex": "#faf7f1",
+      "count": 12
+    },
+    {
+      "hex": "#ffffff",
+      "count": 10
+    },
+    {
+      "hex": "#716a78",
+      "count": 8
+    },
+    {
+      "hex": "#8a8290",
+      "count": 8
+    },
+    {
+      "hex": "#8b5cf6",
+      "count": 8
+    },
+    {
+      "hex": "#ded7cf",
+      "count": 8
+    },
+    {
+      "hex": "#fbf8f2",
+      "count": 8
+    },
+    {
+      "hex": "#0c0b10",
+      "count": 6
+    },
+    {
+      "hex": "#110f17",
+      "count": 6
+    },
+    {
+      "hex": "#15131a",
+      "count": 6
+    },
+    {
+      "hex": "#7d7584",
+      "count": 6
+    },
+    {
+      "hex": "#d1c8bd",
+      "count": 6
+    },
+    {
+      "hex": "#3d3747",
+      "count": 4
+    },
+    {
+      "hex": "#403849",
+      "count": 4
+    },
+    {
+      "hex": "#7c7482",
+      "count": 4
+    },
+    {
+      "hex": "#cfc6bc",
+      "count": 4
+    },
+    {
+      "hex": "#dad3c9",
+      "count": 4
+    },
+    {
+      "hex": "#f0b35a",
+      "count": 4
+    },
+    {
+      "hex": "#08070a",
+      "count": 2
+    },
+    {
+      "hex": "#131117",
+      "count": 2
+    },
+    {
+      "hex": "#16131b",
+      "count": 2
+    },
+    {
+      "hex": "#17131d",
+      "count": 2
+    },
+    {
+      "hex": "#19151e",
+      "count": 2
+    },
+    {
+      "hex": "#1f182c",
+      "count": 2
+    },
+    {
+      "hex": "#24202b",
+      "count": 2
+    },
+    {
+      "hex": "#25212b",
+      "count": 2
+    },
+    {
+      "hex": "#26232e",
+      "count": 2
+    },
+    {
+      "hex": "#2d2632",
+      "count": 2
+    }
+  ],
+  "fonts": [
+    {
+      "value": "'Azeret Mono', monospace",
+      "count": 98
+    },
+    {
+      "value": "'Gabarito', sans-serif",
+      "count": 38
+    },
+    {
+      "value": "'Azeret Mono'",
+      "count": 4
+    },
+    {
+      "value": "'Gabarito'",
+      "count": 4
+    },
+    {
+      "value": "'Hanken Grotesk'",
+      "count": 4
+    },
+    {
+      "value": "'Hanken Grotesk', sans-serif",
+      "count": 4
+    },
+    {
+      "value": "'Hanken Grotesk', system-ui, sans-serif",
+      "count": 2
+    }
+  ],
+  "classNames": [
+    "===",
+    "accent",
+    "accent-dark",
+    "arch-box",
+    "arch-center",
+    "arch-side",
+    "architecture",
+    "band-ink",
+    "brand",
+    "brand-mark",
+    "brand-word",
+    "burn-row",
+    "button",
+    "button-ghost",
+    "button-violet",
+    "calc-foot",
+    "calc-output",
+    "calc-row",
+    "cannot-grid",
+    "closing-image-band",
+    "closing-image-copy",
+    "closing-line",
+    "closing-locks",
+    "combination-grid",
+    "compare-section",
+    "comparison-head",
+    "comparison-row",
+    "comparison-table",
+    "contract-limits",
+    "contract-section",
+    "cta-actions",
+    "cta-band",
+    "cta-inner",
+    "desktop-nav",
+    "dial-display",
+    "dial-help",
+    "dial-panel",
+    "docs-after",
+    "docs-badge-grid",
+    "docs-block",
+    "docs-body",
+    "docs-content",
+    "docs-copy",
+    "docs-definition",
+    "docs-fee-copy",
+    "docs-hero",
+    "docs-index",
+    "docs-layout",
+    "docs-list",
+    "docs-nav",
+    "docs-note",
+    "docs-page",
+    "docs-steps",
+    "docs-steps-plain",
+    "docs-subheading",
+    "eyebrow",
+    "fee-grid",
+    "field",
+    "flow-actors",
+    "flow-content",
+    "flow-diagram",
+    "flow-fees",
+    "flow-line",
+    "flow-number",
+    "flow-rail",
+    "flow-step",
+    "footer-bottom",
+    "footer-chain",
+    "footer-grid",
+    "footer-label",
+    "gauge-grid",
+    "good",
+    "header-actions",
+    "header-inner",
+    "heading-art",
+    "hero",
+    "hero-actions",
+    "hero-copy",
+    "hero-grid",
+    "hero-lede",
+    "hero-lock",
+    "hero-lock-wrap",
+    "icon-button",
+    "image-band",
+    "image-caption",
+    "key-body",
+    "key-card",
+    "key-head",
+    "key-list",
+    "key-live",
+    "key-progress",
+    "keys-art",
+    "keys-grid",
+    "lead-copy",
+    "lens-box",
+    "listing-card",
+    "listing-grid",
+    "listing-lock",
+    "listing-tag",
+    "live-pill",
+    "lock-body",
+    "lock-body-dot",
+    "lock-body-line",
+    "lock-choice",
+    "lock-glyph",
+    "lock-halo",
+    "lock-ring",
+    "lock-shackle",
+    "lock-toggle",
+    "lockLength",
+    "master-key-grid",
+    "menu-button",
+    "menu-index",
+    "menu-label",
+    "mobile-menu",
+    "mobile-menu-note",
+    "mobile-menu-top",
+    "money",
+    "old-lock-issues",
+    "old-locks-accordion",
+    "open-band",
+    "opened:",
+    "paper-art",
+    "phase-label",
+    "phase-status",
+    "pick-grid",
+    "pick-item",
+    "pick-proof-accordion",
+    "plate-band",
+    "pool-line",
+    "position-record",
+    "question-list",
+    "rail-key",
+    "range",
+    "range-labels",
+    "ring-one",
+    "ring-two",
+    "section",
+    "section-accordion",
+    "section-accordion-panel",
+    "section-heading",
+    "section-ink",
+    "section-intro",
+    "section-night",
+    "section-paper",
+    "selected:",
+    "site-footer",
+    "site-header",
+    "spec-card",
+    "spec-grid",
+    "spec-section",
+    "spec-sheet-accordion",
+    "split-heading",
+    "stats-row",
+    "stream-caption",
+    "stream-fee",
+    "stream-main",
+    "strongbox-bar",
+    "strongbox-grid",
+    "strongbox-note",
+    "strongbox-section",
+    "strongbox-stream",
+    "strongbox-streams",
+    "time-lock-sticky",
+    "unlocked",
+    "value",
+    "vault-art",
+    "vault-dial",
+    "vault-handle",
+    "vault-label",
+    "vault-layout",
+    "violet-box",
+    "weak-cards",
+    "weak-column",
+    "weak-label",
+    "weak-layout",
+    "weak-points-accordion",
+    "weak-section",
+    "workings-section",
+    "workshop-accordion",
+    "workshop-card",
+    "workshop-exclusions",
+    "workshop-grid",
+    "workshop-section",
+    "wrap",
+    "}"
+  ],
+  "designSignals": {
+    "frameworks": [],
+    "cssVars": [
+      "--ash",
+      "--bone",
+      "--green",
+      "--ink",
+      "--ink-soft",
+      "--line",
+      "--night",
+      "--paper",
+      "--paper-ash",
+      "--paper-line",
+      "--violet",
+      "--violet-deep",
+      "--warn",
+      "--wrap"
+    ],
+    "colorVars": [
+      {
+        "name": "--ash",
+        "value": "#9a96a6"
+      },
+      {
+        "name": "--bone",
+        "value": "#f3f1ec"
+      },
+      {
+        "name": "--green",
+        "value": "#9fce8d"
+      },
+      {
+        "name": "--ink",
+        "value": "#0c0b10"
+      },
+      {
+        "name": "--ink-soft",
+        "value": "#24202b"
+      },
+      {
+        "name": "--line",
+        "value": "#26232e"
+      },
+      {
+        "name": "--night",
+        "value": "#15131a"
+      },
+      {
+        "name": "--paper",
+        "value": "#f5f2ea"
+      },
+      {
+        "name": "--paper-ash",
+        "value": "#5d596a"
+      },
+      {
+        "name": "--paper-line",
+        "value": "#d9d4c7"
+      },
+      {
+        "name": "--violet",
+        "value": "#8b5cf6"
+      },
+      {
+        "name": "--violet-deep",
+        "value": "#6c47e6"
+      },
+      {
+        "name": "--warn",
+        "value": "#f0b35a"
+      }
+    ],
+    "mediaQueries": [
+      "@media (max-width: 1023px)",
+      "@media (max-width: 430px)",
+      "@media (max-width: 639px)",
+      "@media (max-width: 767px)",
+      "@media (min-width: 640px)",
+      "@media (prefers-reduced-motion: reduce)"
+    ],
+    "darkMode": false
+  },
+  "structure": {
+    "tagCounts": {
+      "a": 44,
+      "arrowdownright": 2,
+      "arrowleft": 2,
+      "arrowupright": 4,
+      "article": 42,
+      "aside": 2,
+      "b": 10,
+      "br": 8,
+      "button": 10,
+      "chevrondown": 10,
+      "code": 6,
+      "dd": 38,
+      "details": 12,
+      "div": 420,
+      "dl": 14,
+      "docspage": 2,
+      "dt": 38,
+      "em": 14,
+      "figcaption": 6,
+      "figure": 6,
+      "footer": 4,
+      "h1": 4,
+      "h2": 48,
+      "h3": 56,
+      "header": 4,
+      "i": 18,
+      "img": 10,
+      "input": 6,
+      "keyround": 2,
+      "label": 4,
+      "li": 68,
+      "lockkeyhole": 8,
+      "main": 4,
+      "menu": 2,
+      "nav": 10,
+      "p": 226,
+      "picture": 10,
+      "section": 60,
+      "small": 46,
+      "source": 10,
+      "span": 214,
+      "strong": 66,
+      "summary": 12,
+      "template": 2,
+      "ul": 20,
+      "x": 2
+    },
+    "depthHistogram": {
+      "0": 6,
+      "1": 14,
+      "2": 56,
+      "3": 86,
+      "4": 180,
+      "5": 234,
+      "6": 418,
+      "7": 322,
+      "8": 226,
+      "9": 60,
+      "10": 4
+    },
+    "maxDepth": 10,
+    "topLevelTags": [
+      "docspage",
+      "template",
+      "div",
+      "docspage",
+      "template",
+      "div"
+    ],
+    "skeletonSample": [
+      "docspage",
+      "template",
+      "  header",
+      "    div",
+      "      a",
+      "        span",
+      "        span",
+      "      nav",
+      "        a",
+      "        a",
+      "      div",
+      "        span",
+      "          i",
+      "        button",
+      "          menu",
+      "  div",
+      "    div",
+      "      a",
+      "        span",
+      "        span",
+      "      button",
+      "        x",
+      "    nav",
+      "      a",
+      "        span",
+      "        span",
+      "          b",
+      "          lockkeyhole",
+      "      a",
+      "        span",
+      "        span",
+      "          b",
+      "          lockkeyhole",
+      "    p",
+      "  main",
+      "    section",
+      "      div",
+      "        div",
+      "          p",
+      "            span",
+      "          h1",
+      "            br",
+      "            span",
+      "          p",
+      "          div",
+      "            a",
+      "              lockkeyhole",
+      "            a",
+      "        div",
+      "          button",
+      "            div",
+      "            div",
+      "              span",
+      "            div",
+      "              span",
+      "              span",
+      "            div",
+      "            div",
+      "          button",
+      "            span",
+      "            span",
+      "      div",
+      "        div",
+      "          strong",
+      "          span",
+      "        div",
+      "          strong",
+      "          span",
+      "        div",
+      "          strong",
+      "          span",
+      "        p",
+      "    section",
+      "      div",
+      "        div",
+      "          div",
+      "            p",
+      "            h2",
+      "          p",
+      "        div",
+      "          article",
+      "            div",
+      "              span",
+      "              small",
+      "              div",
+      "                span",
+      "            div",
+      "              strong",
+      "              span",
+      "              span",
+      "        div",
+      "          div",
+      "            strong",
+      "            span",
+      "          div",
+      "            strong",
+      "            span",
+      "          div",
+      "            strong",
+      "            span",
+      "    section",
+      "      picture",
+      "        source",
+      "        img",
+      "      div",
+      "        p",
+      "        p",
+      "    section",
+      "      div",
+      "        div",
+      "          div",
+      "            p",
+      "            h2",
+      "          figure",
+      "            picture",
+      "              source",
+      "              img",
+      "            figcaption",
+      "        div",
+      "          div"
+    ]
+  },
+  "contentContract": {
+    "schemaVersion": 1,
+    "meta": {
+      "projectName": "latchera-website",
+      "title": "latchera-website",
+      "lang": "en"
+    },
+    "routes": [
+      "/"
+    ],
+    "visibleText": [
+      {
+        "value": "· press to",
+        "count": 2
+      },
+      {
+        "value": "). The product built on them is Latchera.",
+        "count": 2
+      },
+      {
+        "value": "% the pool would pay this seller more ETH. The listing buys one thing only: a chart that does not move.",
+        "count": 2
+      },
+      {
+        "value": "© 2026 Latchera",
+        "count": 2
+      },
+      {
+        "value": "$LORH",
+        "count": 4
+      },
+      {
+        "value": "$LORH - Robinhood Chain",
+        "count": 4
+      },
+      {
+        "value": "$LORH · Robinhood Chain",
+        "count": 8
+      },
+      {
+        "value": "$LORH and the Latchera market are live on Robinhood Chain. List a bag or buy one at latchera.xyz. Community-built. Not affiliated with any brokerage, launchpad or social network.",
+        "count": 2
+      },
+      {
+        "value": "$LORH burned",
+        "count": 2
+      },
+      {
+        "value": "$LORH burned with ETH spent",
+        "count": 2
+      },
+      {
+        "value": "$LORH opens the first ten minutes. It never changes a price.",
+        "count": 2
+      },
+      {
+        "value": "$LORH pool",
+        "count": 4
+      },
+      {
+        "value": "0",
+        "count": 2
+      },
+      {
+        "value": "0.42 ETH",
+        "count": 2
+      },
+      {
+        "value": "01",
+        "count": 2
+      },
+      {
+        "value": "01 / BURN",
+        "count": 2
+      },
+      {
+        "value": "02",
+        "count": 2
+      },
+      {
+        "value": "02 / FIRST WINDOW",
+        "count": 2
+      },
+      {
+        "value": "03",
+        "count": 2
+      },
+      {
+        "value": "03 / PIN",
+        "count": 2
+      },
+      {
+        "value": "04 / CHEAPER FEE",
+        "count": 2
+      },
+      {
+        "value": "06",
+        "count": 2
+      },
+      {
+        "value": "1,000,000,000 $LORH, fixed at launch",
+        "count": 2
+      },
+      {
+        "value": "1%",
+        "count": 8
+      },
+      {
+        "value": "1%, set once at launch (proposed)",
+        "count": 2
+      },
+      {
+        "value": "10",
+        "count": 2
+      },
+      {
+        "value": "2%",
+        "count": 8
+      },
+      {
+        "value": "2% of a primary fill and 1% of a resale goes to the burner.",
+        "count": 2
+      },
+      {
+        "value": "2% of every fill and 1% of every resale buys $LORH and burns it.",
+        "count": 2
+      },
+      {
+        "value": "20",
+        "count": 2
+      },
+      {
+        "value": "30",
+        "count": 2
+      },
+      {
+        "value": "40",
+        "count": 2
+      },
+      {
+        "value": "5% of supply bought on the curve in the launch transaction (proposed)",
+        "count": 2
+      },
+      {
+        "value": "50",
+        "count": 2
+      },
+      {
+        "value": "60",
+        "count": 2
+      },
+      {
+        "value": "98%",
+        "count": 6
+      },
+      {
+        "value": "99%",
+        "count": 6
+      },
+      {
+        "value": "A burn can move a listing to the top of the public rail for 24 hours.",
+        "count": 2
+      },
+      {
+        "value": "A buyer's saving is fixed and visible before paying.",
+        "count": 2
+      },
+      {
+        "value": "A deal that closes like a vault door: once, and on a clock.",
+        "count": 2
+      },
+      {
+        "value": "A fill",
+        "count": 2
+      },
+      {
+        "value": "A fill to the burner: buys $LORH and burns it",
+        "count": 2
+      },
+      {
+        "value": "A fill to the seller, in the same transaction",
+        "count": 2
+      },
+      {
+        "value": "A future launch window can require a visible $LORH threshold for the first ten minutes.",
+        "count": 2
+      },
+      {
+        "value": "A keeper can trigger the release on the date. The escrow only sends tokens to the current key holder.",
+        "count": 2
+      },
+      {
+        "value": "A launchpad adds it natively",
+        "count": 2
+      },
+      {
+        "value": "A live comparison against the pool price.",
+        "count": 2
+      },
+      {
+        "value": "A locked bag is worth less than a liquid one.",
+        "count": 2
+      },
+      {
+        "value": "A penalty exit",
+        "count": 2
+      },
+      {
+        "value": "A position is a key with a date stamped into it.",
+        "count": 2
+      },
+      {
+        "value": "A position is a transferable ERC-721 key.",
+        "count": 2
+      },
+      {
+        "value": "A resale",
+        "count": 2
+      },
+      {
+        "value": "A resale to the burner, through the same path",
+        "count": 2
+      },
+      {
+        "value": "A resale to the holder who sold",
+        "count": 2
+      },
+      {
+        "value": "A seller burns $LORH to pin a listing for 24 hours (proposed: 25,000).",
+        "count": 2
+      },
+      {
+        "value": "A treasury that holds user funds",
+        "count": 2
+      },
+      {
+        "value": "A utility token for the market.",
+        "count": 2
+      },
+      {
+        "value": "a whole screen in one call",
+        "count": 4
+      },
+      {
+        "value": "A wrong number on screen cannot cost a buyer more than they agreed to: a fill carries the buyer's maximum price, and the contract compares it with the listing's price.",
+        "count": 2
+      },
+      {
+        "value": "Amount",
+        "count": 2
+      },
+      {
+        "value": "an hour of pool prices",
+        "count": 4
+      },
+      {
+        "value": "Anyone may call it. It buys $LORH with the ETH it holds and burns what it receives. One buy is small: a fixed share of the ETH in the market it buys on, sized so that the price it moves is less than a trade round it costs in fees. What was spent comes back as allowance over ten minutes. It keeps the last five prices it wrote down, a quarter of an hour apart at the least, sets the lowest aside and does not buy more than 5% above the next lowest. A price that was pushed up has to hold for most of an hour before it is bought at. It has no withdraw function. ETH can leave it only as a purchase of $LORH.",
+        "count": 2
+      },
+      {
+        "value": "Back to home",
+        "count": 2
+      },
+      {
+        "value": "Badges count positions of at least 0.05 ETH. Filling your own listing pays the 2% fee like any other fill.",
+        "count": 2
+      },
+      {
+        "value": "Bag value at the pool price",
+        "count": 2
+      },
+      {
+        "value": "Bought from the pool",
+        "count": 2
+      },
+      {
+        "value": "Burn",
+        "count": 2
+      },
+      {
+        "value": "Burned on this fill",
+        "count": 2
+      },
+      {
+        "value": "BURNER",
+        "count": 2
+      },
+      {
+        "value": "Burner buys and destroys $LORH.",
+        "count": 2
+      },
+      {
+        "value": "Burner fee keeps the key liquid.",
+        "count": 2
+      },
+      {
+        "value": "Buy Robinhood Chain coins below the pool price. The tokens stay locked until a date you can see, and the locked position is yours to sell on.",
+        "count": 2
+      },
+      {
+        "value": "BUYER",
+        "count": 2
+      },
+      {
+        "value": "Buyers get hurt",
+        "count": 2
+      },
+      {
+        "value": "Buyers pay less than the pool price and accept a wait.",
+        "count": 2
+      },
+      {
+        "value": "buys $LORH and burns it",
+        "count": 4
+      },
+      {
+        "value": "buys $LORH, burns it",
+        "count": 4
+      },
+      {
+        "value": "Can give way",
+        "count": 2
+      },
+      {
+        "value": "Cheaper fee",
+        "count": 2
+      },
+      {
+        "value": "Claimable by anyone",
+        "count": 2
+      },
+      {
+        "value": "Claimable by the current holder",
+        "count": 2
+      },
+      {
+        "value": "Claims, cancels and resales cannot be paused.",
+        "count": 6
+      },
+      {
+        "value": "Coin",
+        "count": 2
+      },
+      {
+        "value": "Coins that tax transfers or change balances by themselves are refused.",
+        "count": 2
+      },
+      {
+        "value": "Combination",
+        "count": 2
+      },
+      {
+        "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Latchera market, not a share or a claim on revenue. Nothing on this page is financial, legal or tax advice.",
+        "count": 2
+      },
+      {
+        "value": "Community-built. Not affiliated with any brokerage, launchpad or social network. $LORH is a utility token for the Latchera market: not a share, not a security, not a claim on any revenue. A locked position cannot be claimed before its unlock time, and a token can fall by more than its discount, or to zero. Nothing on this page is financial, legal or tax advice.",
+        "count": 2
+      },
+      {
+        "value": "Compare the two lock models",
+        "count": 2
+      },
+      {
+        "value": "Contracts",
+        "count": 2
+      },
+      {
+        "value": "Copyright 2026 Latchera",
+        "count": 2
+      },
+      {
+        "value": "Copyright 2026 Latchera",
+        "count": 2
+      },
+      {
+        "value": "Creating a listing is free. Cancelling is free. A listing priced above the pool is allowed; the app labels it \"above market\" and leaves it off every discount board.",
+        "count": 2
+      },
+      {
+        "value": "Creator tax",
+        "count": 2
+      },
+      {
+        "value": "curve, then Uniswap V4",
+        "count": 4
+      },
+      {
+        "value": "Decisions, and why each one was made.",
+        "count": 2
+      },
+      {
+        "value": "Deployed contracts keep the names they were verified under (",
+        "count": 2
+      },
+      {
+        "value": "Dial in a discount. See what the pool would have cost.",
+        "count": 2
+      },
+      {
+        "value": "Discount",
+        "count": 2
+      },
+      {
+        "value": "Discounted bags, locked until the date.",
+        "count": 4
+      },
+      {
+        "value": "Docs",
+        "count": 6
+      },
+      {
+        "value": "Docs / How the lock works",
+        "count": 2
+      },
+      {
+        "value": "Done when",
+        "count": 2
+      },
+      {
+        "value": "Eight ways to cheat it, and what each one costs.",
+        "count": 2
+      },
+      {
+        "value": "ESCROW",
+        "count": 2
+      },
+      {
+        "value": "Escrow as a headline number",
+        "count": 2
+      },
+      {
+        "value": "ETH",
+        "count": 12
+      },
+      {
+        "value": "ETH filled",
+        "count": 2
+      },
+      {
+        "value": "ETH filled per week",
+        "count": 2
+      },
+      {
+        "value": "ETH left",
+        "count": 2
+      },
+      {
+        "value": "Every bag hangs in public, with its price on the tag.",
+        "count": 2
+      },
+      {
+        "value": "Every fill buys and burns",
+        "count": 2
+      },
+      {
+        "value": "Every fill creates one position, owned by the buyer. It is a standard transferable token (ERC-721) that records the coin, the amount, the unlock time and the listing it came from. The unlock time is the fill time plus the listing's lock length.",
+        "count": 2
+      },
+      {
+        "value": "Every lock has weak points. These are ours.",
+        "count": 2
+      },
+      {
+        "value": "Every other holder sees the sale in public, with its unlock date, instead of finding out from a candle.",
+        "count": 2
+      },
+      {
+        "value": "Every wallet that buys through the market has a public page built only from its history on the chain. It opens without a wallet and can be shared as an image.",
+        "count": 2
+      },
+      {
+        "value": "Everything needed to fill is on the tag.",
+        "count": 2
+      },
+      {
+        "value": "everything open right now, deepest discount first",
+        "count": 2
+      },
+      {
+        "value": "Fee levels are constants, not settings.",
+        "count": 2
+      },
+      {
+        "value": "Fees and the burn",
+        "count": 2
+      },
+      {
+        "value": "fill time plus the chosen lock length",
+        "count": 2
+      },
+      {
+        "value": "Filled now, it would unlock",
+        "count": 2
+      },
+      {
+        "value": "Filled on Latchera",
+        "count": 2
+      },
+      {
+        "value": "First window",
+        "count": 2
+      },
+      {
+        "value": "Five events, one escrow.",
+        "count": 2
+      },
+      {
+        "value": "Follower counts",
+        "count": 2
+      },
+      {
+        "value": "For its first 10 minutes a new listing can only be filled by wallets holding 1,000,000 $LORH (proposed).",
+        "count": 2
+      },
+      {
+        "value": "Future fee payment in $LORH can be 25% cheaper and burned directly.",
+        "count": 2
+      },
+      {
+        "value": "Governance",
+        "count": 2
+      },
+      {
+        "value": "Hardware",
+        "count": 4
+      },
+      {
+        "value": "holder changes without moving the tokens",
+        "count": 2
+      },
+      {
+        "value": "Holds",
+        "count": 2
+      },
+      {
+        "value": "Holds listings, fills, positions, resale offers and claims.",
+        "count": 2
+      },
+      {
+        "value": "How a deal works",
+        "count": 2
+      },
+      {
+        "value": "how far under the pool price the bag is listed",
+        "count": 2
+      },
+      {
+        "value": "How the Latchera market works, what its contracts can and cannot do, and what is still a proposal. The market is live on Robinhood Chain.",
+        "count": 2
+      },
+      {
+        "value": "How the lock",
+        "count": 2
+      },
+      {
+        "value": "If a launchpad offers locked sales at launch, Latchera starts after launch, where large bags still need a market.",
+        "count": 2
+      },
+      {
+        "value": "Ignored on purpose",
+        "count": 2
+      },
+      {
+        "value": "It gives no vote. There are no settings to vote on.",
+        "count": 2
+      },
+      {
+        "value": "It is never paid out for locking, holding or waiting.",
+        "count": 2
+      },
+      {
+        "value": "It is never required to buy, sell, resell or claim.",
+        "count": 2
+      },
+      {
+        "value": "It never changes a price. A holder and a visitor pay the same ETH for the same listing.",
+        "count": 2
+      },
+      {
+        "value": "Keys",
+        "count": 2
+      },
+      {
+        "value": "Latch the opening minutes",
+        "count": 2
+      },
+      {
+        "value": "Latchera",
+        "count": 12
+      },
+      {
+        "value": "Latchera is a market on Robinhood Chain for locked bags. A holder sells tokens below the pool price in exchange for a lock. The buyer pays ETH today and receives a position that unlocks on a set date. The position can itself be sold, so the tokens never reach the pool before the date.",
+        "count": 2
+      },
+      {
+        "value": "Later phase: pay the seller fee in $LORH and pay 25% less.",
+        "count": 2
+      },
+      {
+        "value": "Launchpad",
+        "count": 2
+      },
+      {
+        "value": "List a bag or buy one at the open market. Every number is public, every date is visible.",
+        "count": 2
+      },
+      {
+        "value": "Listed on Latchera",
+        "count": 2
+      },
+      {
+        "value": "Listings",
+        "count": 2
+      },
+      {
+        "value": "Listings created and first fills",
+        "count": 2
+      },
+      {
+        "value": "Listings open",
+        "count": 2
+      },
+      {
+        "value": "listings, coin pages, cards",
+        "count": 4
+      },
+      {
+        "value": "listings, fills, positions, claims",
+        "count": 4
+      },
+      {
+        "value": "LOCK",
+        "count": 2
+      },
+      {
+        "value": "Lock in a discount.",
+        "count": 4
+      },
+      {
+        "value": "Lock length",
+        "count": 2
+      },
+      {
+        "value": "Lock length, discount, amount left, seller history and unlock date sit on the listing.",
+        "count": 2
+      },
+      {
+        "value": "locked",
+        "count": 4
+      },
+      {
+        "value": "LockedinBurner",
+        "count": 8
+      },
+      {
+        "value": "LockedinLens",
+        "count": 6
+      },
+      {
+        "value": "LockedinLens and LockedinArt",
+        "count": 2
+      },
+      {
+        "value": "LockedinMarket",
+        "count": 8
+      },
+      {
+        "value": "Lockers ask holders to wait for nothing. Pools punish anyone with size.",
+        "count": 2
+      },
+      {
+        "value": "Market live",
+        "count": 2
+      },
+      {
+        "value": "Master key",
+        "count": 2
+      },
+      {
+        "value": "Median discount per lock length",
+        "count": 2
+      },
+      {
+        "value": "moved 0.0% by this deal",
+        "count": 2
+      },
+      {
+        "value": "Moves",
+        "count": 2
+      },
+      {
+        "value": "NEXT BUYER",
+        "count": 2
+      },
+      {
+        "value": "No owner function can move escrowed tokens or a seller's ETH.",
+        "count": 4
+      },
+      {
+        "value": "No owner function can move escrowed tokens or a seller’s ETH.",
+        "count": 2
+      },
+      {
+        "value": "No owner function can withdraw escrowed tokens. A keeper may settle the accumulated burner fee through the approved swap path.",
+        "count": 2
+      },
+      {
+        "value": "No price feed on the chain, so no feed to manipulate.",
+        "count": 4
+      },
+      {
+        "value": "No upgrade path, owner over funds or price feed.",
+        "count": 2
+      },
+      {
+        "value": "No upgrade path: a change means a new deployment, and old positions keep working until claimed.",
+        "count": 2
+      },
+      {
+        "value": "No upgrade path. A change means a new deployment.",
+        "count": 4
+      },
+      {
+        "value": "None",
+        "count": 6
+      },
+      {
+        "value": "Not on the bench, on purpose",
+        "count": 2
+      },
+      {
+        "value": "Note",
+        "count": 6
+      },
+      {
+        "value": "of $LORH, bought and destroyed",
+        "count": 2
+      },
+      {
+        "value": "Old locks",
+        "count": 2
+      },
+      {
+        "value": "on Robinhood Chain",
+        "count": 2
+      },
+      {
+        "value": "On the lock",
+        "count": 2
+      },
+      {
+        "value": "On the rail",
+        "count": 2
+      },
+      {
+        "value": "On the tag",
+        "count": 2
+      },
+      {
+        "value": "On this page",
+        "count": 2
+      },
+      {
+        "value": "ONCE",
+        "count": 2
+      },
+      {
+        "value": "One fill, one key, one date.",
+        "count": 2
+      },
+      {
+        "value": "One seller with one bag is enough to open a market.",
+        "count": 2
+      },
+      {
+        "value": "One switch stops new listings only.",
+        "count": 2
+      },
+      {
+        "value": "Open all eight checks",
+        "count": 2
+      },
+      {
+        "value": "Open decisions and measures",
+        "count": 2
+      },
+      {
+        "value": "Outreach starts with teams whose bags are larger than their pools and who need a clear exit.",
+        "count": 2
+      },
+      {
+        "value": "Overview",
+        "count": 2
+      },
+      {
+        "value": "Paperwork",
+        "count": 4
+      },
+      {
+        "value": "Past",
+        "count": 2
+      },
+      {
+        "value": "Past blocks",
+        "count": 4
+      },
+      {
+        "value": "Pick-proof",
+        "count": 2
+      },
+      {
+        "value": "Pin",
+        "count": 2
+      },
+      {
+        "value": "Pin a listing on the rail",
+        "count": 2
+      },
+      {
+        "value": "Pons: a bonding curve that graduates into a Uniswap V4 pool",
+        "count": 2
+      },
+      {
+        "value": "Pool depth, ETH side",
+        "count": 2
+      },
+      {
+        "value": "POOL PRICE",
+        "count": 2
+      },
+      {
+        "value": "pool price falls",
+        "count": 2
+      },
+      {
+        "value": "pool price moves 0.0%",
+        "count": 2
+      },
+      {
+        "value": "Pool price through all five steps: unchanged",
+        "count": 2
+      },
+      {
+        "value": "POSITION / THE RIGHT TO CLAIM",
+        "count": 2
+      },
+      {
+        "value": "POSITION #0084",
+        "count": 2
+      },
+      {
+        "value": "POSITION RESALE",
+        "count": 4
+      },
+      {
+        "value": "Positions",
+        "count": 2
+      },
+      {
+        "value": "Pre-mine",
+        "count": 2
+      },
+      {
+        "value": "Previous holder receives the resale price.",
+        "count": 2
+      },
+      {
+        "value": "PRIMARY FILL",
+        "count": 4
+      },
+      {
+        "value": "Private round",
+        "count": 2
+      },
+      {
+        "value": "Public record",
+        "count": 2
+      },
+      {
+        "value": "Questions",
+        "count": 2
+      },
+      {
+        "value": "Rail",
+        "count": 2
+      },
+      {
+        "value": "Read API",
+        "count": 4
+      },
+      {
+        "value": "Read the chain as it is.",
+        "count": 2
+      },
+      {
+        "value": "Read the docs",
+        "count": 4
+      },
+      {
+        "value": "Read the holds and weak points",
+        "count": 2
+      },
+      {
+        "value": "READS",
+        "count": 4
+      },
+      {
+        "value": "Receives the ETH fees and turns them into burned $LORH. Before graduation it buys on the launchpad curve; after graduation, from the pool.",
+        "count": 2
+      },
+      {
+        "value": "Resale turnover",
+        "count": 2
+      },
+      {
+        "value": "Rewards paid for locking",
+        "count": 2
+      },
+      {
+        "value": "Sample rail. These six bags show what a listing makes visible. The live rail opens with the market.",
+        "count": 2
+      },
+      {
+        "value": "See a deal lock",
+        "count": 2
+      },
+      {
+        "value": "Sell the position for ETH if the date no longer works for you. Tokens never touch the pool.",
+        "count": 2
+      },
+      {
+        "value": "SELLER",
+        "count": 2
+      },
+      {
+        "value": "Seller receives the ETH in the same transaction.",
+        "count": 2
+      },
+      {
+        "value": "Sellers do not come",
+        "count": 2
+      },
+      {
+        "value": "Sellers get ETH without selling into a thin pool.",
+        "count": 2
+      },
+      {
+        "value": "Selling a position",
+        "count": 2
+      },
+      {
+        "value": "Set once. Visible until it opens.",
+        "count": 2
+      },
+      {
+        "value": "Short locks by default, seller history on every listing and a resale market keep the holder informed.",
+        "count": 2
+      },
+      {
+        "value": "Small contracts, clear boundaries.",
+        "count": 2
+      },
+      {
+        "value": "Sold into the pool",
+        "count": 2
+      },
+      {
+        "value": "someone outside the team completes the flow.",
+        "count": 2
+      },
+      {
+        "value": "Spec sheet",
+        "count": 4
+      },
+      {
+        "value": "Status: live on Robinhood Chain. Items marked as proposed are later phases or settings that are not final.",
+        "count": 2
+      },
+      {
+        "value": "Strongbox",
+        "count": 2
+      },
+      {
+        "value": "Supply",
+        "count": 2
+      },
+      {
+        "value": "Team allocation",
+        "count": 2
+      },
+      {
+        "value": "Team purchase",
+        "count": 2
+      },
+      {
+        "value": "the amount this holder can claim",
+        "count": 2
+      },
+      {
+        "value": "The bag, before it moves.",
+        "count": 2
+      },
+      {
+        "value": "The burner",
+        "count": 2
+      },
+      {
+        "value": "The buyer pays for the same tokens",
+        "count": 2
+      },
+      {
+        "value": "The chart never notices.",
+        "count": 4
+      },
+      {
+        "value": "the coin, the lock length, and how much is left to buy",
+        "count": 2
+      },
+      {
+        "value": "The contract has no price feed. It knows one number: the ETH price the seller asked for. The discount shown in the app is a display, and it never changes what a buyer pays.",
+        "count": 2
+      },
+      {
+        "value": "The design makes the trade visible; it cannot remove market risk, smart-contract risk or the need for a buyer.",
+        "count": 2
+      },
+      {
+        "value": "the exact token held in escrow",
+        "count": 2
+      },
+      {
+        "value": "The fee stream is visible in every fill.",
+        "count": 2
+      },
+      {
+        "value": "The first listing proves the loop.",
+        "count": 2
+      },
+      {
+        "value": "The gap is the market.",
+        "count": 2
+      },
+      {
+        "value": "The holder sets an ETH price. The app shows the discount that price gives the next buyer for the time left on the lock. When a buyer pays, the position moves to them, the ETH goes to the seller, 1% is burned, and the unlock date does not change.",
+        "count": 2
+      },
+      {
+        "value": "the holder who sold",
+        "count": 2
+      },
+      {
+        "value": "The key turns once.",
+        "count": 2
+      },
+      {
+        "value": "The launchpad's owner can re-point a coin's future creator fees after a public three-day delay. The market does not depend on that income.",
+        "count": 2
+      },
+      {
+        "value": "The lens reads the market for the app, a whole screen in one call. The art contract draws each position's picture on the chain: the coin, the amount, the unlock date and a ring that shows how far the lock has run. Neither holds anything, and replacing either does not touch the market.",
+        "count": 2
+      },
+      {
+        "value": "The market is complete without the token. Holding it changes when you can act, and every fill shrinks its supply.",
+        "count": 2
+      },
+      {
+        "value": "The market is simple to watch.",
+        "count": 2
+      },
+      {
+        "value": "The market keeps nothing. Its fees leave as burned $LORH.",
+        "count": 2
+      },
+      {
+        "value": "The market stays small enough to inspect: fixed fees, fixed lock lengths, no upgrade path and no hidden price feed.",
+        "count": 2
+      },
+      {
+        "value": "The number is a comparison, not a price feed.",
+        "count": 2
+      },
+      {
+        "value": "The pool takes part in none of these steps. Its price does not move and its liquidity is not used.",
+        "count": 2
+      },
+      {
+        "value": "The product ships in public phases. Each phase keeps the market legible before adding another way to move a key.",
+        "count": 2
+      },
+      {
+        "value": "The seller receives",
+        "count": 2
+      },
+      {
+        "value": "the seller, in the same transaction",
+        "count": 2
+      },
+      {
+        "value": "The team's purchase is sold through the market as listing #1: 30% under the pool, locked 30 days. The ETH goes to the published operations wallet, and its first use is an external review of the market contract. After listing #1 fills, the team holds no $LORH.",
+        "count": 2
+      },
+      {
+        "value": "The token adds optional access and a visible burn story. The market price still comes from each listing.",
+        "count": 2
+      },
+      {
+        "value": "The token's price",
+        "count": 2
+      },
+      {
+        "value": "The tokens sit in escrow. The key moves. Whoever holds it when the clock reaches zero can claim the whole bag.",
+        "count": 2
+      },
+      {
+        "value": "Then the bag is open.",
+        "count": 2
+      },
+      {
+        "value": "There is no treasury share of these fees and no address that can redirect them. The buyer pays the listed price and nothing on top. Claiming costs only the network fee.",
+        "count": 2
+      },
+      {
+        "value": "Time is worth money, and a market can price it.",
+        "count": 2
+      },
+      {
+        "value": "Time is worth money, and a market can price it. A seller who takes ETH today accepts a lower price. A buyer who can wait pays less.",
+        "count": 2
+      },
+      {
+        "value": "Time lock",
+        "count": 2
+      },
+      {
+        "value": "Token launch",
+        "count": 2
+      },
+      {
+        "value": "Token lockers",
+        "count": 2
+      },
+      {
+        "value": "Tradable while locked",
+        "count": 2
+      },
+      {
+        "value": "TRANSACTIONS",
+        "count": 4
+      },
+      {
+        "value": "TRANSFERABLE",
+        "count": 2
+      },
+      {
+        "value": "Try the dial",
+        "count": 2
+      },
+      {
+        "value": "Two contracts hold the money. Everything else only reads.",
+        "count": 2
+      },
+      {
+        "value": "Two fills of one listing can unlock on different days. A position cannot be split and cannot be claimed before its date. There is no penalty exit. The way out before the date is to sell the position. After the unlock time anyone may trigger the release; the tokens can only go to the current holder.",
+        "count": 2
+      },
+      {
+        "value": "UNDER THE POOL",
+        "count": 4
+      },
+      {
+        "value": "Unlock",
+        "count": 2
+      },
+      {
+        "value": "unlock 18 Oct · 14:08 UTC",
+        "count": 2
+      },
+      {
+        "value": "Use the token later",
+        "count": 2
+      },
+      {
+        "value": "VALUE",
+        "count": 4
+      },
+      {
+        "value": "View the four phases",
+        "count": 2
+      },
+      {
+        "value": "Visible before you buy",
+        "count": 2
+      },
+      {
+        "value": "wallet stays in the browser",
+        "count": 4
+      },
+      {
+        "value": "Weak points",
+        "count": 4
+      },
+      {
+        "value": "Web app",
+        "count": 4
+      },
+      {
+        "value": "What a position records",
+        "count": 2
+      },
+      {
+        "value": "What gets measured",
+        "count": 2
+      },
+      {
+        "value": "What is on the bench, and what waits its turn.",
+        "count": 2
+      },
+      {
+        "value": "What it never does",
+        "count": 2
+      },
+      {
+        "value": "What the contract cannot do",
+        "count": 4
+      },
+      {
+        "value": "What the contracts cannot do",
+        "count": 2
+      },
+      {
+        "value": "What the lock cannot promise.",
+        "count": 2
+      },
+      {
+        "value": "Workings",
+        "count": 4
+      },
+      {
+        "value": "works.",
+        "count": 2
+      },
+      {
+        "value": "Workshop",
+        "count": 2
+      }
+    ],
+    "hiddenText": [],
+    "attributes": [
+      {
+        "name": "alt",
+        "value": "A canvas pouch secured with a padlock",
+        "count": 2
+      },
+      {
+        "name": "alt",
+        "value": "A metal key tag marked with a lock",
+        "count": 2
+      },
+      {
+        "name": "alt",
+        "value": "An open padlock with the key turned",
+        "count": 2
+      },
+      {
+        "name": "alt",
+        "value": "Padlocks secured to a dark wire fence",
+        "count": 2
+      },
+      {
+        "name": "alt",
+        "value": "Three dials of a vault time lock",
+        "count": 2
+      },
+      {
+        "name": "href",
+        "value": "#/docs",
+        "count": 10
+      },
+      {
+        "name": "href",
+        "value": "#combination",
+        "count": 2
+      },
+      {
+        "name": "href",
+        "value": "#spec-sheet",
+        "count": 2
+      },
+      {
+        "name": "href",
+        "value": "#time-lock",
+        "count": 2
+      },
+      {
+        "name": "href",
+        "value": "#top",
+        "count": 12
+      },
+      {
+        "name": "href",
+        "value": "#weak-points",
+        "count": 2
+      },
+      {
+        "name": "href",
+        "value": "#workings",
+        "count": 2
+      },
+      {
+        "name": "src",
+        "value": "/art/bag.webp",
+        "count": 2
+      },
+      {
+        "name": "src",
+        "value": "/art/fence.webp",
+        "count": 2
+      },
+      {
+        "name": "src",
+        "value": "/art/keytag.webp",
+        "count": 2
+      },
+      {
+        "name": "src",
+        "value": "/art/open.webp",
+        "count": 2
+      },
+      {
+        "name": "src",
+        "value": "/art/timelock.webp",
+        "count": 2
+      }
+    ],
+    "bindings": [
+      {
+        "kind": "attr",
+        "expr": "`#/docs/${item[1]}`",
+        "count": 2
+      },
+      {
+        "kind": "attr",
+        "expr": "item[1]",
+        "count": 6
+      },
+      {
+        "kind": "attr",
+        "expr": "link[1]",
+        "count": 4
+      },
+      {
+        "kind": "interpolation",
+        "expr": "(poolDrop * 100).toFixed(1)",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "badge[0]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "badge[1]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "breakEven.toFixed(1)",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "burnValue.toFixed(4)",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "decision[0]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "decision[1]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "discount",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "filledValue.toFixed(3)",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "issue[0]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "issue[1]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "item",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "item[0]",
+        "count": 10
+      },
+      {
+        "kind": "interpolation",
+        "expr": "item[1]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "link[0]",
+        "count": 4
+      },
+      {
+        "kind": "interpolation",
+        "expr": "listedValue.toFixed(3)",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "listing.coin",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "listing.discount",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "listing.eth",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "listing.lock",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "lockLength",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "phase[0]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "phase[1]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "point[0]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "point[1]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "poolBuy === null ? 'bag is larger than pool depth' : 'liquid at once'",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "poolBuy === null ? 'Too shallow' : `${poolBuy.toFixed(3)} ETH`",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "question[0]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "question[1]",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "row[0]",
+        "count": 6
+      },
+      {
+        "kind": "interpolation",
+        "expr": "row[1]",
+        "count": 6
+      },
+      {
+        "kind": "interpolation",
+        "expr": "sellerPool.toFixed(3)",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "spec[0]",
+        "count": 4
+      },
+      {
+        "kind": "interpolation",
+        "expr": "spec[1]",
+        "count": 4
+      },
+      {
+        "kind": "interpolation",
+        "expr": "step[0]",
+        "count": 6
+      },
+      {
+        "kind": "interpolation",
+        "expr": "step[1]",
+        "count": 6
+      },
+      {
+        "kind": "interpolation",
+        "expr": "step[2]",
+        "count": 6
+      },
+      {
+        "kind": "interpolation",
+        "expr": "String(index + 1).padStart(2, '0')",
+        "count": 8
+      },
+      {
+        "kind": "interpolation",
+        "expr": "unlockDate",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "unlocked ? 'lock' : 'open'",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "unlocked ? 'Open' : 'Locked in'",
+        "count": 2
+      },
+      {
+        "kind": "interpolation",
+        "expr": "value",
+        "count": 2
+      },
+      {
+        "kind": "link",
+        "expr": "`#/docs/${item[1]}`",
+        "count": 2
+      },
+      {
+        "kind": "link",
+        "expr": "item[1]",
+        "count": 6
+      },
+      {
+        "kind": "link",
+        "expr": "link[1]",
+        "count": 4
+      },
+      {
+        "kind": "model",
+        "expr": "bagValue",
+        "count": 2
+      },
+      {
+        "kind": "model",
+        "expr": "discount",
+        "count": 2
+      },
+      {
+        "kind": "model",
+        "expr": "poolDepth",
+        "count": 2
+      }
+    ],
+    "events": [
+      {
+        "event": "click",
+        "handler": "closeMenu",
+        "count": 8
+      },
+      {
+        "event": "click",
+        "handler": "menuOpen = true",
+        "count": 2
+      },
+      {
+        "event": "click",
+        "handler": "setLock(value)",
+        "count": 2
+      },
+      {
+        "event": "click",
+        "handler": "unlocked = !unlocked",
+        "count": 4
+      }
+    ],
+    "links": [
+      {
+        "kind": "href",
+        "target": "#/docs",
+        "count": 10
+      },
+      {
+        "kind": "href",
+        "target": "#combination",
+        "count": 2
+      },
+      {
+        "kind": "href",
+        "target": "#spec-sheet",
+        "count": 2
+      },
+      {
+        "kind": "href",
+        "target": "#time-lock",
+        "count": 2
+      },
+      {
+        "kind": "href",
+        "target": "#top",
+        "count": 12
+      },
+      {
+        "kind": "href",
+        "target": "#weak-points",
+        "count": 2
+      },
+      {
+        "kind": "href",
+        "target": "#workings",
+        "count": 2
+      }
+    ],
+    "assets": [
+      {
+        "kind": "src",
+        "value": "/art/bag.webp",
+        "count": 2
+      },
+      {
+        "kind": "src",
+        "value": "/art/fence.webp",
+        "count": 2
+      },
+      {
+        "kind": "src",
+        "value": "/art/keytag.webp",
+        "count": 2
+      },
+      {
+        "kind": "src",
+        "value": "/art/open.webp",
+        "count": 2
+      },
+      {
+        "kind": "src",
+        "value": "/art/timelock.webp",
+        "count": 2
+      }
+    ],
+    "forms": [
+      {
+        "tag": "input",
+        "name": "",
+        "type": "number",
+        "count": 4
+      },
+      {
+        "tag": "input",
+        "name": "",
+        "type": "range",
+        "count": 2
+      }
+    ],
+    "i18n": [],
+    "i18nKeys": [],
+    "i18nFiles": [],
+    "api": [],
+    "env": []
+  },
+  "contentContractHash": "2b2c360e987666c7549dc174f9c5c51d1896fc2169b9db9fc0ef3056ececea40"
+}
